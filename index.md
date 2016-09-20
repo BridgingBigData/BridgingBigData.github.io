@@ -18,3 +18,6 @@ Through our efforts we will:
 1. Solicit proposals from businesses/researchers to develop innovative applications that integrate disparate and voluminous data sources.  
 
 It is anticipated that this project’s findings will benefit the Midwest Big Data Hub transportation spoke and potentially inform similar activities for highways, buildings, power distribution networks and other civil infrastructure entities. Findings from this project will be promoted to national and international technical organizations, to directly impact workforce development, education and research programs. Combined, this project will make a direct impact on our country’s ability to efficiently maintain the health and safety of its bridges.
+
+## Members Only
+[Shared documents](https://unomaha.box.com/s/wsrwu2c4bley87zkhzrt5s1p7h06o5sf)
