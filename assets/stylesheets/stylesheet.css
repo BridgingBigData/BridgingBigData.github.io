@@ -92,6 +92,7 @@ a {
     font-size: 1.75rem; } }
 
 .project-tagline {
+  color: #D71920;
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7; }
