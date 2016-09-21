@@ -18,9 +18,9 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(0, 0, 0, 0.7);
-  background-color: rgba(0, 0, 0, 0.08);
-  border-color: rgba(0, 0, 0, 0.2);
+  color: rgba(215, 25, 32, 0.7);
+  background-color: rgba(215, 25, 32, 0.08);
+  border-color: rgba(215, 25, 32, 0.2);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -29,10 +29,10 @@ a {
     margin-left: 1rem; }
 
 .btn:hover {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(215, 25, 32, 0.8);
   text-decoration: none;
-  background-color: rgba(0, 0, 0, 0.2);
-  border-color: rgba(0, 0, 0, 0.3); }
+  background-color: rgba(215, 25, 32, 0.2);
+  border-color: rgba(215, 25, 32, 0.3); }
 
 @media screen and (min-width: 64em) {
   .btn {
@@ -54,7 +54,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #000000;
+  color: #D71920;
   text-align: center;
   background-color: #D71920;
   /* background-image: linear-gradient(120deg, #D71920, #8B0000); } */
