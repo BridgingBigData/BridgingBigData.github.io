@@ -5,8 +5,8 @@ description: Bridging Big Data Project site
 ---
 ## Sponsor
 ![NSF](http://www.nsf.gov/images/logos/nsf1.gif)  
-- NSF Award Number:1636805
-- Project Title: [BD Spokes: PLANNING: MIDWEST: Big Data Innovations for Bridge Health](http://nsf.gov/awardsearch/showAward?AWD_ID=1636805&HistoricalAwards=false)
+* NSF Award Number:1636805  
+* Project Title: [BD Spokes: PLANNING: MIDWEST: Big Data Innovations for Bridge Health](http://nsf.gov/awardsearch/showAward?AWD_ID=1636805&HistoricalAwards=false)
 
 ## Motivation
 Bridges across the U.S. continue to deteriorate at an alarming rate and the American Society of Civil Engineers estimate a cost of over $76 billion to improve the country’s functionally obsolete or structurally deficient bridges. This indicates a significant demand for innovative bridge health monitoring solutions that can strategically guide management, maintenance and replacement programs without risking public safety. Unfortunately, the need to improve how our bridges are managed and repaired or replaced faces similar issues and demands as the rest of the U.S. transportation network: continuously shrinking resources and governing bodies who do not have the necessary insights from bridge health data to find a workable solution.
