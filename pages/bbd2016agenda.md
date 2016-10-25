@@ -1,3 +1,9 @@
+---
+layout: default
+title: BBD2016 - Bridging Big Data
+description: Bridging Big Data Workshop
+---
+
 # Working Agenda BBD 2016  
 _Subject to Changes and Revisions_
 
