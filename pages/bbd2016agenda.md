@@ -66,7 +66,7 @@ Moderator:
 _Dan Linzell_  
 Panelists:       
 _Mark Traynowicz (NDOR State Bridge Engineer)  
-Steve Riehle (Hall County, Nebraska Engineer)  
+(Nebraska Engineer) (TBD)   
 (Union Pacific Railroad) (TBD)  
 (City Engineer) (TBD)_  
                                                                         
