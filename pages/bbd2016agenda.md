@@ -1,7 +1,7 @@
 ---
 layout: default
-title: BBD2016 - Bridging Big Data
-description: Bridging Big Data Workshop
+title: Agenda BBD 2016
+description: Agenda for Bridging Big Data Workshop
 ---
 
 # Working Agenda BBD 2016  
