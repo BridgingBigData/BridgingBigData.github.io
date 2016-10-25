@@ -73,40 +73,40 @@ Steve Riehle (Hall County, Nebraska Engineer)
 ## Lunch                                                                                                                                               
 **12:30 – 1:30 p.m.    
 Working Lunch with System Demos**
-- UAV demos (Non-contact condition assessment)
-- Bridge Health Monitoring
-- Modeling and Simulation
-- Transportation Safety
-- Data platforms
-- Bridge and Rail Sensors
+- UAV demos (Non-contact condition assessment)  
+- Bridge Health Monitoring  
+- Modeling and Simulation  
+- Transportation Safety  
+- Data platforms  
+- Bridge and Rail Sensors  
 
-**1:30 – 2:00 p.m.  
+**1:30 – 2:00 p.m.    
 Break**
 
 
 ## Group Working Sessions
 _Laptops or Tablets required_
 
-**2:00 – 3:30 p.m.    
-Facilitated Sessions**  
+**2:00 – 3:30 p.m.      
+Facilitated Sessions**    
 **Phase 1:   
-Data Collection, Sharing and Governance Strategies**  
-- Identification of Data sources 
-- Real-time sensing data
-- Data that is currently collected and how it is being used?
-- Motivations for Sharing
-- Policies for facilitation of Data Sharing
-- Common Schemas and standards for sharing Bridge health information
-- Quality of data
-- Managing assets
-- Inspection Data and areas of improvement, collection and discovery
+Data Collection, Sharing and Governance Strategies**    
+- Identification of Data sources   
+- Real-time sensing data  
+- Data that is currently collected and how it is being used?  
+- Motivations for Sharing  
+- Policies for facilitation of Data Sharing  
+- Common Schemas and standards for sharing Bridge health information  
+- Quality of data  
+- Managing assets  
+- Inspection Data and areas of improvement, collection and discovery  
 
 **Phase 2:   
 Data Analytics, Simulation and Visualization for Bridges** 
-- What are the desired outcomes? What questions do we want to ask from data?
-- What is currently being done?
-- Innovations needed
-- What are the key data items of interest for bridge maintenance
+- What are the desired outcomes? What questions do we want to ask from data?  
+- What is currently being done?  
+- Innovations needed  
+- What are the key data items of interest for bridge maintenance  
 - Better forecasting models for degradation            
        
 
