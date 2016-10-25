@@ -1,13 +1,111 @@
-# Agenda BBD 2016
-November 30th, Scott Conference Center
+# Working Agenda BBD 2016  
+_Subject to Changes and Revisions_
 
-# Theme
+## Date
+Wednesday, November 30th, 2016 
+
+### Registration
+**8:30 a.m.**   
+Speaker coffee   
+**8:30 a.m.**   
+Registration table open    
+
+### Opening
+**9:00 - 9:19 a.m.**        
+**Bridging Big Data Project Goals and Objectives**  
+Speakers:     
+_Robin Gandhi, Chungwook Sim, Brian Ricks,  
+Dan Linzell, Deepak Khazanchi_   
+
+**9:20 - 9:29 a.m.**             
+**Welcome Remarks**  
+Speakers:           
+_Hesham Ali (TBD)  
+Lance C. Pérez (TBD)_
+
+### Keynote 1
+**9:30 – 10:15 a.m.**        
+**Real-time sharing of Data in the Airline Industry**  
+Speaker:   
+_[Zoltan Rado](http://www.aviationsafetytechnologies.com/dr-zoltan-rado/)_  
+Moderator:   
+_Dan Linzell_  
+
+### Break
+**10:15 – 10:30 a.m.**      
+Networking Break (Coffee provided)
+
+### Keynote 2
+**10:30 – 11:15 a.m.   
+Open Data and Bridges: Reflections on Data Stewardship and Wide, Safety Critical Data**  
+Abstract:  
+_Twenty years ago Dr. Goggins was hanging off of railroad bridges and testing handheld bridge inspection software he was designing for a railroad bridge engineering firm. Fast forward to 2016 and 8 years of research examining open online community systems like Facebook, Twitter, Wikipedia, Github & others, there are similarities and differences that are vital to consider. Dr. Goggins outlines what he anticipates to be key policy and technical obstacles to the kind of open data sharing environment for bridge infrastructure that will be necessary to positively impact public safety._  
+Speaker:   
+_[Sean Goggins](https://education.missouri.edu/person/sean-goggins/) University of Missouri - Columbia_  
+Moderator:   
+_Robin Gandhi_                                 
+
+### Keynote 3
+**11:15 – 11:45 a.m.   
+Data sharing platforms and methods for Infrastructure**  
+Speakers:   
+_[Lucas Laughery (In-Person) and Santiago Pujol (Remotely)] Purdue University_ (TBD)   
+Moderator:  
+_Chungwook Sim_   
+
+### Panel
+**11:45 – 12:30 p.m.   
+Bridge Data Sharing Opportunities and Challenges from the Trenches**  
+Moderator:      
+_Dan Linzell_  
+Panelists:       
+_Mark Traynowicz (NDOR State Bridge Engineer)  
+Steve Riehle (Hall County, Nebraska Engineer)  
+Todd Wimmer (Union Pacific Railroad) (TBD)  
+Roger Figard (Lincoln City Engineer) (TBD)_  
+                                                                        
+## Lunch                                                                                                                                               
+**12:30 – 1:30 p.m.    
+Working Lunch with System Demos**
+- UAV demos (Non-contact condition assessment)
+- Bridge Health Monitoring
+- Modeling and Simulation
+- Transportation Safety
+- Data platforms
+- Bridge and Rail Sensors
+
+**1:30 – 2:00 p.m.  
+Break**
 
 
-## Keynotes
+## Group Working Sessions
+_Laptops or Tablets required_
 
+**2:00 – 3:30 p.m.    
+Facilitated Sessions**  
+**Phase 1:   
+Data Collection, Sharing and Governance Strategies**  
+- Identification of Data sources 
+- Real-time sensing data
+- Data that is currently collected and how it is being used?
+- Motivations for Sharing
+- Policies for facilitation of Data Sharing
+- Common Schemas and standards for sharing Bridge health information
+- Quality of data
+- Managing assets
+- Inspection Data and areas of improvement, collection and discovery
 
-## Break-outs
-### Private Sector Bridge Datasets
+**Phase 2:   
+Data Analytics, Simulation and Visualization for Bridges** 
+- What are the desired outcomes? What questions do we want to ask from data?
+- What is currently being done?
+- Innovations needed
+- What are the key data items of interest for bridge maintenance
+- Better forecasting models for degradation            
+       
 
-### Public Sector Bridge Datasets
+## Closing
+**3:30 – 4:00 p.m.  
+Breakout Reports  and Closure: Event Summary, Support Statements, Next Steps**   
+Moderator: 
+_Dan Linzell_
