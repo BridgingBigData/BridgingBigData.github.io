@@ -67,8 +67,8 @@ _Dan Linzell_
 Panelists:       
 _Mark Traynowicz (NDOR State Bridge Engineer)  
 Steve Riehle (Hall County, Nebraska Engineer)  
-Todd Wimmer (Union Pacific Railroad) (TBD)  
-Roger Figard (Lincoln City Engineer) (TBD)_  
+(Union Pacific Railroad) (TBD)  
+(City Engineer) (TBD)_  
                                                                         
 ## Lunch                                                                                                                                               
 **12:30 – 1:30 p.m.    
