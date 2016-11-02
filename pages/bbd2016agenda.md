@@ -66,8 +66,8 @@ Moderator:
 _Dan Linzell_  
 Panelists:       
 _Mark Traynowicz (NDOR State Bridge Engineer)  
-(Nebraska Engineer) (TBD)   
-(Union Pacific Railroad) (TBD)  
+(Nebraska County Engineer) (TBD)   
+(Railroad Engineer) (TBD)  
 (City Engineer) (TBD)_  
                                                                         
 ## Lunch                                                                                                                                               
