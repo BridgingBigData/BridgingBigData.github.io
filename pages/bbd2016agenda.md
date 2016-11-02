@@ -72,7 +72,7 @@ _Mark Traynowicz (NDOR State Bridge Engineer)
                                                                         
 ## Lunch                                                                                                                                               
 **12:30 – 1:30 p.m.    
-Working Lunch with System Demos**
+Working Lunch with System Demos**   
 - UAV demos (Non-contact condition assessment)  
 - Bridge Health Monitoring  
 - Modeling and Simulation  
@@ -90,7 +90,7 @@ _Laptops or Tablets required_
 **2:00 – 3:30 p.m.      
 Facilitated Sessions**    
 **Phase 1:   
-Data Collection, Sharing and Governance Strategies**    
+Data Collection, Sharing and Governance Strategies**      
 - Identification of Data sources   
 - Real-time sensing data  
 - Data that is currently collected and how it is being used?  
@@ -102,7 +102,7 @@ Data Collection, Sharing and Governance Strategies**
 - Inspection Data and areas of improvement, collection and discovery  
 
 **Phase 2:   
-Data Analytics, Simulation and Visualization for Bridges** 
+Data Analytics, Simulation and Visualization for Bridges**   
 - What are the desired outcomes? What questions do we want to ask from data?  
 - What is currently being done?  
 - Innovations needed  
