@@ -8,6 +8,12 @@ description: Bridging Big Data Project site
 NSF Award Number:1636805  
 Project Title: [BD Spokes: PLANNING: MIDWEST: Big Data Innovations for Bridge Health](http://nsf.gov/awardsearch/showAward?AWD_ID=1636805&HistoricalAwards=false)
 
+## Collaboration
+### University of Nebraska, Omaha
+![UNO](https://bridgingbigdata.github.io/assets/img/unomaha-o.png)
+### University of Nebraska-Lincoln
+![UNL](https://bridgingbigdata.github.io/assets/img/nebraska-n.jpg)  
+
 ## News and Events
 **November 30th, 2016:**  
 _[Bridging Big Data Workshop (BBD 2016)](https://bridgingbigdata.github.io/pages/bbd2016.html)_  
