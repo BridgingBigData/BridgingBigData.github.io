@@ -70,8 +70,10 @@ _Mark Traynowicz (NDOR State Bridge Engineer)
 (Railroad Engineer) (TBD)  
 (City Engineer) (TBD)_  
                                                                         
-## Lunch                                                                                                                                               
-**12:30 – 1:30 p.m.    
+### Lunch Keynote (Starts at 12:45 p.m)                                                                                                                                               
+**12:30 – 1:30 p.m.   
+
+**1:30 – 2:30 p.m.    
 Working Lunch with System Demos**   
 - UAV demos (Non-contact condition assessment)  
 - Bridge Health Monitoring  
@@ -80,14 +82,10 @@ Working Lunch with System Demos**
 - Data platforms  
 - Bridge and Rail Sensors  
 
-**1:30 – 2:00 p.m.    
-Break**
-
-
 ## Group Working Sessions
 _Laptops or Tablets required_
 
-**2:00 – 3:30 p.m.      
+**2:30 – 3:30 p.m.      
 Facilitated Sessions**    
 **Phase 1:   
 Data Collection, Sharing and Governance Strategies**      
