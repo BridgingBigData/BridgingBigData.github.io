@@ -55,7 +55,7 @@ _Robin Gandhi_
 **11:15 – 11:45 a.m.   
 Data sharing platforms and methods for Infrastructure**  
 Speakers:   
-_[Lucas Laughery (In-Person) and Santiago Pujol (Remotely)] Purdue University_ (TBD)   
+_[Lucas Laughery (In-Person) and Santiago Pujol (Remotely)] Purdue University_   
 Moderator:  
 _Chungwook Sim_   
 
@@ -74,7 +74,7 @@ _Mark Traynowicz (NDOR State Bridge Engineer)
 **12:30 – 1:30 p.m., Keynote starts at 12:45 p.m.   
 City of Chicago - Open Data Portal and Advanced Analytics**    
 Speaker:   
-_Tom Schenk - Chief Data Officer, City of Chicago_ (TBD)   
+_[Tom Schenk](http://tomschenkjr.net) - Chief Data Officer, City of Chicago_
 Moderator:  
 _Robin Gandhi_  
 
