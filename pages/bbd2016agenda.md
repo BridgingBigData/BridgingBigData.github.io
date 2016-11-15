@@ -70,11 +70,13 @@ _Mark Traynowicz (NDOR State Bridge Engineer)
 (Railroad Engineer) (TBD)  
 (City Engineer) (TBD)_  
                                                                         
-### Lunch and Keynote 4
+### Lunch and Keynote 4  
 **12:30 – 1:30 p.m., Keynote starts at 12:45 p.m.   
-City of Chicago - Open Data Portal and Advanced Analytics**    
-Speaker:   
-_[Tom Schenk](http://tomschenkjr.net) - Chief Data Officer, City of Chicago_
+Chicago: City of Big Data**     
+Speaker:    
+_[Tom Schenk](http://tomschenkjr.net) - Chief Data Officer, City of Chicago_  
+Abstract:  
+This presentation will provide a contemporary account of how Chicago has incorporated more data-driven practices into its daily operations. Beginning with transparency through the open data portal, Chicago has also incorporated predictive analytics to allocate inspectors and new technologies such as IoT and new scanning technology to collect more data.  
 Moderator:  
 _Robin Gandhi_  
 
