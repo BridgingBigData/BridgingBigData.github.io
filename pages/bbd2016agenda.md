@@ -67,8 +67,8 @@ Moderator:
 _Dan Linzell_  
 Panelists:       
 _Mark Traynowicz (NDOR State Bridge Engineer)    
-Kevin P. Rice, Structural Engineer, Union Pacific 
-Zach Becker, P.E., Design & Construction Engineer, City of Lincoln - Engineering Services
+Kevin P. Rice, Structural Engineer, Union Pacific  
+Zach Becker, P.E., Design & Construction Engineer, City of Lincoln - Engineering Services  
 (Nebraska County Engineer) (TBD)_  
                                                                         
 ### Lunch and Keynote 4  
