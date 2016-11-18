@@ -14,20 +14,20 @@ Wednesday, November 30th, 2016
 **8:30 a.m.**   
 Speaker coffee   
 **8:30 a.m.**   
-Registration table open    
+Registration table open  
 
-### Opening
-**9:00 - 9:19 a.m.**        
-**Bridging Big Data Project Goals and Objectives**  
-Speakers:     
-_Robin Gandhi, Chungwook Sim, Brian Ricks,  
-Dan Linzell, Deepak Khazanchi_   
-
-**9:20 - 9:29 a.m.**             
+**9:00 - 9:10 a.m.**             
 **Welcome Remarks**  
 Speakers:           
 _Hesham Ali (TBD)  
 Lance C. Pérez (TBD)_
+
+### Opening
+**9:10 - 9:30 a.m.**        
+**Bridging Big Data Project Goals and Objectives**  
+Speakers:     
+_Robin Gandhi, Chungwook Sim, Brian Ricks,  
+Dan Linzell, Deepak Khazanchi_   
 
 ### Keynote 1
 **9:30 – 10:15 a.m.**        
