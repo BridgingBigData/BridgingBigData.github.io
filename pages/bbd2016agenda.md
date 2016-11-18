@@ -66,10 +66,10 @@ Bridge Data Sharing Opportunities and Challenges from the Trenches**
 Moderator:      
 _Dan Linzell_  
 Panelists:       
-_Mark Traynowicz (NDOR State Bridge Engineer)  
-(Nebraska County Engineer) (TBD)   
-(Railroad Engineer) (TBD)  
-(City Engineer) (TBD)_  
+_Mark Traynowicz (NDOR State Bridge Engineer)    
+Kevin P. Rice, Structural Engineer, Union Pacific 
+Zach Becker, P.E., Design & Construction Engineer, City of Lincoln - Engineering Services
+(Nebraska County Engineer) (TBD) _  
                                                                         
 ### Lunch and Keynote 4  
 **12:30 – 1:30 p.m., Keynote starts at 12:45 p.m.   
