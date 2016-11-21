@@ -94,11 +94,11 @@ _Robin Gandhi_
 
 ### Facilitated Working Session
 
-_**Laptops required**_
-**2:30 – 3:30 p.m.** 
-**Brainstorming:**
-1. What are the challenges with sharing Bridge health data? 
-2. How can standardization be accomplished for sharing Bridge health data? 
+_**Laptops required**_  
+**2:30 – 3:30 p.m.**   
+**Brainstorming:**  
+1. What are the challenges with sharing Bridge health data?   
+2. How can standardization be accomplished for sharing Bridge health data?  
 3. What benefits could result from sharing Bridge health data?       
 
 ### Closing
