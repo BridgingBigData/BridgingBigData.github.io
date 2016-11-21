@@ -4,25 +4,27 @@ title: Agenda BBD 2016
 description: Agenda for Bridging Big Data Workshop
 ---
 
-# Working Agenda BBD 2016  
-_Subject to Changes and Revisions_
+# BBD 2016  
 
 ## Date
 Wednesday, November 30th, 2016 
 
+## Duration  
+8:30 A.M. to 4:00 P.M.
+
+## Agenda
+
 ### Registration
 **8:30 a.m.**   
-Speaker coffee   
-**8:30 a.m.**   
-Registration table open  
+- Breakfast and coffee available      
+- Registration table open  
 
 ### Opening
 
 **9:00 - 9:10 a.m.**             
 **Welcome Remarks**  
 Speakers:           
-_Hesham Ali (TBD)  
-Lance C. Pérez (TBD)_
+_Hesham Ali, Dean of The College of Information Science and Technology, UNO_
 
 **9:10 - 9:30 a.m.**        
 **Bridging Big Data Project Goals and Objectives**  
@@ -90,31 +92,14 @@ _Robin Gandhi_
 - Data platforms  
 - Bridge and Rail Sensors  
 
-### Group Working Sessions
-_Laptops or Tablets required_
+### Facilitated Working Session
 
-**2:30 – 3:30 p.m.      
-Facilitated Sessions**    
-**Phase 1:   
-Data Collection, Sharing and Governance Strategies**      
-- Identification of Data sources   
-- Real-time sensing data  
-- Data that is currently collected and how it is being used?  
-- Motivations for Sharing  
-- Policies for facilitation of Data Sharing  
-- Common Schemas and standards for sharing Bridge health information  
-- Quality of data  
-- Managing assets  
-- Inspection Data and areas of improvement, collection and discovery  
-
-**Phase 2:   
-Data Analytics, Simulation and Visualization for Bridges**   
-- What are the desired outcomes? What questions do we want to ask from data?  
-- What is currently being done?  
-- Innovations needed  
-- What are the key data items of interest for bridge maintenance  
-- Better forecasting models for degradation            
-       
+_**Laptops required**_
+**2:30 – 3:30 p.m.** 
+**Brainstorming:**
+1. What are the challenges with sharing Bridge health data? 
+2. How can standardization be accomplished for sharing Bridge health data? 
+3. What benefits could result from sharing Bridge health data?       
 
 ### Closing
 **3:30 – 4:00 p.m.  
