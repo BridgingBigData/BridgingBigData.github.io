@@ -16,7 +16,7 @@ Wednesday, November 30th, 2016
 
 ### Registration
 **8:30 a.m.**   
-- Breakfast and coffee available      
+- **Breakfast and coffee available**      
 - Registration table open  
 
 ### Opening
