@@ -84,18 +84,25 @@ Moderator:
 _Robin Gandhi_  
 
 ### System Demos
-**1:30 – 2:30 p.m.**   
-- UAV demos (Non-contact condition assessment)  
-- Bridge Health Monitoring  
-- Modeling and Simulation  
-- Transportation Safety  
-- Data platforms  
-- Bridge and Rail Sensors  
+**1:30 – 2:00 p.m.**   
+- UAV demos  
+Autonomous Drone Navigation: _[Raj Dasgupta](https://sites.google.com/site/prithvirajdasgupta/)_  
+Non-contact condition assessment using Drones: _(TBD)_    
+- Bridge Health Monitoring and Maintenance: _Dan Linzell and Ahmed_  
+- Autonomous Crack Detection System: _Chungwook Sim_  
+- Modeling and Simulation: _Brian Ricks_  
+- Analyzing NBI Inspection Data: _Brian Ricks and Robin Gandhi_  
+- Data platforms: _Lucas Laughery and Chungwook Sim_     
 
-### Facilitated Working Session
 
-_**Laptops required**_  
-**2:30 – 3:30 p.m.**   
+### Break
+**2:00 – 2:15 p.m.**  
+
+### Facilitated Working Session    
+Faciliated by [Dr. Lynn Harland](http://www.unomaha.edu/college-of-business-administration/college-profile-and-directory/harland-lynn.php), Associate Dean and Professor of Business Administration, Marketing and Management  
+
+_**Laptops required (Wireless network access will be available and needed)**_  
+**2:15 – 3:30 p.m.**   
 **Brainstorming:**  
 1. What are the challenges with sharing Bridge health data?   
 2. How can standardization be accomplished for sharing Bridge health data?  
