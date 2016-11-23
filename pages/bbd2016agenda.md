@@ -98,11 +98,12 @@ Non-contact condition assessment using Drones: _(TBD)_
 ### Break
 **2:00 – 2:15 p.m.**  
 
-### Facilitated Working Session    
+### Facilitated Working Session 
+**2:15 – 3:30 p.m.**   
 Faciliated by [Dr. Lynn Harland](http://www.unomaha.edu/college-of-business-administration/college-profile-and-directory/harland-lynn.php), Associate Dean and Professor of Business Administration, Marketing and Management  
 
 _**Laptops required (Wireless network access will be available and needed)**_  
-**2:15 – 3:30 p.m.**   
+
 **Brainstorming:**  
 1. What are the challenges with sharing Bridge health data?   
 2. How can standardization be accomplished for sharing Bridge health data?  
