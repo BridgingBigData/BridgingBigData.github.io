@@ -88,7 +88,7 @@ _Robin Gandhi_
 - UAV demos  
 Autonomous Drone Navigation: _[Raj Dasgupta](https://sites.google.com/site/prithvirajdasgupta/)_  
 Non-contact condition assessment using Drones: _(TBD)_    
-- Bridge Health Monitoring and Maintenance: _Dan Linzell and Ahmed_  
+- Bridge Health Monitoring and Maintenance System: _Dan Linzell and Ahmed_  
 - Autonomous Crack Detection System: _Chungwook Sim_  
 - Modeling and Simulation: _Brian Ricks_  
 - Analyzing NBI Inspection Data: _Brian Ricks and Robin Gandhi_  
