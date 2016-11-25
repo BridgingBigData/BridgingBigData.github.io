@@ -62,7 +62,8 @@ Managing Bridge Data using DataHub**
 Abstract:  
 _The National Bridge Inventory (NBI) brings together data from hundreds of thousands of bridges nationwide in a compact format. But these data are just a fraction of what state DOTs collect each year. Inspectors make observations, fill out forms, collect photographs, run calculations, and ultimately write reports for thousands of bridges per year. The data collections they produce are managed at the state level, disconnected from the NBI summary data. DataHub (datacenterhub.org) offers an easy way of organizing files from bridge inspections, connecting these file collections to bridge characteristics like those in the NBI, and sharing these data. In doing so, it can make it easier for bridge owners to manage their data and for researchers to study bridge health._  
 Speakers:   
-_[Lucas Laughery (In-Person) and Santiago Pujol (Remotely)] Purdue University_   
+_[Lucas Laughery](https://bridgingbigdata.github.io/pages/bio.html#lucas-laughery), Purdue University (In-Person)      
+[Santiago Pujol](https://bridgingbigdata.github.io/pages/bio.html#santiago-pujol), Purdue University (Remotely)_   
 Moderator:  
 _Chungwook Sim_   
 
