@@ -35,6 +35,8 @@ Dan Linzell, Deepak Khazanchi_
 ### Keynote 1
 **9:30 – 10:15 a.m.**        
 **Real-time sharing of Data in the Airline Industry**  
+Abstract:  
+_Big data is usually associated with large NO-SQL, column based databases, pure data science and machine learning.  As the internet of things (IoT) is proliferated more and more into transportation infrastructure and vehicles include ever-increasing number of sensors, computational intelligence with communication, and IoT capabilities Big Data is moving rapidly into the transportation related fields.  It is usually forgotten that Big Data is not only identified by large volume high speed data but alternatively, and this is the case in the transportation related big data field, by highly complex data from a large variety of sources.  Smaller volume but complex data with larger data source variety pose challenges in the application of Big Data techniques.  These challanges require in addition to, or in many cases instead of, pure data science and machine learning, the elaborate use of physical/engineering subject matter knowledge to unlock the potentials of Big Data applications. This presentation will illustrate in details using a real life commercial application the use of vehicle and infrastructure knowledge in a Big Data application that uses commercial revenue passenger aircrafts in assessing runway conditions real time and monetizing the collected and analyzed data._  
 Speaker:   
 _[Zoltan Rado](http://www.aviationsafetytechnologies.com/dr-zoltan-rado/)_  
 Moderator:   
