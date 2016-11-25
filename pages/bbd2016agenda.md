@@ -56,7 +56,9 @@ _Robin Gandhi_
 
 ### Keynote 3
 **11:15 – 11:45 a.m.   
-Data sharing platforms and methods for Infrastructure**  
+Managing Bridge Data using DataHub**  
+Abstract:  
+_The National Bridge Inventory (NBI) brings together data from hundreds of thousands of bridges nationwide in a compact format. But these data are just a fraction of what state DOTs collect each year. Inspectors make observations, fill out forms, collect photographs, run calculations, and ultimately write reports for thousands of bridges per year. The data collections they produce are managed at the state level, disconnected from the NBI summary data. DataHub (datacenterhub.org) offers an easy way of organizing files from bridge inspections, connecting these file collections to bridge characteristics like those in the NBI, and sharing these data. In doing so, it can make it easier for bridge owners to manage their data and for researchers to study bridge health._  
 Speakers:   
 _[Lucas Laughery (In-Person) and Santiago Pujol (Remotely)] Purdue University_   
 Moderator:  
@@ -88,9 +90,10 @@ _Robin Gandhi_
 - UAV demos  
 Autonomous Drone Navigation: _[Raj Dasgupta](https://sites.google.com/site/prithvirajdasgupta/)_  
 Non-contact condition assessment using Drones: _(TBD)_    
-- Bridge Health Monitoring and Maintenance System: _Dan Linzell and Ahmed_  
+- Bridge Health Monitoring and Maintenance System: _Dan Linzell and Ahmed Rageh_  
 - Autonomous Crack Detection System: _Chungwook Sim_  
-- Modeling and Simulation: _Brian Ricks_  
+- Automated Acoustic Scanning Technique for Bridge Deck Evaluation: _Hongbin Sun_  
+- Modeling and Simulation: _Brian Ricks_    
 - Analyzing NBI Inspection Data: _Brian Ricks and Robin Gandhi_  
 - Data platforms: _Lucas Laughery and Chungwook Sim_     
 
