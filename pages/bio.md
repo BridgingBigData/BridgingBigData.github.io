@@ -4,6 +4,8 @@ title: Speaker bios BBD 2016
 description: Speaker Bios for Bridging Big Data Workshop
 ---
 
+# BBD 2016 Speaker Bios
+
 ### Mark Traynowicz
 **State Bridge Engineer, Nebraska Department of Roads**  
 Mark received his Civil Engineering degree from the University of Nebraska.  His career with the Department includes experience in bridge design, geotechnical engineering, research program, and construction management.  He has been in his current position for 8 years.  Mark has two sons, and enjoys fishing and attending Husker sporting events.
