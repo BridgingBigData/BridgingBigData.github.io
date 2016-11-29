@@ -75,7 +75,7 @@ _Dan Linzell_
 Panelists:       
 _[Mark Traynowicz](https://bridgingbigdata.github.io/pages/bio.html#mark-traynowicz) (NDOR State Bridge Engineer)    
 Kevin P. Rice, Structural Engineer, Union Pacific  
-Zach Becker, P.E., Design & Construction Engineer, City of Lincoln - Engineering Services  
+[Zach Becker](https://bridgingbigdata.github.io/pages/bio.html#zach-becker), P.E., Design & Construction Engineer, City of Lincoln - Engineering Services  
 Pamela L. Dingman, County Engineer for Lancaster County, NE_  
                                                                         
 ### Lunch and Keynote 4  
