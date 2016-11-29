@@ -24,7 +24,8 @@ Wednesday, November 30th, 2016
 **9:00 - 9:10 a.m.**             
 **Welcome Remarks**  
 Speakers:           
-_Hesham Ali, Dean of The College of Information Science and Technology, UNO_
+_Hesham Ali, Dean of The College of Information Science and Technology, UNO
+Dan Linzell on behalf of Lance Perez, Dean of The College of Engineering, UNL_
 
 **9:10 - 9:30 a.m.**        
 **Bridging Big Data Project Goals and Objectives**  
@@ -73,7 +74,7 @@ Bridge Data Sharing Opportunities and Challenges from the Trenches**
 Moderator:      
 _Dan Linzell_  
 Panelists:       
-_[Mark Traynowicz](https://bridgingbigdata.github.io/pages/bio.html#mark-traynowicz) (NDOR State Bridge Engineer)    
+_[Mark Traynowicz](https://bridgingbigdata.github.io/pages/bio.html#mark-traynowicz), NDOR State Bridge Engineer      
 Kevin P. Rice, Structural Engineer, Union Pacific  
 [Zach Becker](https://bridgingbigdata.github.io/pages/bio.html#zach-becker), P.E., Design & Construction Engineer, City of Lincoln - Engineering Services  
 Pamela L. Dingman, County Engineer for Lancaster County, NE_  
@@ -90,9 +91,7 @@ _Robin Gandhi_
 
 ### System Demos
 **1:30 – 2:00 p.m.**   
-- UAV demos  
-Autonomous Drone Navigation: _[Raj Dasgupta](https://sites.google.com/site/prithvirajdasgupta/)_  
-Non-contact condition assessment using Drones: _(TBD)_    
+- Autonomous Drone Navigation: _[Raj Dasgupta](https://sites.google.com/site/prithvirajdasgupta/)_      
 - Bridge Health Monitoring and Maintenance System: _Dan Linzell and Ahmed Rageh_  
 - Autonomous Crack Detection System: _Chungwook Sim_  
 - Automated Acoustic Scanning Technique for Bridge Deck Evaluation: _Hongbin Sun_  
@@ -106,7 +105,7 @@ Non-contact condition assessment using Drones: _(TBD)_
 
 ### Facilitated Working Session 
 **2:15 – 3:30 p.m.**   
-Faciliated by [Dr. Lynn Harland](http://www.unomaha.edu/college-of-business-administration/college-profile-and-directory/harland-lynn.php), Associate Dean and Professor of Business Administration, Marketing and Management  
+Faciliated by _[Lynn Harland](http://www.unomaha.edu/college-of-business-administration/college-profile-and-directory/harland-lynn.php), Associate Dean and Professor of Business Administration, Marketing and Management_  
 
 _**Laptops required (Wireless network access will be available and needed)**_  
 
