@@ -24,8 +24,8 @@ Wednesday, November 30th, 2016
 **9:00 - 9:10 a.m.**             
 **Welcome Remarks**  
 Speakers:           
-_Hesham Ali, Dean of The College of Information Science and Technology, UNO
-Dan Linzell on behalf of Lance Perez, Dean of The College of Engineering, UNL_
+_[Hesham Ali](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/hesham-ali.php), Dean of The College of Information Science and Technology, UNO  
+Dan Linzell on behalf of [Lance Perez](http://engineering.unl.edu/ece/faculty/lance-c-pérez), Dean of The College of Engineering, UNL_
 
 **9:10 - 9:30 a.m.**        
 **Bridging Big Data Project Goals and Objectives**  
