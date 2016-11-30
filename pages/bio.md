@@ -7,7 +7,7 @@ description: Speaker Bios for Bridging Big Data Workshop
 # BBD 2016 Speaker Bios
 
 ### Kevin Rice
-**Director of Union Pacific Railroad’s Maintenance of Way – Environmental**
+**Director of Union Pacific Railroad’s Maintenance of Way – Environmental**  
 Kevin Rice is the Director of Union Pacific Railroad’s Maintenance of Way – Environmental and formerly the Senior Manager Structures Design for Union Pacific Railroad’s Southern Region. In Kevin’s different roles at the Railroad, he has been involved in maintaining the health of Union Pacific’s vast infrastructure system wide through collaboration with inspection, maintenance, construction and design groups. Kevin has more than 14 years of experience in the railroad bridge engineering industry. Kevin holds bachelor’s degrees in both Civil Engineering and Biology from the University of Nebraska and is a registered Professional Civil Engineer.
 
 ### Mark Traynowicz
