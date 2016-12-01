@@ -27,11 +27,17 @@ Speakers:
 _[Hesham Ali](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/hesham-ali.php), Dean of The College of Information Science and Technology, UNO  
 Dan Linzell on behalf of [Lance Perez](http://engineering.unl.edu/ece/faculty/lance-c-pérez), Dean of The College of Engineering, UNL_
 
-**9:10 - 9:30 a.m.**        
+**9:10 - 9:25 a.m.**        
 **Bridging Big Data Project Goals and Objectives**  
 Speakers:     
 _Robin Gandhi, Chungwook Sim, Brian Ricks,  
 Dan Linzell, Deepak Khazanchi_   
+
+**9:25 - 9:30 a.m.**        
+**Midwest Big Data Hub: Accelerating the Big Data Innovation Ecosystem**  
+Speakers:     
+_[Melissa Cragin](https://www.linkedin.com/in/melissa-cragin-90365a36), Executive Director of MBDH_  
+
 
 ### Keynote 1
 **9:30 – 10:15 a.m.**        
