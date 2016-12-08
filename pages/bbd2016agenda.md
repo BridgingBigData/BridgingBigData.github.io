@@ -29,12 +29,14 @@ Dan Linzell on behalf of [Lance Perez](http://engineering.unl.edu/ece/faculty/la
 
 **9:10 - 9:25 a.m.**        
 **Bridging Big Data Project Goals and Objectives**  
-Speakers:     
+**[Slides](https://bridgingbigdata.github.io/pages/Opening%20Presentation.pdf)**  
+Speakers:     
 _Robin Gandhi, Chungwook Sim, Brian Ricks,  
 Dan Linzell, Deepak Khazanchi_   
 
 **9:25 - 9:30 a.m.**        
 **Midwest Big Data Hub: Accelerating the Big Data Innovation Ecosystem**  
+**[Slides](https://bridgingbigdata.github.io/pages/Cragin_short_201612.pdf)**  
 Speakers:     
 _[Melissa Cragin](https://www.linkedin.com/in/melissa-cragin-90365a36), Executive Director of MBDH_  
 
@@ -66,6 +68,7 @@ _Robin Gandhi_
 ### Keynote 3
 **11:15 – 11:45 a.m.   
 Managing Bridge Data using DataHub**  
+**[Slides](https://bridgingbigdata.github.io/pages/Bridging%20Big%20Data3.pdf)**  
 Abstract:  
 _The National Bridge Inventory (NBI) brings together data from hundreds of thousands of bridges nationwide in a compact format. But these data are just a fraction of what state DOTs collect each year. Inspectors make observations, fill out forms, collect photographs, run calculations, and ultimately write reports for thousands of bridges per year. The data collections they produce are managed at the state level, disconnected from the NBI summary data. [DataHub](http://datacenterhub.org) offers an easy way of organizing files from bridge inspections, connecting these file collections to bridge characteristics like those in the NBI, and sharing these data. In doing so, it can make it easier for bridge owners to manage their data and for researchers to study bridge health._  
 Speakers:   
@@ -87,7 +90,8 @@ Pamela L. Dingman, County Engineer for Lancaster County, NE_
                                                                         
 ### Lunch and Keynote 4  
 **12:30 – 1:30 p.m., Keynote starts at 12:45 p.m.   
-Chicago: City of Big Data**     
+Chicago: City of Big Data**   
+**[Slides](https://bridgingbigdata.github.io/pages/City%20of%20Big%20Data.pdf)**  
 Speaker:    
 _[Tom Schenk](http://tomschenkjr.net) - Chief Data Officer, City of Chicago_  
 Abstract:  
@@ -116,9 +120,9 @@ Faciliated by _[Lynn Harland](http://www.unomaha.edu/college-of-business-adminis
 _**Laptops required (Wireless network access will be available and needed)**_  
 
 **Brainstorming:**  
-1. What are the challenges with sharing Bridge health data?   
-2. How can standardization be accomplished for sharing Bridge health data?  
-3. What benefits could result from sharing Bridge health data?       
+1. What are the challenges with sharing Bridge health data? **[Results](https://bridgingbigdata.github.io/pages/Challenges%20with%20Sharing.pdf)**    
+2. How can standardization be accomplished for sharing Bridge health data?  **[Results](https://bridgingbigdata.github.io/pages/Standardization%20of%20Bridge%20Datasets.pdf)**   
+3. What benefits could result from sharing Bridge health data?   **[Results](https://bridgingbigdata.github.io/pages/Benefits%20of%20Sharing.pdf)**       
 
 ### Closing
 **3:30 – 4:00 p.m.  
