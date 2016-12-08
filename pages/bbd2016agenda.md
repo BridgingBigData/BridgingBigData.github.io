@@ -4,10 +4,12 @@ title: Agenda BBD 2016
 description: Agenda for Bridging Big Data Workshop
 ---
 
-# BBD 2016  
+# BBD 2016
+
+## [Pictures from the Workshop](https://bridgingbigdata.github.io/pages/bbd2016pictures.html)
 
 ## Date
-Wednesday, November 30th, 2016 
+Wednesday, November 30th, 2016
 
 ## Duration  
 8:30 A.M. to 4:00 P.M.
@@ -30,7 +32,7 @@ Dan Linzell on behalf of [Lance Perez](http://engineering.unl.edu/ece/faculty/la
 **9:10 - 9:25 a.m.**        
 **Bridging Big Data Project Goals and Objectives**  
 **[Slides](https://bridgingbigdata.github.io/pages/Opening%20Presentation.pdf)**  
-Speakers:     
+Speakers:    
 _Robin Gandhi, Chungwook Sim, Brian Ricks,  
 Dan Linzell, Deepak Khazanchi_   
 
@@ -61,7 +63,7 @@ Open Data and Bridges: Reflections on Data Stewardship and Wide, Safety Critical
 Abstract:  
 _Twenty years ago Dr. Goggins was hanging off of railroad bridges and testing handheld bridge inspection software he was designing for a railroad bridge engineering firm. Fast forward to 2016 and 8 years of research examining open online community systems like Facebook, Twitter, Wikipedia, Github & others, there are similarities and differences that are vital to consider. Dr. Goggins outlines what he anticipates to be key policy and technical obstacles to the kind of open data sharing environment for bridge infrastructure that will be necessary to positively impact public safety._  
 Speaker:   
-_[Sean Goggins](https://education.missouri.edu/person/sean-goggins/) University of Missouri - Columbia_  
+_[Sean Goggins](http://www.seangoggins.net) University of Missouri - Columbia_  
 Moderator:   
 _Robin Gandhi_                                 
 
@@ -87,7 +89,7 @@ _[Mark Traynowicz](https://bridgingbigdata.github.io/pages/bio.html#mark-traynow
 [Kevin P. Rice](https://bridgingbigdata.github.io/pages/bio.html#kevin-rice), Structural Engineer, Union Pacific  
 [Zach Becker](https://bridgingbigdata.github.io/pages/bio.html#zach-becker), P.E., Design & Construction Engineer, City of Lincoln - Engineering Services  
 Pamela L. Dingman, County Engineer for Lancaster County, NE_  
-                                                                        
+
 ### Lunch and Keynote 4  
 **12:30 – 1:30 p.m., Keynote starts at 12:45 p.m.   
 Chicago: City of Big Data**   
@@ -113,7 +115,7 @@ _Robin Gandhi_
 ### Break
 **2:00 – 2:15 p.m.**  
 
-### Facilitated Working Session 
+### Facilitated Working Session
 **2:15 – 3:30 p.m.**   
 Faciliated by _[Lynn Harland](http://www.unomaha.edu/college-of-business-administration/college-profile-and-directory/harland-lynn.php), Associate Dean and Professor of Business Administration, Marketing and Management_  
 
@@ -127,5 +129,5 @@ _**Laptops required (Wireless network access will be available and needed)**_
 ### Closing
 **3:30 – 4:00 p.m.  
 Breakout Reports  and Closure: Event Summary, Support Statements, Next Steps**   
-Moderator: 
+Moderator:
 _Dan Linzell_
