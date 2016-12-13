@@ -6,8 +6,6 @@ description: Agenda for Bridging Big Data Workshop
 
 # BBD 2016
 
-## [Pictures from the Workshop](https://bridgingbigdata.github.io/pages/bbd2016pictures.html)
-
 ## Date
 Wednesday, November 30th, 2016
 
