@@ -1,6 +1,6 @@
 ---
 layout: default
-title: People - Bridging Big Data
+title: Partners - Bridging Big Data
 description: Bridging Big Data People
 ---
 
