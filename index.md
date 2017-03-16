@@ -9,6 +9,11 @@ NSF Award Number:1636805
 Project Title: [BD Spokes: PLANNING: MIDWEST: Big Data Innovations for Bridge Health](http://nsf.gov/awardsearch/showAward?AWD_ID=1636805&HistoricalAwards=false)
 
 ## News and Events
+
+**Save the Date: October 4th, 2017:**  
+_Bridging Big Data Workshop (BBD 2017)_Omaha, NE
+More details coming soon!
+
 **November 30th, 2016:**  
 _[Bridging Big Data Workshop (BBD 2016)](https://bridgingbigdata.github.io/pages/bbd2016.html)_  
 Omaha, NE
