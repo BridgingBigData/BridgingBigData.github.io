@@ -11,7 +11,8 @@ Project Title: [BD Spokes: PLANNING: MIDWEST: Big Data Innovations for Bridge He
 ## News and Events
 
 **Save the Date: October 4th, 2017:**  
-_Bridging Big Data Workshop (BBD 2017)_ Omaha, NE
+_Bridging Big Data Workshop (BBD 2017)_   
+Omaha, NE  
 More details coming soon!
 
 **November 30th, 2016:**  
