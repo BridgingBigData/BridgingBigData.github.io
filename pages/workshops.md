@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Previous Workshop - Bridging Big Data
+title: Workshops - Bridging Big Data
 description: Bridging Big Data Workshops
 ---
 # Upcoming Workshops
