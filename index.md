@@ -11,13 +11,12 @@ Project Title: [BD Spokes: PLANNING: MIDWEST: Big Data Innovations for Bridge He
 ## News and Events
 
 **Save the Date: October 4th, 2017:**  
-_Bridging Big Data Workshop (BBD 2017)_   
+_[Bridging Big Data Workshop (BBD 2017)](https://bridgingbigdata.github.io/pages/bbd2017.html)_   
 Omaha, NE  
-More details coming soon!
 
-**November 30th, 2016:**  
+**Previous Workshop**  
 _[Bridging Big Data Workshop (BBD 2016)](https://bridgingbigdata.github.io/pages/bbd2016.html)_  
-Omaha, NE
+Omaha, NE. This workshop was held on November 30th, 2016.
 
 ## Motivation
 Bridges across the U.S. continue to deteriorate at an alarming rate and the American Society of Civil Engineers estimate a cost of over $76 billion to improve the country’s functionally obsolete or structurally deficient bridges. This indicates a significant demand for innovative bridge health monitoring solutions that can strategically guide management, maintenance and replacement programs without risking public safety. Unfortunately, the need to improve how our bridges are managed and repaired or replaced faces similar issues and demands as the rest of the U.S. transportation network: continuously shrinking resources and governing bodies who do not have the necessary insights from bridge health data to find a workable solution.
@@ -36,4 +35,3 @@ It is anticipated that this project’s findings will benefit the Midwest Big Da
 
 ## Members Only
 [Shared documents](https://unomaha.box.com/s/wsrwu2c4bley87zkhzrt5s1p7h06o5sf)
-
