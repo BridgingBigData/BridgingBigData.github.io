@@ -83,9 +83,9 @@ Facilitated by:
 _**Laptops required (Wireless network access will be available and needed)**_  
 
 **Brainstorming:**  
-1. What are the challenges with sharing Bridge health data?  
-2. How can standardization be accomplished for sharing Bridge health data?  
-3. What benefits could result from sharing Bridge health data?  
+1. What are the challenges with ~~XXX~~?  
+2. How can standardization be accomplished for ~~XXX~~?  
+3. What benefits could result from ~~XXX~~?  
 
 ### UAV/UAS for Infrastructure Monitoring Session
 **3:30 – 4:55 p.m.**   
