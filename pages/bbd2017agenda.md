@@ -21,80 +21,61 @@ Wednesday, October 4th, 2017
 
 ### Opening
 
-**9:00 - 9:10 a.m.**             
+**8:30 - 8:45 a.m.**             
 **Welcome Remarks**  
 Speakers:  
 
-**9:10 - 9:25 a.m.**        
+# Project Keynote
+** 8:45 to 9:30 Mins.**    
 **Bridging Big Data Project Results and the Path Forward**  
 Speakers:    
 _Robin Gandhi, Chungwook Sim, Brian Ricks,  
 Dan Linzell, Deepak Khazanchi_   
 
+### Break
+**9:30 – 9:45 a.m.**      
+Networking Break (Coffee provided, and snacks)
 
-### Keynote 1
-**9:30 – 10:15 a.m.**        
+### Facilitated session and have them pool the results together. Build groups and then they participate in the group session activity. 1 scribe for each table. 
+** 9:45 to 11:15 **       
 Title:   
 Abstract:   
 Speaker:   
 Moderator:  
 
-### Break
-**10:15 – 10:30 a.m.**      
-Networking Break (Coffee provided)
+### Lunch with System Demos,  11:15 to Noon
 
-### Keynote 2
-**10:30 – 11:15 a.m.**   
-Title:   
-Abstract:   
-Speaker:   
-Moderator:                                 
-
-### Keynote 3
-**11:15 – 11:45 a.m.**     
-Title:   
-Abstract:   
-Speaker:   
-Moderator:                                 
-
-
-### Panel
-**11:45 – 12:30 p.m.**     
-Title:   
-Moderator:      
-Panelists:       
-
-### Lunch and Keynote 4  
-**12:30 – 1:30 p.m., Keynote starts at 12:45 p.m.**   
+### Keynote UP at Noon
 Title:   
 Abstract:   
 Speaker:   
 Moderator:
 
-### System Demos
-**1:30 – 2:00 p.m.**   
-
 ### Break
-**2:00 – 2:15 p.m.**  
+**12:45 – 1:00**      
+Networking Break (Coffee provided, and snacks)
 
-### Facilitated Working Session
-**2:15 – 3:30 p.m.**   
-Facilitated by:
-_**Laptops required (Wireless network access will be available and needed)**_  
+### Keynote or Research Talks 2
+**1:00 to 2:00**     
+Title:   
+Abstract:   
+Speaker:   
+Moderator:                                                           
 
-**Brainstorming:**  
-1. What are the challenges with ~~XXX~~?  
-2. How can standardization be accomplished for ~~XXX~~?  
-3. What benefits could result from ~~XXX~~?  
+### Panel
+**2:00 – 3:00 p.m.**     
+Title:   
+Moderator:      
+Panelists:       
 
 ### UAV/UAS for Infrastructure Monitoring Session
-**3:30 – 4:55 p.m.**   
+**3:00 – 4:00 p.m.**   
 Title:   
 Abstract:   
 Speaker:   
 Moderator:
 
 ### Closing
-**4:55 – 5:00 p.m.**  
+**4:00 – 4:30 p.m.**  
 **Breakout Reports  and Closure: Event Summary, Support Statements, Next Steps**   
 Moderator:
