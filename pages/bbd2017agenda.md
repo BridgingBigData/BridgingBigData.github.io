@@ -7,94 +7,78 @@ description: BBD 2017 Agenda
 # BBD 2017
 
 ## Date
-Wednesday, October 4th, 2017
+```Wednesday, October 4th, 2017```
 
 ## Duration  
-8:30 A.M. to 5:00 P.M.
+```8:30 A.M. to 4:30 P.M.```, Registration starts at ```8:00 AM```
 
 ## Agenda
 
 ### Registration
-**8:30 a.m.**   
-- **Breakfast and coffee available**      
+```8:00 a.m.``` 
+- Breakfast and coffee available      
 - Registration table open  
 
 ### Opening
-
-**9:00 - 9:10 a.m.**             
+```8:30 - 8:45 a.m.```              
 **Welcome Remarks**  
-Speakers:  
+Speakers:   
 
-**9:10 - 9:25 a.m.**        
+### BD Spoke Project Updates
+```8:45 to 9:30 a.m.```      
 **Bridging Big Data Project Results and the Path Forward**  
 Speakers:    
 _Robin Gandhi, Chungwook Sim, Brian Ricks,  
 Dan Linzell, Deepak Khazanchi_   
 
-
-### Keynote 1
-**9:30 – 10:15 a.m.**        
-Title:   
-Abstract:   
-Speaker:   
-Moderator:  
-
 ### Break
-**10:15 – 10:30 a.m.**      
-Networking Break (Coffee provided)
+```9:30 – 9:45 a.m.```        
+- Networking Break (Coffee provided, and snacks)
 
-### Keynote 2
-**10:30 – 11:15 a.m.**   
-Title:   
-Abstract:   
-Speaker:   
-Moderator:                                 
+### Facilitated Working Session.  
+```9:45 to 11:15 a.m.```    
+- 1 scribe for each table
+- Breakout Themes:   
+  Data Management  
+  Decision Support Systems  
+  Social-Technological Impact  
+  Next-Gen Health Monitoring  
 
-### Keynote 3
-**11:15 – 11:45 a.m.**     
-Title:   
-Abstract:   
-Speaker:   
-Moderator:                                 
+### Lunch with System Demos
+```11:15 a.m. to Noon```
 
-
-### Panel
-**11:45 – 12:30 p.m.**     
-Title:   
-Moderator:      
-Panelists:       
-
-### Lunch and Keynote 4  
-**12:30 – 1:30 p.m., Keynote starts at 12:45 p.m.**   
+### Keynote 
+```Noon to 12:45 p.m.```  
 Title:   
 Abstract:   
 Speaker:   
 Moderator:
 
-### System Demos
-**1:30 – 2:00 p.m.**   
-
 ### Break
-**2:00 – 2:15 p.m.**  
+```12:45 – 1:00 p.m.```      
+- Networking Break (Coffee provided, and snacks)
 
-### Facilitated Working Session
-**2:15 – 3:30 p.m.**   
-Facilitated by:
-_**Laptops required (Wireless network access will be available and needed)**_  
+### Keynote / Research Talk
+```1:00 to 2:00 p.m.```    
+Title:   
+Abstract:   
+Speaker:   
+Moderator:                                                           
 
-**Brainstorming:**  
-1. What are the challenges with sharing Bridge health data?  
-2. How can standardization be accomplished for sharing Bridge health data?  
-3. What benefits could result from sharing Bridge health data?  
+### Panel
+```2:00 – 3:00 p.m.```     
+Title:   
+Moderator:      
+Panelists:       
 
 ### UAV/UAS for Infrastructure Monitoring Session
-**3:30 – 4:55 p.m.**   
+```3:00 – 4:00 p.m.```   
 Title:   
 Abstract:   
 Speaker:   
 Moderator:
 
 ### Closing
-**4:55 – 5:00 p.m.**  
+```4:00 – 4:30 p.m.```  
 **Breakout Reports  and Closure: Event Summary, Support Statements, Next Steps**   
 Moderator:
