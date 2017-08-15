@@ -7,7 +7,7 @@ description: BBD 2017 Agenda
 # BBD 2017
 
 ## Date
-Wednesday, October 4th, 2017
+```Wednesday, October 4th, 2017```
 
 ## Duration  
 ```8:30 A.M. to 4:30 P.M.```, Registration starts at ```8:00 AM```
@@ -38,11 +38,11 @@ Dan Linzell, Deepak Khazanchi_
 ### Facilitated Working Session.  
 ```9:45 to 11:15 a.m.```    
 - 1 scribe for each table
-- Breakout Themes: 
-  Data Management
-  Decision Support Systems
-  Social-Technological Impact
-  Next-Gen Health Monitoring
+- Breakout Themes:   
+  Data Management  
+  Decision Support Systems  
+  Social-Technological Impact  
+  Next-Gen Health Monitoring  
 
 ### Lunch with System Demos
 ```11:15 a.m. to Noon```
