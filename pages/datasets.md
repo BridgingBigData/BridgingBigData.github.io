@@ -6,14 +6,16 @@ description: Bridging Big Data People
 
 # Pilot Efforts
 
-## Enabling access to bridge datasets
-- Nebraska Bridge Dataset from NDoR now available on [datacenterhub.org](https://datacenterhub.org/dv_dibbs/view/1575:dibbs/experiments_dv/). Another dataset with all inspection related files is currently under development and will be available soon. Please check this page for updates.
+## Nebraska DoT Bridge Inspection Records Dataset cross-linked with National Bridge Inventory
+- Platform: datacenterhub.org
+- Chungwook Sim; Robin Gandhi; David M Gee; Ajay Khampariya; Akshay Kale; Dreizan Moore (2017), "Nebraska Bridge Data," https://datacenterhub.org/resources/14392. To request access please contact [Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/).
 
 ## Creating common schemas for Bridge Deficiencies
-- [JSON-Schemas](https://github.com/BridgingBigData/bridgehealthschema) made available through Github
+- [JSON-Schemas](https://github.com/BridgingBigData/bridgehealthschema) made available on Github
 
 ## Analyzing Nebraska Bridge Inspection Records
-- [Nebraska Bridges analyzed based on NBI data](http://faculty.ist.unomaha.edu/rgandhi/r/NEBridges.html)
+- [Jupyter Notebook with MongoDB to link Nebraska DOT and NBI datasets](http://faculty.ist.unomaha.edu/rgandhi/r/mongoNBI.html)
+- [R markdown for Nebraska Bridge analysis based on NBI data](http://faculty.ist.unomaha.edu/rgandhi/r/NEBridges.html)
 
 # Datasets
 
