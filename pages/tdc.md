@@ -1,7 +1,7 @@
 ---
 layout: tdctemplate
 title: TDC@UN-L
-description: Lincoln Transporation Data Challenge
+description: Lincoln Transportation Data Challenge
 ---
 
 # Transportation Data Challenge - Lincoln, 2017
@@ -42,7 +42,7 @@ Robert Hoffer, Chief Technology Officer, Satori (MZ.com)
 
 Teams of participants (up to 4) will *hack* available datasets to produce meaningful insights along the two thematic areas listed above. The projects should demonstrate data-driven *decision making* with meaningful insights for *social and technological impact*. Mentors will be available onsite to help brainstorm project ideas and suggest ways to accomplish tangible outcomes. There are no other restrictions on project types and their outcomes. Got creativity?
 
- ## Available Datasets
+## Available Datasets
  > Coming soon!
 
 # Agenda
