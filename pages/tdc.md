@@ -1,5 +1,5 @@
 ---
-layout: tdctempate
+layout: tdctemplate
 title: TDC@UN-L
 description: Lincoln Transporation Data Challenge
 ---
