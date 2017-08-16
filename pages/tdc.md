@@ -58,7 +58,7 @@ Teams of participants (up to 4) will *hack* available datasets to produce meanin
 | Bus Pickup @ Lincoln              | 5:00 p.m         | Nebraska Transportation Center - Lincoln |
 
 # Registration
-- To sign up visit [NSF Big Data Innovation Hubs](https://www.bigdatahubs.io) website
+- Visit [NSF Big Data Innovation Hubs](https://www.bigdatahubs.io) website, and sign up for the ```Lincoln Oct, 1``` event
 
 # Bus Pickup Details
 - Coming Soon!
