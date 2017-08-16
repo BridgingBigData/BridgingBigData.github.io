@@ -6,8 +6,8 @@ description: Lincoln Transporation Data Challenge
 
 # Transportation Data Challenge - Lincoln, 2017
 * ```Date:``` October 1st, 2017, 8:30 to 5 PM
-* ```Venue:``` [Nebraska Trasporation Center - University of Nebraska - Lincoln](https://goo.gl/maps/Hr8w7K2gYcx)
-* ```Location:``` 2200 Vine Street, Prem S. Paul Research Center, Lincoln, NE 68583-0851  
+* ```Venue:``` [Nebraska Transportation Center - University of Nebraska - Lincoln](https://ntc.unl.edu)
+* ```Location:``` [2200 Vine Street, Prem S. Paul Research Center, Lincoln, NE 68583-0851](https://goo.gl/maps/Hr8w7K2gYcx)  
 
 Transportation Data Challenge in Lincoln is associated with the [MBDH All-Hands meeting](http://midwestbigdatahub.org/2017-all-hands-meeting/).
 
