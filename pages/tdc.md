@@ -1,6 +1,6 @@
 ---
 layout: tdctemplate
-title: TDC@UN-L
+title: TDC@Lincoln
 description: Lincoln Transportation Data Challenge
 ---
 
