@@ -26,17 +26,17 @@ At Lincoln the National Transportation Data Challenge is a `hackathon` to build 
 How might we improve **bike/pedestrian safety** in our communities?
 
 **Category Chair**
-Amy Unruh, Developer relations, Google
+Robert Hoffer, Chief Technology Officer, Satori (MZ.com)
 
-> Amy Unruh is a developer programs engineer for the Google Cloud Platform, with a focus on machine learning and data analytics as well as other Cloud Platform technologies. Amy has an academic background in CS/AI and has also worked at several startups, done industrial R&D, and published a book on App Engine.  Amy’s focus during the challenge will be on leveraging the latest utility in open source and donated computing resources (including DataScience Platform, TensorFlow, Big Query, Satori, and other big data tools) to address hypotheses leading towards life saving interventions from the vast streaming and archival data, such as Waze and weather, available for municipalities.
+> Robert Hoffer is a serial entrepreneur and inventor of several products in the computer and internet industry. As founder of Query Labs he developed one of the first Web based Yellow and White Page directory services products, which launched at Yahoo as phone.yahoo.com. Robert co-founded ActiveBuddy which launched SmarterChild - the first commercial instant messaging bot. Robert has several patents in the field of instant messaging. He currently not only advises companies in their technology strategies but continues to develop and innovate in the tech space.  His focus will be on the application of streaming data aggregation uniquely relevant to private/public transportation data sets towards implementable life-saving interventions.  
 
 ## Weather/Emergency Response
 - How might we improve **transportation safety** in extreme weather? In cases of crises?   
 
 **Category Chair**
-Robert Hoffer, Chief Technology Officer, Satori (MZ.com)
+Amy Unruh, Developer relations, Google
 
-> Robert Hoffer is a serial entrepreneur and inventor of several products in the computer and internet industry. As founder of Query Labs he developed one of the first Web based Yellow and White Page directory services products, which launched at Yahoo as phone.yahoo.com. Robert co-founded ActiveBuddy which launched SmarterChild - the first commercial instant messaging bot. Robert has several patents in the field of instant messaging. He currently not only advises companies in their technology strategies but continues to develop and innovate in the tech space.  His focus will be on the application of streaming data aggregation uniquely relevant to private/public transportation data sets towards implementable life-saving interventions.  
+> Amy Unruh is a developer programs engineer for the Google Cloud Platform, with a focus on machine learning and data analytics as well as other Cloud Platform technologies. Amy has an academic background in CS/AI and has also worked at several startups, done industrial R&D, and published a book on App Engine.  Amy’s focus during the challenge will be on leveraging the latest utility in open source and donated computing resources (including DataScience Platform, TensorFlow, Big Query, Satori, and other big data tools) to address hypotheses leading towards life saving interventions from the vast streaming and archival data, such as Waze and weather, available for municipalities.
 
 ## Hackathon format
 
