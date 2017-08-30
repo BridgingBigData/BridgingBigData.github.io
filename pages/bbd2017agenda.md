@@ -28,7 +28,7 @@ Speakers:
 ### BD Spoke Project Updates
 8:45 to 9:30 a.m.      
 **Bridging Big Data Project Results and the Path Forward**
-Abstract: _This presentation will discuss findings from past workshops, collaborative efforts to prepare prototype platforms and the path going forward. We will discuss the interconnected elements of a SMArt big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI). Each SMARTI focus area will investigate specific challenges and solutions through data collection efforts from a representative set of rural bridges in the Midwest. This presentation will also highlight specific capabilities of project participants and collaborators._ 
+Abstract: _This presentation will discuss findings from past workshops, collaborative efforts to prepare prototype platforms and the path going forward. We will discuss the interconnected elements of a SMArt big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI). Each SMARTI focus area will investigate specific challenges and solutions through data collection efforts from a representative set of rural bridges in the Midwest. This presentation will also highlight specific capabilities of project participants and collaborators._
 Speakers:    
 _Robin Gandhi, Chungwook Sim, Brian Ricks,  
 Dan Linzell, Deepak Khazanchi_   
@@ -40,7 +40,7 @@ Dan Linzell, Deepak Khazanchi_
 ### Facilitated Working Session 1
 9:45 to 10:30 a.m.    
 - 1 scribe per group, 4 groups
-- Breakout Theme (Challenges):   
+- Breakout Theme (**Challenges**):   
   Data Management  
   Decision Support Systems  
   Social-Technological Impact  
@@ -61,7 +61,8 @@ Moderator: Dan Linzell
 12:45 to 1:30 p.m.    
 Title:   
 Abstract:   
-Speaker:   
+Speaker:  
+Theme: Data Management   
 Moderator:
 
 
@@ -69,13 +70,14 @@ Moderator:
 1:00 to 2:00 p.m.    
 Title:   
 Abstract:   
-Speaker:   
+Speaker:
+Theme: Social-Technological Impact     
 Moderator:                                                           
 
 ### Facilitated Working Session 2
 2:00 to 3:00 p.m.    
 - 1 scribe per group, 4 groups
-- Breakout Theme (Challenges):   
+- Breakout Theme (**Solutions**):   
   Data Management  
   Decision Support Systems  
   Social-Technological Impact  
@@ -85,7 +87,8 @@ Moderator:
 3:00 – 4:00 p.m.   
 Title:   
 Abstract:   
-Speaker:   
+Speaker:
+Theme: Next-Gen Health Monitoring    
 Moderator:
 
 ### Closing
