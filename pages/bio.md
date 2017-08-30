@@ -4,6 +4,13 @@ title: Speaker bios BBD 2016
 description: Speaker Bios for Bridging Big Data Workshop
 ---
 
+# BBD 2017 Speaker Bios
+
+### Glenn Washer
+**Professor at the University of Missouri – Columbia (MU)**  
+Dr. Washer received his Ph.D. in Materials Science and Engineering from the Center for Nondestructive Evaluation (CNDE) at the Johns Hopkins University in 2001.  Prior to joining the faculty at MU, he worked for 14 years at the Turner Fairback Research Center as a research engineer and program manager for the FHWA NDE program.  Dr. Washer has expertise in a wide variety of NDE technologies for the condition assessment of infrastructure, such as ultrasonics, thermography, ground penetrating radar, radiography and visual inspection.  His research interest also include the reliability of visual inspection, thermal imaging of concrete, and ultrasonic stress measurement.
+
+
 # BBD 2016 Speaker Bios
 
 ### Kevin Rice
