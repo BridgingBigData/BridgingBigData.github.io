@@ -11,7 +11,7 @@ Wednesday, October 4th, 2017
 
 ## Duration  
 8:30 A.M. to 4:30 P.M.  
-Registration starts at 8:00 AM
+- Registration starts at 8:00 AM
 
 ## Agenda
 
@@ -20,18 +20,16 @@ Registration starts at 8:00 AM
 - Breakfast and coffee available      
 - Registration table open  
 
-### Opening
+### Welcome Remarks
 8:30 - 8:45 a.m.              
-**Welcome Remarks**  
-Speakers:   
+- Speakers:   
 
 ### BD Spoke Project Updates
 8:45 to 9:30 a.m.      
-**Bridging Big Data Project Results and the Path Forward**
-Abstract: _This presentation will discuss findings from past workshops, collaborative efforts to prepare prototype platforms and the path going forward. We will discuss the interconnected elements of a SMArt big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI). Each SMARTI focus area will investigate specific challenges and solutions through data collection efforts from a representative set of rural bridges in the Midwest. This presentation will also highlight specific capabilities of project participants and collaborators._
-Speakers:    
-_Robin Gandhi, Chungwook Sim, Brian Ricks,  
-Dan Linzell, Deepak Khazanchi_   
+- Title: **Bridging Big Data Project Results and the Path Forward**  
+- Abstract: _This presentation will discuss findings from past workshops, collaborative efforts to prepare prototype platforms and the path going forward. We will discuss the interconnected elements of a SMArt big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI). Each SMARTI focus area will investigate specific challenges and solutions through data collection efforts from a representative set of rural bridges in the Midwest. This presentation will also highlight specific capabilities of project participants and collaborators._  
+- Speakers: Robin Gandhi, Chungwook Sim, Brian Ricks,  
+Dan Linzell, Deepak Khazanchi   
 
 ### Break
 9:30 – 9:45 a.m.         
@@ -48,31 +46,31 @@ Dan Linzell, Deepak Khazanchi_
 
 ### Keynote: Framework for Risk-Based Inspection Practices
 10:30 to 11:45 p.m.     
-Title: **Framework for Risk-Based Inspection Practices**     
-Abstract: _This presentation will discuss a new risk-based methodology for determining bridge inspection intervals and procedures.  The methodology is a rational, reliability-based method that has the goals of ensuring bridge safety and serviceability, and ensuring effective asset management.  Currently, inspection intervals are calendar-based and require routine inspections at a maximum interval of 24 months.  This uniform calendar-based approach results in the same inspection interval for new bridges as for aging and deteriorated bridges.  The RBI methodology consists of a bridge owner performing a risk assessment of bridges to identify those bridges that are most in need of inspection to ensure bridge safety, and those where inspection needs are less.  This assessment identifies likely damage modes and deterioration mechanisms affecting the condition of bridges, and projects future damage based on systematic expert judgement.  Deterioration models and data from health monitoring technologies can also be used to assess the likelihood of future damage.  Consequences are assessed in terms of safety and serviceability of a bridge; a simple risk matrix is used to identify the appropriate inspection interval based on the risk assessment.  In the way, asset management can be improved by focusing inspection resources where most needed, and reducing unnecessary inspections.  The RBI approach represents a new paradigm for bridge inspection that may transform traditional calendar-based inspection approaches, improving the allocation of resources while ensuring that safety and reliability of the highway bridge infrastructure._   
-Speaker: Glenn Washer, University of Missouri, Department of Civil and Environmental Engineering   
-Theme: Decision Support Systems  
-Moderator: Dan Linzell        
+- Title: **Framework for Risk-Based Inspection Practices**     
+- Abstract: _This presentation will discuss a new risk-based methodology for determining bridge inspection intervals and procedures.  The methodology is a rational, reliability-based method that has the goals of ensuring bridge safety and serviceability, and ensuring effective asset management.  Currently, inspection intervals are calendar-based and require routine inspections at a maximum interval of 24 months.  This uniform calendar-based approach results in the same inspection interval for new bridges as for aging and deteriorated bridges.  The RBI methodology consists of a bridge owner performing a risk assessment of bridges to identify those bridges that are most in need of inspection to ensure bridge safety, and those where inspection needs are less.  This assessment identifies likely damage modes and deterioration mechanisms affecting the condition of bridges, and projects future damage based on systematic expert judgement.  Deterioration models and data from health monitoring technologies can also be used to assess the likelihood of future damage.  Consequences are assessed in terms of safety and serviceability of a bridge; a simple risk matrix is used to identify the appropriate inspection interval based on the risk assessment.  In the way, asset management can be improved by focusing inspection resources where most needed, and reducing unnecessary inspections.  The RBI approach represents a new paradigm for bridge inspection that may transform traditional calendar-based inspection approaches, improving the allocation of resources while ensuring that safety and reliability of the highway bridge infrastructure._   
+- Speaker: Glenn Washer, University of Missouri, Department of Civil and Environmental Engineering   
+- Theme: Decision Support Systems  
+- Moderator: Dan Linzell        
 
 ### Lunch with System Demos
 11:45 a.m. to 12:45
 
 ### Keynote
 12:45 to 1:30 p.m.    
-Title:   
-Abstract:   
-Speaker:  
-Theme: Data Management   
-Moderator:
+- Title:   
+- Abstract:   
+- Speaker:  
+- Theme: Data Management   
+- Moderator:
 
 
 ### Keynote/Research Talks
 1:00 to 2:00 p.m.    
-Title:   
-Abstract:   
-Speaker:
-Theme: Social-Technological Impact     
-Moderator:                                                           
+- Title:   
+- Abstract:   
+- Speaker:
+- Theme: Social-Technological Impact     
+- Moderator:                                                           
 
 ### Facilitated Working Session 2
 2:00 to 3:00 p.m.    
@@ -85,13 +83,13 @@ Moderator:
 
 ### UAV/UAS for Infrastructure Monitoring Session
 3:00 – 4:00 p.m.   
-Title:   
-Abstract:   
-Speaker:
-Theme: Next-Gen Health Monitoring    
-Moderator:
+- Title:   
+- Abstract:   
+- Speaker:
+- Theme: Next-Gen Health Monitoring    
+- Moderator:
 
 ### Closing
 4:00 – 4:30 p.m.  
-**Breakout Reports  and Closure: Event Summary, Support Statements, Next Steps**   
-Moderator:
+- Title: **Breakout Reports  and Closure: Event Summary, Support Statements, Next Steps**   
+- Moderator:
