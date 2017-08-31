@@ -6,6 +6,16 @@ description: Speaker Bios for Bridging Big Data Workshop
 
 # BBD 2017 Speaker Bios
 
+### Michael LaViolette
+**HDR, Inc.**
+Mike has over 25 years of experience in complex bridge design, plan preparation and construction engineering services. He is very active in a number of national technical societies and associations.  His involvement includes leadership roles and committee positions as noted below:
+- Transportation Research Board – Chair of Committee AFH40 (Construction of Bridges and Structures since 2011)
+- Precast/Prestressed Concrete Institute (Committee on Bridges, Committee on Precast Pavement, Committee on UHPC )
+- FHWA Accelerated Bridge Construction Advisory Panel
+- American Segmental Bridge Institute
+- International Association of Bridge and Structural Engineers
+Mike led several of the critical tasks for national studies on accelerated bridge construction (SHRP2–R04 Innovative Bridge Designs for Rapid Renewal) and served as the principal investigator for NCHRP 20-07 Bridge Construction Practices Using Incremental Launching.  
+
 ### Glenn Washer
 **Professor at the University of Missouri – Columbia (MU)**  
 Dr. Washer received his Ph.D. in Materials Science and Engineering from the Center for Nondestructive Evaluation (CNDE) at the Johns Hopkins University in 2001.  Prior to joining the faculty at MU, he worked for 14 years at the Turner Fairback Research Center as a research engineer and program manager for the FHWA NDE program.  Dr. Washer has expertise in a wide variety of NDE technologies for the condition assessment of infrastructure, such as ultrasonics, thermography, ground penetrating radar, radiography and visual inspection.  His research interest also include the reliability of visual inspection, thermal imaging of concrete, and ultrasonic stress measurement.
