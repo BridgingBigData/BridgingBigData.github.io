@@ -57,11 +57,11 @@ Dan Linzell, Deepak Khazanchi
 
 ### Keynote
 12:45 to 1:30 p.m.    
-- Title:   
-- Abstract:   
-- Speaker:  
+- Title: Coming soon   
+- Abstract: Coming Soon  Â   
+- Speaker: Mike LaViolette, P.E., P.Eng. [HDR Inc.](https://www.hdrinc.com)  
 - Theme: Data Management   
-- Moderator:
+- Moderator: Chungwook Sim
 
 
 ### Keynote/Research Talks
@@ -73,7 +73,7 @@ Dan Linzell, Deepak Khazanchi
 - Moderator:                                                           
 
 ### Facilitated Working Session 2
-2:00 to 3:00 p.m.    
+2:00 to 2:45 p.m.    
 - 1 scribe per group, 4 groups
 - Breakout Theme (**Solutions**):   
   Data Management  
@@ -83,11 +83,11 @@ Dan Linzell, Deepak Khazanchi
 
 ### UAV/UAS for Infrastructure Monitoring Session
 3:00 – 4:00 p.m.   
-- Title:   
-- Abstract:   
-- Speaker:
+- Title: Coming soon...     
+- Abstract: Coming soon...     
+- Speaker: [Kostas Alexis](http://www.kostasalexis.com), Computer Science & Engineering Department, University of Nevada, Reno
 - Theme: Next-Gen Health Monitoring    
-- Moderator:
+- Moderator: Raj Dasgupta and Ricky Wood
 
 ### Closing
 4:00 – 4:30 p.m.  
