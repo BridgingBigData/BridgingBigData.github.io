@@ -61,7 +61,7 @@ Dan Linzell, Deepak Khazanchi
 
 ### Keynote
 12:45 to 1:30 p.m.    
-- Title: Structural Health Monitoring in Practice   
+- Title: **Structural Health Monitoring in Practice**   
 - Abstract:
 > The presentation will discuss the use of structural health monitoring and bridge management data in several recent major projects including the following:  
 > - Tappan Zee Bridge - the largest design/build infrastructure project in the US and includes an extensive SHM network
@@ -97,7 +97,7 @@ Dan Linzell, Deepak Khazanchi
 - Moderators: Richard L. Wood and Raj Dasgupta.
 
 **Talk 1**
-- Title: Using Unmanned Aerial Systems (UAS) with Lasers to Assess Structural Performance  
+- Title: **Using Unmanned Aerial Systems (UAS) with Lasers to Assess Structural Performance**  
 - Abstract:
 > Recent advances in drone technologies present potential opportunities to enhance and/or increase the safety of conducting visual bridge inspections, as well as provide for accuracy and efficiency in Structural Health Monitoring (SHM) and in monitoring safe rail operations. This presentation will describe using vibrometers carried by unmanned aerial systems (UAS) to collect bridge displacement data in real time. A product of this research is a proven method to collect displacements in the field without a reference, which was not available before. The close collaboration with railroads will permit researchers to prove that this technology can be used in the field during railroad operations.    
 
