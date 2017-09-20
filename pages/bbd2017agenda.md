@@ -68,7 +68,7 @@ Dan Linzell, Deepak Khazanchi
 > - PennDOT Rapid Bridge Replacement Program – statewide design/build program to construct 558 bridges in 3 1/2 years
 > - Iowa DOT - Prioritization of bridges for accelerated construction using available NBI data
 
-   
+
 - Speaker: [Mike LaViolette](https://bridgingbigdata.github.io/pages/bio.html#michael-laviolette), P.E., P.Eng. [HDR Inc.](https://www.hdrinc.com)  
 - Theme: Data Management   
 - Moderator: Chungwook Sim
@@ -92,12 +92,22 @@ Dan Linzell, Deepak Khazanchi
   Next-Gen Health Monitoring    
 
 ### UAV/UAS for Infrastructure Monitoring Session
-3:00 – 4:00 p.m.   
-- Title: Coming soon...     
-- Abstract: Coming soon...     
-- Speaker: [Kostas Alexis](http://www.kostasalexis.com), Computer Science & Engineering Department, University of Nevada, Reno
+3:00 – 4:00 p.m.  
 - Theme: Next-Gen Health Monitoring    
-- Moderator: Raj Dasgupta and Ricky Wood
+- Moderators: Richard L. Wood and Raj Dasgupta.
+
+**Talk 1**
+- Title: Using Unmanned Aerial Systems (UAS) with Lasers to Assess Structural Performance  
+- Abstract:
+> Recent advances in drone technologies present potential opportunities to enhance and/or increase the safety of conducting visual bridge inspections, as well as provide for accuracy and efficiency in Structural Health Monitoring (SHM) and in monitoring safe rail operations. This presentation will describe using vibrometers carried by unmanned aerial systems (UAS) to collect bridge displacement data in real time. A product of this research is a proven method to collect displacements in the field without a reference, which was not available before. The close collaboration with railroads will permit researchers to prove that this technology can be used in the field during railroad operations.    
+
+- Speaker: [Fernando Moreu Alonso](https://bridgingbigdata.github.io/pages/bio.html#fernando-moreu), Department of Civil Engineering at the University of New Mexico (UNM) at Albuquerque, NM. Cross-appointed in the Department of Electrical and Computer Engineering.
+
+**Talk 2**
+- Title: Coming soon...
+- Abstract: Coming soon...
+- Speaker: [Kostas Alexis](http://www.kostasalexis.com), Computer Science & Engineering Department, University of Nevada, Reno
+
 
 ### Closing
 4:00 – 4:30 p.m.  

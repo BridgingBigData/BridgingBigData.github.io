@@ -6,6 +6,11 @@ description: Speaker Bios for Bridging Big Data Workshop
 
 # BBD 2017 Speaker Bios
 
+### Fernando Moreu
+
+**Assistant Professor in structural engineering at the Department of Civil Engineering at the University of New Mexico (UNM) at Albuquerque, NM. Cross-appointed in the Department of Electrical and Computer Engineering**
+Dr. Moreu's research interests include structural dynamics, structural health monitoring, wireless smart sensor networks, railroad bridges, commercial space vehicles, infrastructure management, machine learning, and augmented reality. He received his BS in Civil and Environmental Engineering from the University of Granada in Spain and his MS and PhD degrees in structural engineering from the University of Illinois at Urbana-Champaign. In addition, his working experience beyond academia includes ESCA Consultants, Inc. for over ten years and a research scientist summer appointment at Los Alamos National Laboratory in 2016. He is the director of the [Smart Management of Infrastructure Laboratory (SMILab) at UNM](http://smilab.unm.edu/).
+
 ### Michael LaViolette
 **HDR, Inc.**
 Mike has over 25 years of experience in complex bridge design, plan preparation and construction engineering services. He is very active in a number of national technical societies and associations.  His involvement includes leadership roles and committee positions as noted below:
