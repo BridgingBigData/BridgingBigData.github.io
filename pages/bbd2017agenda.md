@@ -61,6 +61,8 @@ Dan Linzell, Deepak Khazanchi
 
 ### Lunch with System Demos
 11:45 a.m. to 12:45
+- "NBI Data Analysis with Jupyter and MongoDB," Akshay Kale, Student, University of Nebraska at Omaha
+- "Acoustic Scanning System for Bridges," [Jinying Zhu](http://engineering.unl.edu/civil/faculty/jinying-zhu/), Assistant Professor, University of Nebraska-Lincoln
 
 ### Keynote
 12:45 to 1:30 p.m.    
