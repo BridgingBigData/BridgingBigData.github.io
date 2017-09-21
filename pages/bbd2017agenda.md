@@ -10,7 +10,7 @@ description: BBD 2017 Agenda
 Wednesday, October 4th, 2017
 
 ## Duration  
-8:30 A.M. to 4:30 P.M.  
+8:00 A.M. to 4:30 P.M.  
 - Registration starts at 8:00 AM
 
 ## Agenda
@@ -22,7 +22,10 @@ Wednesday, October 4th, 2017
 
 ### Welcome Remarks
 8:30 - 8:45 a.m.              
-- Speakers:   
+- Speakers:  
+[Hesham Ali](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/hesham-ali.php), Dean of The College of Information Science and Technology, UNO and  
+[Mike Riley](http://engineering.unl.edu/mark-riley/), Associate Dean for Research, College of Engineering, University of Nebraska–Lincoln
+
 
 ### BD Spoke Project Updates
 8:45 to 9:30 a.m.      
@@ -46,7 +49,7 @@ Dan Linzell, Deepak Khazanchi
   Social-Technological Impact  
   Next-Gen Health Monitoring
 
-### Keynote: Framework for Risk-Based Inspection Practices
+### Keynote
 10:30 to 11:45 p.m.     
 - Title: **Framework for Risk-Based Inspection Practices**     
 - Abstract:
@@ -74,8 +77,8 @@ Dan Linzell, Deepak Khazanchi
 - Moderator: Chungwook Sim
 
 
-### Keynote/Research Talks
-1:00 to 2:00 p.m.    
+### Keynote
+1:30 to 2:00 p.m.    
 - Title:   
 - Abstract:   
 - Speaker:
