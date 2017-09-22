@@ -63,6 +63,7 @@ Dan Linzell, Deepak Khazanchi
 11:45 a.m. to 12:45
 - "NBI Data Analysis with Jupyter and MongoDB," Akshay Kale, Student, University of Nebraska at Omaha
 - "Acoustic Scanning System for Bridges," [Jinying Zhu](http://engineering.unl.edu/civil/faculty/jinying-zhu/), Assistant Professor, University of Nebraska-Lincoln
+- Moderator: Brian Ricks
 
 ### Keynote
 12:45 to 1:30 p.m.    
@@ -73,7 +74,6 @@ Dan Linzell, Deepak Khazanchi
 > - PennDOT Rapid Bridge Replacement Program – statewide design/build program to construct 558 bridges in 3 1/2 years
 > - Iowa DOT - Prioritization of bridges for accelerated construction using available NBI data
 
-
 - Speaker: [Mike LaViolette](https://bridgingbigdata.github.io/pages/bio.html#michael-laviolette), P.E., P.Eng. [HDR Inc.](https://www.hdrinc.com)  
 - Theme: Data Management   
 - Moderator: Chungwook Sim
@@ -81,11 +81,11 @@ Dan Linzell, Deepak Khazanchi
 
 ### Keynote
 1:30 to 2:00 p.m.    
-- Title:   
-- Abstract:   
-- Speaker:
+- Title: Coming soon...  
+- Abstract: Coming soon...   
+- Speaker: Coming soon...
 - Theme: Social-Technological Impact     
-- Moderator:                                                           
+- Moderator: Chungwook Sim                                                           
 
 ### Facilitated Working Session 2
 2:00 to 2:45 p.m.    
@@ -109,12 +109,13 @@ Dan Linzell, Deepak Khazanchi
 - Speaker: [Fernando Moreu Alonso](https://bridgingbigdata.github.io/pages/bio.html#fernando-moreu), Department of Civil Engineering at the University of New Mexico (UNM) at Albuquerque, NM. Cross-appointed in the Department of Electrical and Computer Engineering.
 
 **Talk 2**
-- Title: Coming soon...
-- Abstract: Coming soon...
-- Speaker: [Kostas Alexis](http://www.kostasalexis.com), Computer Science & Engineering Department, University of Nevada, Reno
+- Title: **Robotic Inspection for Infrastructure Facilities and Nuclear Sites**
+- Abstract:
+> In this talk, the set of perception, planning and control methods that aim to enable comprehensive, systematic and repeatable robotic inspection of infrastructure facilities and nuclear sites are presented. Either with or without any prior model of the environment, possibly in GPS-denied or even visually-degraded conditions, the proposed methods enable robust autonomy for small aerial robotics. Beyond the algorithmic contributions, a set of field experiments will be presented alongside associated open source code and datasets.
 
+- Speaker: [Kostas Alexis](https://bridgingbigdata.github.io/pages/bio.html#kostas-alexis), Computer Science & Engineering Department, University of Nevada, Reno.
 
 ### Closing
 4:00 – 4:30 p.m.  
 - Title: **Breakout Reports  and Closure: Event Summary, Support Statements, Next Steps**   
-- Moderator:
+- Moderators: Dan Linzell, Robin Gandhi, Deepak Khazanchi, Brian Ricks

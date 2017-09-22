@@ -26,6 +26,11 @@ Mike led several of the critical tasks for national studies on accelerated bridg
 Dr. Washer received his Ph.D. in Materials Science and Engineering from the Center for Nondestructive Evaluation (CNDE) at the Johns Hopkins University in 2001.  Prior to joining the faculty at MU, he worked for 14 years at the Turner Fairback Research Center as a research engineer and program manager for the FHWA NDE program.  Dr. Washer has expertise in a wide variety of NDE technologies for the condition assessment of infrastructure, such as ultrasonics, thermography, ground penetrating radar, radiography and visual inspection.  His research interest also include the reliability of visual inspection, thermal imaging of concrete, and ultrasonic stress measurement.
 
 
+### Kostas Alexis
+**Assistant Professor in the Department of Computer Science \& Engineering at University of Nevada, Reno**
+Dr. Kostas obtained his Ph.D. in the field of aerial robotics control and collaboration from the University of Patras, Greece in 2011 and further conducted 4-years of research as a Senior Researcher at the Autonomous Systems Lab of ETH Zurich. His research includes the fields of planning, perception and control for autonomous systems. Dr. Alexis is the head of the Autonomous Robots Lab hosting approximately $10$ researchers. He has organized and supervised major research projects both in Europe and in the USA including Horizon 2020 and National Robotics Initiative grants. Together with the fixed-wing team of the Autonomous Systems Lab, he holds the world record on small UAV endurance demonstrating continuous flight for 81.5h using the AtlantikSolar solar-powered UAV. http://www.kostasalexis.com
+
+
 # BBD 2016 Speaker Bios
 
 ### Kevin Rice
