@@ -14,8 +14,12 @@ description: Bridging Big Data People
 - [JSON-Schemas](https://github.com/BridgingBigData/bridgehealthschema) made available on Github
 
 ## Analyzing Nebraska Bridge Inspection Records
+- [Jupyter Notebook with MongoDB for analyzing all NBI records from 1992 to 2016 with over 17 million records](https://github.com/kaleoyster/nbi-data-science/blob/master/An%20Exploratory%20Data%20Analysis.ipynb)
 - [Jupyter Notebook with MongoDB to link Nebraska DOT and NBI datasets](http://faculty.ist.unomaha.edu/rgandhi/r/mongoNBI.html)
 - [R markdown for Nebraska Bridge analysis based on NBI data](http://faculty.ist.unomaha.edu/rgandhi/r/NEBridges.html)
+
+## NBI compute infrastructure at Labs Workbench, a service of the National Data Service (NDS)
+- [Access Instructions](https://github.com/craig-willis/nbi-pilot)
 
 # Datasets
 

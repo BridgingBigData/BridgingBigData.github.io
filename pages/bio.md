@@ -27,7 +27,7 @@ Dr. Washer received his Ph.D. in Materials Science and Engineering from the Cent
 
 
 ### Kostas Alexis
-**Assistant Professor in the Department of Computer Science \& Engineering at University of Nevada, Reno**
+**Assistant Professor in the Department of Computer Science & Engineering at University of Nevada, Reno**  
 Dr. Kostas obtained his Ph.D. in the field of aerial robotics control and collaboration from the University of Patras, Greece in 2011 and further conducted 4-years of research as a Senior Researcher at the Autonomous Systems Lab of ETH Zurich. His research includes the fields of planning, perception and control for autonomous systems. Dr. Alexis is the head of the Autonomous Robots Lab hosting approximately $10$ researchers. He has organized and supervised major research projects both in Europe and in the USA including Horizon 2020 and National Robotics Initiative grants. Together with the fixed-wing team of the Autonomous Systems Lab, he holds the world record on small UAV endurance demonstrating continuous flight for 81.5h using the AtlantikSolar solar-powered UAV. http://www.kostasalexis.com
 
 
