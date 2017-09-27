@@ -45,7 +45,7 @@ Teams of participants (up to 4) will *hack* available datasets to produce meanin
 Wireless network access will be provided. So you may choose to bring your own laptops.
 
 ## Available Datasets
-Datasets for the competition will be selected from the those available [here](https://www.bigdatahubs.io/resources/). It is OK to explore these datasets ahead of the competition. Also, signup at https://www.bigdatahubs.io to get access to resources such as Google cloud and data science notebooks.
+Datasets for the competition will be selected from the those available [here](https://www.bigdatahubs.io/resources/). It is OK to explore these datasets ahead of the competition. Also, signup at [https://www.bigdatahubs.io](https://www.bigdatahubs.io) to get access to resources such as Google cloud and data science notebooks. Once your account is approved, you will be able to access demo notebooks here: [https://nsf-datascience-com.readme.io/docs/accessing-demos-in-nsfdatasciencecom](https://nsf-datascience-com.readme.io/docs/accessing-demos-in-nsfdatasciencecom)
 
 # Agenda
 
