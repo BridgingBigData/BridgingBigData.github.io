@@ -5,7 +5,7 @@ description: Lincoln Transportation Data Challenge
 ---
 
 # Transportation Data Challenge - Lincoln, 2017
-* ```Date:``` October 1st, 2017, 8:30 to 5 PM
+* ```Date:``` October 1st, 2017, 7:45 A.M to 5 PM
 * ```Venue:``` [Nebraska Transportation Center - University of Nebraska - Lincoln](https://ntc.unl.edu)
 * ```Location:``` [2200 Vine Street, Prem S. Paul Research Center, Lincoln, NE 68583-0851](https://goo.gl/maps/Hr8w7K2gYcx)  
 
@@ -66,8 +66,8 @@ It is OK to explore these datasets ahead of the competition.
 - [Registration on Eventbrite](https://tdclincolnhackathon.eventbrite.com)
 
 # Bus Pickup Details
-- Meet in the Hilton Omaha Hotel lobby by 7:45 a.m.
-- The bus will **leave** at 8:00 a.m., so make sure you arrive in the hotel lobby by 7:45 a.m.
+- 7:45 a.m.: Check-in with Melissa Cragin in the Hilton Omaha Hotel lobby
+- 8:00 a.m.: The bus will **leave** for Lincoln
 
 # Hotel
 
