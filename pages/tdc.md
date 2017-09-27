@@ -42,7 +42,7 @@ Amy Unruh, Developer relations, Google
 
 Teams of participants (up to 4) will *hack* available datasets to produce meaningful insights along the two thematic areas listed above. The projects should demonstrate data-driven *decision making* with meaningful insights for *social and technological impact*. Mentors will be available onsite to help brainstorm project ideas and suggest ways to accomplish tangible outcomes. There are no other restrictions on project types and their outcomes. Got creativity?
 
-wireless network access will be provided. So you may choose to bring your own laptops.
+Wireless network access will be provided. So you may choose to bring your own laptops.
 
 ## Available Datasets
 Datasets for the competition will be selected from the those available [here](https://www.bigdatahubs.io/resources/). It is OK to explore these datasets ahead of the competition. Also, signup at https://www.bigdatahubs.io to get access to resources such as Google cloud and data science notebooks.
