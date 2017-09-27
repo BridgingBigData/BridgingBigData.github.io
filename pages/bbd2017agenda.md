@@ -61,8 +61,12 @@ Dan Linzell, Deepak Khazanchi
 
 ### Lunch with System Demos
 11:45 a.m. to 12:45
-- "NBI Data Analysis with Jupyter and MongoDB," Akshay Kale, Student, University of Nebraska at Omaha
-- "Acoustic Scanning System for Bridges," [Jinying Zhu](http://engineering.unl.edu/civil/faculty/jinying-zhu/), Assistant Professor, University of Nebraska-Lincoln
+> Demonstrations
+  - **NBI Data Analysis with Jupyter and MongoDB**, Akshay Kale (M.S. Student), [Robin Gandhi](http://faculty.ist.unomaha.edu/rgandhi/), University of Nebraska at Omaha
+  - **Acoustic Scanning System for Bridges**, [Jinying Zhu](http://engineering.unl.edu/civil/faculty/jinying-zhu/), University of Nebraska-Lincoln
+  - **Diving into Bridge Data**, [Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php), University of Nebraska at Omaha
+  - **Health Monitoring Schemes for Double-Track Steel Railway Bridges**, Ahmed Rageh (M.S. Student), Saeed Eftekhar Azam (Ph.D.), [Daniel Linzell](http://engineering.unl.edu/civil/daniel-linzell/), University of Nebraska-Lincoln
+
 - Moderator: Brian Ricks
 
 ### Keynote
