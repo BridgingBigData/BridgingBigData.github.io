@@ -53,7 +53,7 @@ It is OK to explore these datasets ahead of the competition.
 
 | Activity                          | Time             | Location                                 |
 |-----------------------------------|------------------|------------------------------------------|
-| Check-in @ Hilton Omaha lobby     | 7:45 a.m.        | Hilton Omaha lobby                       |
+| **Check-in @ Hilton Omaha lobby** | **`7:45 a.m.`**    | Hilton Omaha lobby                       |
 | Bus leaves from Hilton Omaha      | 8:00 a.m.        | Leaves from Hilton Omaha                 |
 | Registration and Breakfast        | 9:00 - 9:30 a.m  | Nebraska Transportation Center - Lincoln |
 | Form teams and setup projects     | 9:30 - 10:30 a.m | Nebraska Transportation Center - Lincoln |
