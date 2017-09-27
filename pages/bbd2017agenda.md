@@ -66,6 +66,8 @@ Dan Linzell, Deepak Khazanchi
   - **Acoustic Scanning System for Bridges**, [Jinying Zhu](http://engineering.unl.edu/civil/faculty/jinying-zhu/), University of Nebraska-Lincoln
   - **Diving into Bridge Data**, [Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php), University of Nebraska at Omaha
   - **Health Monitoring Schemes for Double-Track Steel Railway Bridges**, Ahmed Rageh (M.S. Student), Saeed Eftekhar Azam (Ph.D.), [Daniel Linzell](http://engineering.unl.edu/civil/daniel-linzell/), University of Nebraska-Lincoln
+  - **Development of Image-Based Autonomous Bridge Deck Crack Mapping System**, [Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/), Kwanghee Won, University of Nebraska-Lincoln
+  - **Interactive Control of a Flying Robot for Automated Bridge Inspection**, Kwanghee Won and [Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/), University of Nebraska-Lincoln
 
 - Moderator: Brian Ricks
 
