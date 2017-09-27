@@ -83,13 +83,9 @@ Dan Linzell, Deepak Khazanchi
 - Moderator: Chungwook Sim
 
 
-### Keynote
-1:30 to 2:00 p.m.    
-- Title: Coming soon...  
-- Abstract: Coming soon...   
-- Speaker: Coming soon...
-- Theme: Social-Technological Impact     
-- Moderator: Chungwook Sim                                                           
+### Break
+1:30 – 2:00 p.m.         
+- Networking Break (Coffee provided, and snacks)                                                       
 
 ### Facilitated Working Session 2
 2:00 to 2:45 p.m.    
