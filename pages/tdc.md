@@ -42,17 +42,20 @@ Amy Unruh, Developer relations, Google
 
 Teams of participants (up to 4) will *hack* available datasets to produce meaningful insights along the two thematic areas listed above. The projects should demonstrate data-driven *decision making* with meaningful insights for *social and technological impact*. Mentors will be available onsite to help brainstorm project ideas and suggest ways to accomplish tangible outcomes. There are no other restrictions on project types and their outcomes. Got creativity?
 
+wireless network access will be provided. So you may choose to bring your own laptops.
+
 ## Available Datasets
-Datasets for the competition will be selected from the those available [here](https://www.bigdatahubs.io/resources/). It is OK to explore these datasets ahead of the competition.
+Datasets for the competition will be selected from the those available [here](https://www.bigdatahubs.io/resources/). It is OK to explore these datasets ahead of the competition. Also, signup at https://www.bigdatahubs.io to get access to resources such as Google cloud and data science notebooks.
 
 # Agenda
 
 | Activity                          | Time             | Location                                 |
 |-----------------------------------|------------------|------------------------------------------|
-| Bus Pickup @ Hilton Omaha         | 8:00 a.m.        | Hilton Omaha                             |
+| Check-in @ Hilton Omaha lobby     | 7:45 a.m.        | Hilton Omaha lobby                       |
+| Bus leaves from Hilton Omaha      | 8:00 a.m.        | Leaves from Hilton Omaha                 |
 | Registration and Breakfast        | 9:00 - 9:30 a.m  | Nebraska Transportation Center - Lincoln |
 | Form teams and setup projects     | 9:30 - 10:30 a.m | Nebraska Transportation Center - Lincoln |
-| **Lunch**                             | 1:00 - 2:00 p.m. | Nebraska Transportation Center - Lincoln |
+| **Working Lunch**                 | 1:00 - 2:00 p.m. | Nebraska Transportation Center - Lincoln |
 | Keep hacking...                   | 2:00 - 4:00 p.m. | Nebraska Transportation Center - Lincoln |
 | Project Demonstrations and Prizes | 4:00 - 5:00 p.m. | Nebraska Transportation Center - Lincoln |
 | Bus Pickup @ Lincoln              | 5:00 p.m         | Nebraska Transportation Center - Lincoln |
@@ -61,7 +64,8 @@ Datasets for the competition will be selected from the those available [here](ht
 - [Registration on Eventbrite](https://tdclincolnhackathon.eventbrite.com)
 
 # Bus Pickup Details
-- Coming Soon!
+- Meet in the Hilton Omaha Hotel lobby by 7:45 a.m.
+- The bus will **leave** at 8:00 a.m., so make sure you arrive in the hotel lobby by 7:45 a.m.
 
 # Hotel
 
