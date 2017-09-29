@@ -14,6 +14,12 @@ Transportation Data Challenge in Lincoln is associated with the [MBDH All-Hands 
 # Twitter
 Use the hashtag ```#tdcLincoln``` to talk about it and share ideas/pictures/feedback.
 
+# Slack Channel
+[https://tdclincoln.slack.com](https://tdclincoln.slack.com/)
+
+# Code of Conduct
+By participating in this Hackathon, you choose to abide by this [Code of Conduct](https://bridgingbigdata.github.io/pages/coc.html).
+
 # Theme
 Traffic deaths across the United States increased 14% over the last two years. In 2016, nearly 6,000 pedestrians died – the highest number in more than two decades. Data science collaboration has the potential to reverse this trend – this Challenge aims to do just that.
 
