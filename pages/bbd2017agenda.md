@@ -69,6 +69,7 @@ Dan Linzell, Deepak Khazanchi
   - **Development of Image-Based Autonomous Bridge Deck Crack Mapping System**, [Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/), Kwanghee Won, University of Nebraska-Lincoln
   - **Interactive Control of a Flying Robot for Automated Bridge Inspection**, Kwanghee Won and [Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/), University of Nebraska-Lincoln
   - **National Data Service [Labs Workbench](https://www.workbench.terraref.org) for [TERRA-REF](http://terraref.org)**, [Craig Willis](https://ischool.illinois.edu/people/phd-students/craig-willis), Senior research programmer for the National Data Service at NCSA 
+  - **Damage Detection in Civil Infrastructure from Point Clouds**, M. Ebrahim Mohammadi, Richard L. Wood, University of Nebraska-Lincoln
 
 - Moderator: Brian Ricks
 
