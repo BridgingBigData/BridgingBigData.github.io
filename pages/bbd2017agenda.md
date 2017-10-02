@@ -33,8 +33,8 @@ Wednesday, October 4th, 2017
 - Abstract:
 > This presentation will discuss findings from past workshops, collaborative efforts to prepare prototype platforms and the path going forward. We will discuss the interconnected elements of a SMArt big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI). Each SMARTI focus area will investigate specific challenges and solutions through data collection efforts from a representative set of rural bridges in the Midwest. This presentation will also highlight specific capabilities of project participants and collaborators.
 
-- Speakers: Robin Gandhi, Chungwook Sim, Brian Ricks,  
-Dan Linzell, Deepak Khazanchi   
+- Speakers: [Robin Gandhi](http://faculty.ist.unomaha.edu/rgandhi/), [Chungwook Sim](https://engineering.unl.edu/civil/faculty/chungwook-sim/), [Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php),  
+[Dan Linzell](https://engineering.unl.edu/civil/daniel-linzell/), [Deepak Khazanchi](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/deepak-khazanchi.php)   
 
 ### Break
 9:30 – 9:45 a.m.         
@@ -42,12 +42,12 @@ Dan Linzell, Deepak Khazanchi
 
 ### Facilitated Working Session 1
 9:45 to 10:30 a.m.    
-- 1 scribe per group, 4 groups
+- 4 groups
 - Breakout Theme (**Challenges**):   
-  Data Management  
-  Decision Support Systems  
-  Social-Technological Impact  
-  Next-Gen Health Monitoring
+  Data Management, Scribe: [Robin Gandhi](http://faculty.ist.unomaha.edu/rgandhi/)  
+  Decision Support Systems, Scribes: [Dan Linzell](https://engineering.unl.edu/civil/daniel-linzell/), [Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php)     
+  Social-Technological Impact, Scribe: [Deepak Khazanchi](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/deepak-khazanchi.php)   
+  Next-Gen Health Monitoring: [Chungwook Sim](https://engineering.unl.edu/civil/faculty/chungwook-sim/)
 
 ### Keynote
 10:30 to 11:45 p.m.     
@@ -57,7 +57,7 @@ Dan Linzell, Deepak Khazanchi
 
 - Speaker: [Glenn Washer](https://bridgingbigdata.github.io/pages/bio.html#glenn-washer), University of Missouri, Department of Civil and Environmental Engineering   
 - Theme: Decision Support Systems  
-- Moderator: Dan Linzell        
+- Moderator: [Dan Linzell](https://engineering.unl.edu/civil/daniel-linzell/)        
 
 ### Lunch with System Demos
 11:45 a.m. to 12:45
@@ -68,10 +68,10 @@ Dan Linzell, Deepak Khazanchi
   - **Health Monitoring Schemes for Double-Track Steel Railway Bridges**, Ahmed Rageh (M.S. Student), Saeed Eftekhar Azam (Ph.D.), [Daniel Linzell](http://engineering.unl.edu/civil/daniel-linzell/), University of Nebraska-Lincoln
   - **Development of Image-Based Autonomous Bridge Deck Crack Mapping System**, [Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/), Kwanghee Won, University of Nebraska-Lincoln
   - **Interactive Control of a Flying Robot for Automated Bridge Inspection**, Kwanghee Won and [Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/), University of Nebraska-Lincoln
-  - **National Data Service [Labs Workbench](https://www.workbench.terraref.org) for [TERRA-REF](http://terraref.org)**, [Craig Willis](https://ischool.illinois.edu/people/phd-students/craig-willis), Senior research programmer for the National Data Service at NCSA 
-  - **Damage Detection in Civil Infrastructure from Point Clouds**, M. Ebrahim Mohammadi, Richard L. Wood, University of Nebraska-Lincoln
+  - **National Data Service [Labs Workbench](https://www.workbench.terraref.org) for [TERRA-REF](http://terraref.org)**, [Craig Willis](https://ischool.illinois.edu/people/phd-students/craig-willis), Senior research programmer for the National Data Service at NCSA
+  - **Damage Detection in Civil Infrastructure from Point Clouds**, M. Ebrahim Mohammadi, Yijun Liao, [Richard L. Wood](https://engineering.unl.edu/civil/richard-wood/), University of Nebraska-Lincoln
 
-- Moderator: Brian Ricks
+- Moderator: [Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php)
 
 ### Keynote
 12:45 to 1:30 p.m.    
@@ -84,7 +84,7 @@ Dan Linzell, Deepak Khazanchi
 
 - Speaker: [Mike LaViolette](https://bridgingbigdata.github.io/pages/bio.html#michael-laviolette), P.E., P.Eng. [HDR Inc.](https://www.hdrinc.com)  
 - Theme: Data Management   
-- Moderator: Chungwook Sim
+- Moderator: [Chungwook Sim](https://engineering.unl.edu/civil/faculty/chungwook-sim/)
 
 
 ### Break
@@ -93,17 +93,17 @@ Dan Linzell, Deepak Khazanchi
 
 ### Facilitated Working Session 2
 2:00 to 2:45 p.m.    
-- 1 scribe per group, 4 groups
+- 4 groups
 - Breakout Theme (**Solutions**):   
-  Data Management  
-  Decision Support Systems  
-  Social-Technological Impact  
-  Next-Gen Health Monitoring    
+Data Management, Scribe: [Robin Gandhi](http://faculty.ist.unomaha.edu/rgandhi/)  
+Decision Support Systems, Scribes: [Dan Linzell](https://engineering.unl.edu/civil/daniel-linzell/), [Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php)     
+Social-Technological Impact, Scribe: [Deepak Khazanchi](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/deepak-khazanchi.php)   
+Next-Gen Health Monitoring: [Chungwook Sim](https://engineering.unl.edu/civil/faculty/chungwook-sim/)    
 
 ### UAV/UAS for Infrastructure Monitoring Session
 3:00 – 4:00 p.m.  
 - Theme: Next-Gen Health Monitoring    
-- Moderators: Richard L. Wood and Raj Dasgupta.
+- Moderators: [Richard L. Wood](https://engineering.unl.edu/civil/richard-wood/) and [Raj Dasgupta](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/prithviraj-dasgupta.php).
 
 **Talk 1**
 - Title: **Using Unmanned Aerial Systems (UAS) with Lasers to Assess Structural Performance**  
@@ -122,4 +122,4 @@ Dan Linzell, Deepak Khazanchi
 ### Closing
 4:00 – 4:30 p.m.  
 - Title: **Breakout Reports  and Closure: Event Summary, Support Statements, Next Steps**   
-- Moderators: Dan Linzell, Robin Gandhi, Deepak Khazanchi, Brian Ricks
+- Moderators: [Dan Linzell](https://engineering.unl.edu/civil/daniel-linzell/), [Robin Gandhi](http://faculty.ist.unomaha.edu/rgandhi/), [Deepak Khazanchi](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/deepak-khazanchi.php), [Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php)
