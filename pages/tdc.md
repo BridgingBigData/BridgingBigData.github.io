@@ -13,6 +13,7 @@ Transportation Data Challenge in Lincoln is associated with the [MBDH All-Hands 
 
 # Twitter
 Use the hashtag ```#tdcLincoln``` to talk about it and share ideas/pictures/feedback.
+Here are the [tweets made during the event](https://twitter.com/hashtag/tdclincoln).
 
 # Slack Channel
 [https://tdclincoln.slack.com](https://tdclincoln.slack.com/)
