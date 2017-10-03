@@ -24,7 +24,7 @@ Wednesday, October 4th, 2017
 8:30 - 8:45 a.m.              
 - Speakers:  
 [Hesham Ali](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/hesham-ali.php), Dean of The College of Information Science and Technology, UNO and  
-[Mike Riley](http://engineering.unl.edu/mark-riley/), Associate Dean for Research, College of Engineering, University of Nebraska–Lincoln
+[Mark Riley](http://engineering.unl.edu/mark-riley/), Associate Dean for Research, College of Engineering, University of Nebraska–Lincoln
 
 
 ### BD Spoke Project Updates
