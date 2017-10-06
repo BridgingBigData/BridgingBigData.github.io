@@ -33,7 +33,7 @@ Thanks to our Judges:
 - Tongge Huang  
 - Shefang Wang  
 - Chenhui Liu  
-
+[Download Presentation](https://bridgingbigdata.github.io/assets/attachments/CITI Bike Data Analysis_SunnyBike.pptx)
 
 ## 3rd Place: Team VSL
 - Saeed Arabi  
