@@ -18,6 +18,31 @@ Here are the [tweets made during the event](https://twitter.com/hashtag/tdclinco
 # Slack Channel
 [https://tdclincoln.slack.com](https://tdclincoln.slack.com/)
 
+# Winners
+
+Thanks to our Judges:
+1. [Ibrahim Demir](https://www.engineering.uiowa.edu/faculty-staff/ibrahim-demir), Assistant Professor, Civil and Environmental Engineering  
+2. [Amy Unruh](https://www.linkedin.com/in/amyunruh), Developer relations, Google
+
+## 1st Place: Team KKM
+- Md Mehedi Hasnat  
+- Kamol Chandra Roy  
+- Kwanghee Won  
+
+## 2nd Place: Team Sunny Bike
+- Tongge Huang  
+- Shefang Wang  
+- Chenhui Liu  
+
+
+## 3rd Place: Team VSL
+- Saeed Arabi  
+- Lakshay Ahuja  
+- Vesal Ahsani  
+
+# Presentations
+Recording of the presentations are available [here](https://youtu.be/FnPkArFenZo).
+
 # Code of Conduct
 By participating in this Hackathon, you choose to abide by this Code of Conduct.
 
