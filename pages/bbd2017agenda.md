@@ -13,6 +13,10 @@ Wednesday, October 4th, 2017
 8:00 A.M. to 4:30 P.M.  
 - Registration starts at 8:00 AM
 
+## BBD 2017 is now concluded
+
+BBD 2017 hosted a number of great speakers, system demonstrations and working sessions. A [summary of the working group discussions](https://bridgingbigdata.github.io/assets/attachments/Facilitated-Sessions-BBD-2017.pdf) has been prepared by the workshop organizers and is linked [here](https://bridgingbigdata.github.io/assets/attachments/Facilitated-Sessions-BBD-2017.pdf). If interested, you may request the slides or more information from the speakers below directly. We hope to see you at the next BBD event!
+
 ## Agenda
 
 ### Registration
