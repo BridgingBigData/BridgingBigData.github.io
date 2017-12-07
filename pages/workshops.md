@@ -3,13 +3,9 @@ layout: default
 title: Workshops - Bridging Big Data
 description: Bridging Big Data Workshops
 ---
-# Upcoming Workshops
-
 ## Bridging Big Data Workshop (2017)
 
 * [Workshop at the Kiewit Training Center, Omaha Downtown, October 4th 2017](https://bridgingbigdata.github.io/pages/bbd2017.html)
-
-# Previous Workshops
 
 ## Bridging Big Data Workshop (2016)
 
