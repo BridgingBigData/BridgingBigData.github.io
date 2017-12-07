@@ -32,11 +32,8 @@ Our collaboration on Big Data and bridge health has resulted in numerous present
  
  ## Workshops Organized
  
-  - Bridging Big Data (BBD) 2016
-   
-We hosted the 2nd annual 2016 Bridging Big Data Workshop on November 4, 2016 at the Scott Conference Center in Omaha, Nebraska. With sixty-two registrations, attendees included bridge owners from the public and private sectors, civil engineering and IT researchers, and infrastructure solution providers. The workshop sessions generated many discussions identifying pain points for collecting, curating and sharing bridge health data and opportunities to innovate with Big Data technologies.  The workshop has energized this community, which was apparent from the many discussions that the project team had with the attendees.
+- Bridging Big Data (BBD) 2016
+> We hosted the 2nd annual 2016 Bridging Big Data Workshop on November 4, 2016 at the Scott Conference Center in Omaha, Nebraska. With sixty-two registrations, attendees included bridge owners from the public and private sectors, civil engineering and IT researchers, and infrastructure solution providers. The workshop sessions generated many discussions identifying pain points for collecting, curating and sharing bridge health data and opportunities to innovate with Big Data technologies.  The workshop has energized this community, which was apparent from the many discussions that the project team had with the attendees.
   
-  - Bridging Big Data (BBD) 2017
-  
-We hosted the 3rd annual 2017 Bridging Big Data Workshop on October 4, 2017 at the Scott Conference Center in Omaha, Nebraska. 
-BBD 2017 hosted a number of great speakers, system demonstrations and working sessions. With sixty-five registrations, attendees included bridge owners from the public and private sectors, civil engineering and IT researchers, and infrastructure solution providers. This workshop organized several working sessions based on four themes of Data Management, Next Generation Health Monitoring, Decision Support Systems and Socio-Technical Impact to brainstorm current issues and opportunites for collecting and using bridge health data.
+- Bridging Big Data (BBD) 2017  
+> We hosted the 3rd annual 2017 Bridging Big Data Workshop on October 4, 2017 at the Kiewit Training Center, in Omaha, Nebraska. BBD 2017 hosted a number of great speakers, system demonstrations and working sessions. With sixty-five registrations, attendees included bridge owners from the public and private sectors, civil engineering and IT researchers, and infrastructure solution providers. This workshop organized several working sessions based on four themes of Data Management, Next Generation Health Monitoring, Decision Support Systems and Socio-Technical Impact to brainstorm current issues and opportunites for collecting and using bridge health data.
