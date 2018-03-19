@@ -1,10 +1,16 @@
 ---
 layout: default
-title: Pilots and Datasets - Bridging Big Data
+title: Outcomes - Bridging Big Data
 description: Bridging Big Data People
 ---
 
-# Pilot Efforts
+# Publications
+
+- Gandhi, Robin; Khazanchi, Deepak; Linzel, Daniel; Ricks, Brian; Sim, Chungwook, _The Hidden Crisis : Developing Smart Big Data pipelines to address Grand Challenges of Bridge Infrastructure health in the United States_, 15th International Conference on Information Systems for Crisis Response and Management, May 20 - 23, 2018, Rochester NY, USA
+
+- Reports from BBD 2015, 2016 and 2017 workshops
+
+# Enabling Access to Bridge Dataset Access in Big Data Pipelines
 
 ## Nebraska DoT Bridge Inspection Records Dataset cross-linked with National Bridge Inventory
 - Platform: datacenterhub.org
@@ -23,7 +29,7 @@ This repository contains preliminary information related to the NDS Labs Nationa
 - [Access and Setup Instructions](https://github.com/craig-willis/nbi-pilot)
 - [Sample Notebooks](https://github.com/BridgingBigData/notebooks)
 
-# Datasets
+# Raw and Curated Datasets
 
 ## National Bridge Inventory (NBI)
 - [Structure Inventory and Appraisal of the Nations Bridges](http://www.fhwa.dot.gov/bridge/nbi.cfm)
