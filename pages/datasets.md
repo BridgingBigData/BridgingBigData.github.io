@@ -6,7 +6,7 @@ description: Bridging Big Data People
 
 # Publications
 
-- Gandhi, Robin; Khazanchi, Deepak; Linzel, Daniel; Ricks, Brian; Sim, Chungwook, _The Hidden Crisis : Developing Smart Big Data pipelines to address Grand Challenges of Bridge Infrastructure health in the United States_, 15th International Conference on Information Systems for Crisis Response and Management, May 20 - 23, 2018, Rochester NY, USA
+- Gandhi, R., Khazanchi, D., Linzell, D., Ricks, B. and Sim, C. (May 2018). “The Hidden Crisis : Developing Smart Big Data pipelines to address Grand Challenges of Bridge Infrastructure health in the United States.” Proceedings of the 15th ISCRAM Conference – Rochester, NY, USA (WiPe Paper – Open Track), pp. 1016-1021. [Proceedings](https://iscram2018.rit.edu/sites/rit.edu.iscram2018/files/docs/2018_ISCRAM_Conference_Proceedings.pdf)
 
 - Reports from BBD 2015, 2016 and 2017 workshops
 
