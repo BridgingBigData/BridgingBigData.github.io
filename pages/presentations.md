@@ -18,6 +18,10 @@ Our collaboration on Big Data and bridge health has resulted in numerous present
 
  - November 29th, 2017, Research talk on “Bridging Big Data: Big Data Innovations for Bridge Health” Center for Integrated Emergency Management (CIEM), University of Agder (Norway). Presented by Deepak Kazanchi.
  
+ - May 2018, Gandhi, R., Khazanchi, D., Linzell, D., Ricks, B. and Sim, C. “Developing Smart Big Data pipelines to address Challenges of Bridge Infrastructure health in the US”. Pre-OTC GCE NODE NORTEX Data Science Cluster (URL: http://gcenode.no/wp-content/uploads/2018-04-09-Emergency-Response-Seminar-Program-and-invitation-vNO-2.pdf). (Talk presented by Deepak Khazanchi)
+ 
+- June 20-22, 2018, Lightning talk and poster presentation, "Bridging Big Data", at the 2018 NSF BIGDATA and Big Data Hubs and Spokes PI meeting, Arlington, Virginia. Gandhi, R., Linzell, D., and Sim, C.
+ 
 ## Tool Demonstrations
  
 - 2017 Bridging Big Data Workshop, October 4, Omaha, NE. Demonstration topic: NBI Data Analysis with Jupyter and MongoDB, Presented by Akshay Kale (M.S. Student), Robin Gandhi, University of Nebraksa at Omaha
