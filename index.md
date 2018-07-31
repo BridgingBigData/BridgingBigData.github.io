@@ -4,8 +4,12 @@ title: Bridging Big Data
 description: Bridging Big Data Project site
 ---
 ## Sponsor
-![NSF](http://www.nsf.gov/images/logos/nsf1.gif)  
-NSF Award Number:1636805  
+![NSF](http://www.nsf.gov/images/logos/nsf1.gif) 
+
+NSF Award Number:1762034   (Sep 2018 - Aug 2021)   
+Project Title: [Spokes: MEDIUM: MIDWEST: Smart big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1762034&HistoricalAwards=false)
+
+NSF Award Number:1636805  (Sep 2016 - Aug 2018)  
 Project Title: [BD Spokes: PLANNING: MIDWEST: Big Data Innovations for Bridge Health](http://nsf.gov/awardsearch/showAward?AWD_ID=1636805&HistoricalAwards=false)
 
 ## News and Events
