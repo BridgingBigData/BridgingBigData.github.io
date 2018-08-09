@@ -18,11 +18,11 @@ description: Bridging Big Data People
 
 # Researchers
 
-*	Robin A. Gandhi; University of Nebraska-Omaha; PI
-*	Deepak Khazanchi; University of Nebraska-Omaha; co-PI
-*	Brian Ricks; University of Nebraska-Omaha; co-PI
-*	Daniel Linzell; University of Nebraska-Lincoln; co-PI
-*	Chungwook Sim; University of Nebraska-Lincoln; co-PI
+*	[Robin A. Gandhi](http://faculty.ist.unomaha.edu/rgandhi/); University of Nebraska-Omaha; PI
+*	[Deepak Khazanchi](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/deepak-khazanchi.php); University of Nebraska-Omaha; co-PI
+*	[Brian Ricks](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php); University of Nebraska-Omaha; co-PI
+*	[Daniel Linzell](http://engineering.unl.edu/civil/daniel-linzell/); University of Nebraska-Lincoln; co-PI
+*	[Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/); University of Nebraska-Lincoln; co-PI
 *	Parvathi Chundi; University of Nebraska-Omaha
 *	Kate Cooper; University of Nebraska-Omaha
 *	Prithviraj Dasgupta; University of Nebraska-Omaha
