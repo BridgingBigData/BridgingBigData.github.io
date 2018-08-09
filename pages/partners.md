@@ -26,7 +26,7 @@ description: Bridging Big Data People
 *	Parvathi Chundi; University of Nebraska-Omaha
 *	Kate Cooper; University of Nebraska-Omaha
 *	Prithviraj Dasgupta; University of Nebraska-Omaha
-*	Raymond Matthew Germonprez; University of Nebraska-Omaha
+*	Matthew Germonprez; University of Nebraska-Omaha
 *	Sachin Pawaskar; University of Nebraska-Omaha
 *	Jon Youn; University of Nebraska-Omaha
 *	Ron Faller; University of Nebraska-Lincoln
