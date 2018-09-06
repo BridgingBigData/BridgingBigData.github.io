@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>SMARTI</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
+  <link href="https://unpkg.com/vuetify/dist/vuetify.min.css" rel="stylesheet">
+</head>
+
+<body>
+  <div id="app">
+    <v-app light>
+      <v-content>
+
+        <section>
+          <v-parallax src="./assets/img/bridge5.jpg" height=800 jumbotron>
+            <v-layout column align-center justify-center class="white--text">
+              <h1 class="display-4 font-weight-thin white--text mb-2 ">Announcing
+                <nobr class="display-4 font-weight-black">SMARTI</nobr>
+              </h1>
+
+              <div class="headline mb-3 text-xs-center" style="margin-top:1rem">
+                <p>Big data has the answer to shrinking budgets and aging infrastructure.</p>
+              </div>
+            </v-layout>
+          </v-parallax>
+        </section>
+
+        <section class="my-5 py-5">
+          <div class="text-xs-center">
+            <h2 class="display-2">Focus Areas</h2>
+          </div>
+        </section>
+
+        <section>
+          <v-layout column wrap  align-center>
+            <v-container grid-list-xl>
+              <v-layout row wrap justify-center >
+                <v-flex xs12 md3 v-for="area in focusAreas">
+                  <v-card class="elevation-0 transparent">
+                    <v-img :src="area.Image"></v-img>
+                    <v-card-title primary-title>
+                      <div class="headline">{{area.Title}}</div>
+                      <div>{{area.Summary}}</div>
+                    </v-card-title>
+                  </v-card>
+                </v-flex>
+              </v-layout>
+            </v-container>
+          </v-layout>
+        </section>
+
+        <section>
+          <v-parallax src="./assets/img/collab3.jpg" height=800>
+            <v-layout column align-center justify-center>
+              <div class="display-4 font-weight-thin white--text mb-3 ">Synergies</div>
+              <div class="headline">
+                <p>Our multi-institution and multi-sector innovation center thrives on collaboration.</p>
+                <p>Join on of our teams below.</p>
+              </div>
+
+            </v-layout>
+          </v-parallax>
+        </section>
+
+        <section>
+          <div class="text-xs-center my-5">
+            <h2 class="display-2">Action Teams</h2>
+          </div>
+        </section>
+
+        <section>
+          <v-container grid-list-xl>
+            <v-layout row wrap justify-center class="my-5">
+              <v-flex xs12 md3 v-for="team in actionTeams">
+                <v-card class="elevation-0 transparent">
+                  <v-img :src="team.Image"></v-img>
+                  <v-card-title primary-title>
+                    <div class="headline">{{team.Title}}</div>
+                    <div>{{team.Summary}}</div>
+                  </v-card-title>
+                </v-card>
+              </v-flex>
+            </v-layout>
+          </v-container>
+        </section>
+
+        
+        <v-footer class="black darken-2">
+            <v-layout row wrap align-center>
+              <v-flex xs12>
+                <div class="white--text ml-3">
+                  Funded by the National Science Foundation, led by UNL and UNO, and made possible by numerous public and private partners.
+                </div>
+              </v-flex>
+            </v-layout>
+          </v-footer>
+      </v-content>
+    </v-app>
+  </div>
+  <script src="https://unpkg.com/vue/dist/vue.js"></script>
+  <script src="https://unpkg.com/vuetify/dist/vuetify.js"></script>
+  <script>
+    new Vue({
+      el: '#app',
+      data: {
+        actionTeams: [
+          { Title: "Collaboration", Summary: "Workshops, outreach, camps, teaching.", Image: "./assets/img/collab2.jpg" },
+          { Title: "Sensing", Summary: "Sensing, acquisition, schemas, platforms, integration.", Image: "./assets/img/sensing.jpg" },
+          { Title: "Data", Summary: "Bridge selection, instrumentation design, data collection.", Image: "./assets/img/data.jpg" },
+          { Title: "Impact", Summary: "Visualization, algorithms, policy impact, Big Data workflows forinfrastructure.", Image: "./assets/img/visual.jpg" },
+
+        ],
+        focusAreas: [
+          { Title: "Next-Generation Health Monitoring", Summary: "Sensors; Unmanned Aerial Vehicle/System (UAV/UAS); wireless networks.", Image: "./assets/img/bridge3.jpg" },
+          { Title: "Data Management", Summary: "Data security and quality; intellectual property; standards and shared best practices; curation.", Image: "./assets/img/bridge2.jpg" },
+          { Title: "Decision Support Systems", Summary: "Analysis and modeling; data analytics; decision making; visualization.", Image: "./assets/img/bridge4.jpg" },
+          { Title: "Socio-Technological Impact", Summary: "Policy; societal, economic and environmental impact; disaster and crisis management.", Image: "./assets/img/ariel.jpg" },
+
+        ],
+
+      }
+
+    })
+  </script>
+</body>
+
+</html>
