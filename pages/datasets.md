@@ -19,10 +19,13 @@ description: Bridging Big Data People
 ## Creating common schemas for Bridge Deficiencies
 - [JSON-Schemas](https://github.com/BridgingBigData/bridgehealthschema) made available on Github
 
+## Converting NBI Data into Structured JSON 
+- [NBI MongoDB Pipeline](https://github.com/kaleoyster/nbi-pipeline)
+
 ## Analyzing Nebraska Bridge Inspection Records
 - [Jupyter Notebook with MongoDB for analyzing all NBI records from 1992 to 2016 with over 17 million records](https://github.com/BridgingBigData/notebooks/blob/master/NBI%20Exploratory%20Data%20Analysis.ipynb)
-- [Jupyter Notebook with MongoDB to link Nebraska DOT and NBI datasets](http://faculty.ist.unomaha.edu/rgandhi/r/mongoNBI.html)
-- [R markdown for Nebraska Bridge analysis based on NBI data](http://faculty.ist.unomaha.edu/rgandhi/r/NEBridges.html)
+- [Jupyter Notebook with MongoDB to link Nebraska DOT and NBI datasets](https://robinagandhi.github.io/r/mongoNBI.html)
+- [R markdown for Nebraska Bridge analysis based on NBI data](https://robinagandhi.github.io/r/NEBridges.html)
 
 ## NBI compute infrastructure at Labs Workbench, a service of the National Data Service (NDS), a MBDH Infrastructure Partner
 This repository contains preliminary information related to the NDS Labs National Bridge Infrastructure (NBI) data pilot. This pilot consists of a MongoDB containing the NBI dataset and a Jupyter environment with sample notebook for use in the Labs Workbench system.
