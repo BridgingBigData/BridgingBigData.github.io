@@ -4,11 +4,19 @@ title: Outcomes - Bridging Big Data
 description: Bridging Big Data People
 ---
 
+# Workshop Findings
+
+## BBD 2016 Working Session Reports
+1. What are the challenges with sharing Bridge health data? **[Results](https://bridgingbigdata.github.io/pages/Challenges%20with%20Sharing.pdf)**    
+2. How can standardization be accomplished for sharing Bridge health data?  **[Results](https://bridgingbigdata.github.io/pages/Standardization%20of%20Bridge%20Datasets.pdf)**   
+3. What benefits could result from sharing Bridge health data?   **[Results](https://bridgingbigdata.github.io/pages/Benefits%20of%20Sharing.pdf)**   
+
+## BBD 2017 Working Session Report
+A [summary of the working group discussions](https://bridgingbigdata.github.io/assets/attachments/Facilitated-Sessions-BBD-2017.pdf) is linked [here](https://bridgingbigdata.github.io/assets/attachments/Facilitated-Sessions-BBD-2017.pdf). 
+
 # Publications
 
 - Gandhi, R., Khazanchi, D., Linzell, D., Ricks, B. and Sim, C. (May 2018). “The Hidden Crisis : Developing Smart Big Data pipelines to address Grand Challenges of Bridge Infrastructure health in the United States.” Proceedings of the 15th ISCRAM Conference – Rochester, NY, USA (WiPe Paper – Open Track), pp. 1016-1021. [Proceedings](https://iscram2018.rit.edu/sites/rit.edu.iscram2018/files/docs/2018_ISCRAM_Conference_Proceedings.pdf)
-
-- Reports from BBD 2015, 2016 and 2017 workshops
 
 # Enabling Access to Bridge Dataset Access in Big Data Pipelines
 
