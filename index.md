@@ -3,25 +3,21 @@ layout: default
 title: Bridging Big Data
 description: Bridging Big Data Project site
 ---
+
+## News and Events
+
+## Bridging Big Data Workshop (2019) (Save the Date!)
+
+* [Workshop at the Nebraska Innovation Campus, Lincoln, September 16th 2019](https://bridgingbigdata.github.io/pages/bbd2019.html)
+
 ## Sponsor
-![NSF](http://www.nsf.gov/images/logos/nsf1.gif) 
+![NSF](http://www.nsf.gov/images/logos/nsf1.gif)
 
 NSF Award Number:1762034   (Sep 2018 - Aug 2021)   
 Project Title: [Spokes: MEDIUM: MIDWEST: Smart big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1762034&HistoricalAwards=false)
 
 NSF Award Number:1636805  (Sep 2016 - Aug 2018)  
 Project Title: [BD Spokes: PLANNING: MIDWEST: Big Data Innovations for Bridge Health](http://nsf.gov/awardsearch/showAward?AWD_ID=1636805&HistoricalAwards=false)
-
-## News and Events
-
-**BBD 2017**  
-_[Bridging Big Data Workshop (BBD 2017)](https://bridgingbigdata.github.io/pages/bbd2017.html)_   
-Omaha, NE. This workshop was held on October 4th, 2017.  
-
-
-**BBD 2016**  
-_[Bridging Big Data Workshop (BBD 2016)](https://bridgingbigdata.github.io/pages/bbd2016.html)_  
-Omaha, NE. This workshop was held on November 30th, 2016.
 
 ## Motivation
 Bridges across the U.S. continue to deteriorate at an alarming rate and the American Society of Civil Engineers estimate a cost of over $76 billion to improve the country’s functionally obsolete or structurally deficient bridges. This indicates a significant demand for innovative bridge health monitoring solutions that can strategically guide management, maintenance and replacement programs without risking public safety. Unfortunately, the need to improve how our bridges are managed and repaired or replaced faces similar issues and demands as the rest of the U.S. transportation network: continuously shrinking resources and governing bodies who do not have the necessary insights from bridge health data to find a workable solution.
