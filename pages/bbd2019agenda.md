@@ -45,13 +45,13 @@ Networking Break (Coffee provided, and snacks)
 
 ### SMARTI Initiatives
 11:00 a.m. – 12:00 p.m. (60 mins)  
-Topics: Drones, Sensing and Data Analysis
+Topics: Drones, Sensing and Data Analysis  
 Speakers: SMARTI Researchers  
 
 ### Lunch and Learn
-12:00 - 1:00 p.m (60 mins)  
-Lunch Keynote 12:15 - 1:00 p.m. (45 mins)
-Topics: TBD
+12:00 - 1:00 p.m (60 mins)   
+Lunch Keynote 12:15 - 1:00 p.m. (45 mins)  
+Topics: TBD  
 Speaker: TBD  
 
 ### Bridge Stakeholder Initiatives: Gaps and Needs
