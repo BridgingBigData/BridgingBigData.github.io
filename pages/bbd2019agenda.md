@@ -7,46 +7,42 @@ description: BBD 2019 Agenda
 # BBD 2019
 
 ## Date
-Monday, September 16th 2019
+TBD, 2019
 
 ## Duration  
-8:00 A.M. to 4 P.M.  
-- Registration starts at 8:00 AM
+8:30 A.M. to 4 P.M.  
 
 ## Agenda
 
 ### Registration
-8:00 a.m.  
+8:30 a.m.  
 Breakfast and coffee available      
-Registration table open  
+Registration table open
+Networking  
 
 ### Welcome
-8:30 - 8:45 a.m. (15 mins)  
+9:00 - 9:15 a.m. (10 mins, 5 mins transition time)  
 Topic: Welcome Remarks            
 Speakers: From the College of Information Science and Technology, UNO and College of Engineering, University of Nebraska–Lincoln
 
 ### Keynote
-8:45 - 9:30 a.m. (45 mins)  
+9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)  
 Topic: Influence of technology on infrastructure management  
 Speaker: TBD
 
-### Break
-9:30 – 9:45 a.m. (15 mins)        
-Networking Break (Coffee provided, and snacks)
+### Nutrition Break
+10:00 – 10:15 a.m. (15 mins)        
+Networking (Coffee and snacks provided)
 
-### SMARTI Project Impact (Rural Bridges)
-9:45 - 10:45 a.m. (60 mins)  
-Topics: Enduser perspectives  
-Speakers: Representatives from SMARTI public and private industry, government and academic partners  
+### SMARTI Project Impact
+10:15 - 11:15 a.m. (25+25 mins, 5+5 Q&A)  
+Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs  
+Speakers: TBD: Representatives from SMARTI public and private industry, government and academic partners per availability
 
-### Break
-10:45 – 11:00 a.m. (15 mins)        
-Networking Break (Coffee provided, and snacks)
-
-### SMARTI Initiatives
-11:00 a.m. – 12:00 p.m. (60 mins)  
-Topics: Drones, Sensing and Data Analysis  
-Speakers: SMARTI Researchers  
+### Stakeholder Initiatives
+11:15 a.m. – 12:00 p.m. (45 mins)  
+Topics: Data clearinghouses and other innovations in bridge health management.
+Speakers: TBD: Representatives from NE DOT, Union Pacific, FHWA, HDR, ERDC, Kiewit per availability  
 
 ### Lunch and Learn
 12:00 - 1:00 p.m (60 mins)   
@@ -54,24 +50,29 @@ Lunch Keynote 12:15 - 1:00 p.m. (45 mins)
 Topics: TBD  
 Speaker: TBD  
 
-### Bridge Stakeholder Initiatives: Gaps and Needs
-1:00 to 2:00 p.m. (60 mins)  
-Topics: Decision making for rural bridges, Railroad perspectives, Data Access (Infobridge), New sensing mechanisms.  
-Speakers: Representatives from NE DOT, Union Pacific, FHWA, HDR, ERDC, Kiewit per availability  
+### Emerging SMARTI Solutions: Lightning talks and Demonstration
+1:00 - 2:15 p.m (75 mins)   
+Topics: Data management with DEEDS, Drones for physical inspection, Low-cost durable sensing solutions, Data science in action, Actuarial science applied to bridge repair prediction, Augmented reality for bridge inspection
+Speaker: TBD
 
-### Break
-2:00 – 2:15 p.m.         
-Networking Break (Coffee provided, and snacks)    
+### Nutrition Break
+2:15 – 2:30 p.m.         
+Networking (Coffee and snacks provided)   
 
 ### Facilitated Working Session
-2:15 to 3:00 p.m. (45 mins)  
-Breakout: Prioritizing gaps and needs
+2:30 to 3:00 p.m. (30 mins)  
+Breakout: Aligning data gaps and needs with solutions, how can SMARTI help?
+  Decision Support Systems and Socio Technical Impact  
+    Decision making framework (analytics, visualization, fusion), Impact methods and tools, what should be available?
+  Next-Gen Health Monitoring and Data Management
+    Data collection, transmission and curation, Sensing methods and tools, What else should be sensed on rural bridges and ideas on how to collect it, Data methods and tools, Data Center Hub usage and tool setup, what should be available?
 
-### Break
-3:00 – 3:15 p.m.         
-Networking Break (Coffee provided, and snacks)    
+### Working Session Report Out
+3:00 to 3:15 p.m. (15 mins)  
+Breakout: Summarize findings and share
+Speakers: Session facilitators
 
 ### Closing Keynote
-3:15 to 4:00 p.m.     
-Topic: Structural Health Monitoring in Practice: The way forward  
+3:15 to 4:00 p.m. (30 mins, 15 mins Q&A)    
+Topic: Realizing Connected Infrastructure: The way forward  
 Speaker: TBD
