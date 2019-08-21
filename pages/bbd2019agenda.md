@@ -83,6 +83,6 @@ Topic: Realizing Connected Infrastructure: People and Technology
 Speaker: Nigel Jacob, City of Boston  
 https://www.boston.gov/departments/new-urban-mechanics/nigel-jacob
 
-### Closing Remarks
+### Closing Remarks: The way forward
 4:15 to 4:30 p.m. (15 mins)    
-Topic: Workshop closing comments
+Topic: Workshop closing comments, next steps and stakeholder engagement.
