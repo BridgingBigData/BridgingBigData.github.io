@@ -7,7 +7,7 @@ description: BBD 2019 Agenda
 # BBD 2019 Draft Agenda (Subject to Change!)
 
 ## Date
-TBD, 2019
+Monday October 14th, 2019
 
 ## Duration  
 8:30 A.M. to 5 P.M.  
@@ -86,3 +86,8 @@ https://www.boston.gov/departments/new-urban-mechanics/nigel-jacob
 ### Closing Remarks
 4:15 to 4:30 p.m. (15 mins)    
 Topic: Workshop closing comments
+
+
+### Hope to see you at the workshop.   
+Please register soon if you have not done so already.
+* Registration: [https://bridgingbigdata.eventbrite.com](https://bridgingbigdata.eventbrite.com)
