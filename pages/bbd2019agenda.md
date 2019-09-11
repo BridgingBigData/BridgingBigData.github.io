@@ -32,20 +32,23 @@ Speaker: TBD
 Networking (Coffee and snacks provided)
 
 ### SMARTI Project Impact
-10:15 - 11:15 a.m. (25+25 mins, 5+5 Q&A)  
-Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs  
-Speakers: TBD: Representatives from SMARTI public and private industry, government and academic partners per availability
+10:15 - 11:00 a.m. (45 mins)  
+Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs discussed by representatives from SMARTI public and private industry, government and academic partners
+Speakers: 
+- Kent Miller, Bridge Division, Nebraska Department of Transporation (NEDoT)
 
 ### Stakeholder Initiatives
-11:15 a.m. – 12:00 p.m. (45 mins)  
-Topics: Data clearinghouses and other innovations in bridge health management.  
-Speakers: TBD
+11:00 a.m. – 12:00 p.m. (60 mins)  
+Topics: Data clearinghouses and other innovations in bridge health management  
+Speakers: 
+- [Ann Christine Catline](https://www.rcac.purdue.edu/about/staff/acc/), datacenterhub.org, Purdue University
+- Sattar Dorfshan, Federal Highway Administration
 
 ### Lunch and Learn
 12:00 - 1:00 p.m (60 mins)   
 Lunch Keynote 12:15 - 1:00 p.m. (45 mins)  
 Topics: The IoT landscape in Infrastructure Monitoring  
-Speaker: TBD  
+Speaker: [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/stephen-russo/), Director, Cognitive City Solutions IoT, IBM
 
 ### Emerging SMARTI Solutions: Posters and Demonstration over Coffee
 1:00 - 2:15 p.m (75 mins)   
