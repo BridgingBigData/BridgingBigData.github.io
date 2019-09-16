@@ -11,7 +11,7 @@ description: Bridging Big Data Project site
 * [Workshop at the Nebraska Innovation Campus, Lincoln](https://bridgingbigdata.github.io/pages/bbd2019.html)
 
 ## Sponsor
-![NSF](http://www.nsf.gov/images/logos/nsf1.gif)
+![NSF](./pages/nsf1.gif)
 
 NSF Award Number:1762034   (Sep 2018 - Aug 2021)   
 Project Title: [Spokes: MEDIUM: MIDWEST: Smart big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1762034&HistoricalAwards=false)
