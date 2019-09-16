@@ -34,14 +34,16 @@ Networking (Coffee and snacks provided)
 ### SMARTI Project Impact
 10:15 - 11:00 a.m. (45 mins)  
 Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs discussed by representatives from SMARTI public and private industry, government and academic partners
-Speakers: 
+Speakers:
 - Kent Miller, Bridge Division, Nebraska Department of Transporation (NEDoT)
 
 ### Stakeholder Initiatives
 11:00 a.m. – 12:00 p.m. (60 mins)  
 Topics: Data clearinghouses and other innovations in bridge health management  
-Speakers: 
-- [Ann Christine Catline](https://www.rcac.purdue.edu/about/staff/acc/), datacenterhub.org, Purdue University
+Speakers:  
+- [Ann Christine Catline](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#ann_chritine), datacenterhub.org, Purdue University  
+> Decades of government funding has targeted development of platforms that fully support team-shared research and are effective across science domains. Even so, most existing platforms offer support only for specific research activities, such as file sharing or HPC computing, and platforms that offer more complete support are heavily customized for specific scientific disciplines. As a result, most researchers continue to carry out their investigations in an ad hoc manner. This means their collected data, files, code, analyses and outcomes are fragmented, seriously complicating data preservation, sharing, interoperability, results traceability, publication, reuse and re-interpretation. In this presentation, we introduce the Digital Environment for Enabling Data-driven Science (DEEDS), a platform that provides comprehensive, end-to-end solutions for data, computing and scientific workflows..[read more](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#ann_chritine).
+
 - Sattar Dorfshan, Federal Highway Administration
 
 ### Lunch and Learn
