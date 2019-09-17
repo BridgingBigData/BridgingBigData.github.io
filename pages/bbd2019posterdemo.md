@@ -28,4 +28,4 @@ For those presenting posters we will have boards and easels.
 - The title should be properly capitalized with a minimum font size of 80 points.
 - The text should be written with a minimum font size of 18 points.
 
-You are encouraged, but not required, to use a poster template. One such template can be found at the following url: https://osf.io/6ua4k/
+You are encouraged, but not required, to use a poster template. One such template can be found at the following url: [https://osf.io/6ua4k/](https://osf.io/6ua4k/)
