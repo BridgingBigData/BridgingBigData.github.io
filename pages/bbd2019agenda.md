@@ -32,10 +32,10 @@ Speaker: TBD
 Networking (Coffee and snacks provided)
 
 ### SMARTI Project Impact
-10:15 - 11:00 a.m. (45 mins)  
+10:15 - 11:00 a.m.
 Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs discussed by representatives from SMARTI public and private industry, government and academic partners
 Speakers:
-- Kent Miller, Bridge Division, Nebraska Department of Transporation (NEDoT)
+- Kent Miller, Bridge Division, Nebraska Department of Transportation (NEDoT)
 
 ### Stakeholder Initiatives
 11:00 a.m. – 12:00 p.m. (60 mins)  
