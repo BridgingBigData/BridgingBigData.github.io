@@ -67,8 +67,8 @@ Topics:
   - Actuarial science applied to bridge repair prediction
   - Augmented reality for bridge inspection
   - More to come...  
-
-Speakers: TBD
+ 
+[Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2019posterdemo.html)
 
 ### Nutrition Break
 2:15 – 2:30 p.m.         
