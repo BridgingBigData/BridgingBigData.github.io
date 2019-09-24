@@ -4,7 +4,8 @@ title: Agenda BBD 2019
 description: BBD 2019 Agenda
 ---
 
-# BBD 2019 Draft Agenda (Subject to Change!)
+# BBD 2019 Agenda
+_Subject to changes_
 
 ## Date
 Monday October 14th, 2019
@@ -36,6 +37,7 @@ Networking (Coffee and snacks provided)
 Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs discussed by representatives from SMARTI public and private industry, government and academic partners
 Speakers:
 - Kent Miller, Bridge Division, Nebraska Department of Transportation (NEDoT)
+> In this talk Kent will discuss how NEDoT and other bridge and roadway owners can make the best use of their data and data collection practices. He will also have an open conversation with the audience about the feasibility and processes of using machine learning to make bridge work candidate selections and bridge work strategy decisions.
 
 ### Stakeholder Initiatives
 11:00 a.m. – 12:00 p.m. (60 mins)  
@@ -56,6 +58,7 @@ Speakers:
 Lunch Keynote 12:15 - 1:00 p.m. (45 mins)  
 Topics: The IoT landscape in Infrastructure Monitoring  
 Speaker: [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/stephen-russo/), Director, Cognitive City Solutions IoT, IBM
+> Over the last 20 years, huge investments have been made in metropolitan areas to understand the immense volume of data collected about the citizens inhabiting these cities. Hundreds of millions of dollars have been spent combining data with emerging mobile, sensor and machine learning technologies. This is all done with the goal to improve infrastructure and the well-being of citizens. But twenty years later, we find ourselves worse off than when we started. In this talk, Stephen will discuss IBM's enterprise asset  management solution that will help organizations monitor the structural health of bridges, tunnels, highways, dams, grids, railways and more, extending the lifespan of assets by optimizing maintenance and providing early warnings of deterioration and damage.
 
 ### Emerging SMARTI Solutions: Posters and Demonstration over Coffee
 1:00 - 2:15 p.m (75 mins)   
@@ -67,7 +70,7 @@ Topics:
   - Actuarial science applied to bridge repair prediction
   - Augmented reality for bridge inspection
   - More to come...  
- 
+
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2019posterdemo.html)
 
 ### Nutrition Break
@@ -87,11 +90,15 @@ Breakout: Aligning data gaps and needs with solutions, how can SMARTI help?
 Breakout: Summarize findings from the Breakout  
 Speakers: Session facilitators
 
-### Keynote
+### Afternoon Keynote
 3:30 to 4:15 p.m. (30 mins, 15 mins Q&A)    
 Topic: Realizing Connected Infrastructure: People and Technology  
 Speaker: Nigel Jacob, City of Boston  
 https://www.boston.gov/departments/new-urban-mechanics/nigel-jacob
+> Nigel Jacob is the Co-founder of the Mayor’s Office of New Urban Mechanics, a civic innovation incubator and R&D Lab within Boston’s City Hall. Nigel’s work is about making urban life better via innovative, people-oriented applications of technology and design. Prior to joining the City of Boston in 2006, Nigel worked in a series of technology start-ups in the Boston area.
+> He was also previously the Urban Technologist in Residence at Living Cities, a philanthropic collaboration of 22 of the world’s largest foundations and financial institutions, is currently a board member at organizations such as Code For America and coUrbanize, and is an Executive-in-Residence at Boston University.
+> Nigel’s work has been written about extensively in magazines such as Wired, MIT Technology Review, Fast Company and books including The Responsive City, by Stephen Goldsmith and Susan Crawford and Smart Cities by Anthony Townsend.
+> This ground-breaking work has earned Nigel a number of awards including being named a Public Official of the year in 2011 by Governing Magazine, a Whitehouse Champion of Change and the Tribeca Disruptive Innovation award for 2012. Nigel is also a 12th level Wizard-Pirate with a special focus on causing chaos in large municipal bureaucracies via befuddlement spells.
 
 ### Closing Remarks
 4:15 to 4:30 p.m. (15 mins)    
