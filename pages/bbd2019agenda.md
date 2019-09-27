@@ -63,11 +63,12 @@ Speaker: [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/ste
 ### Emerging SMARTI Solutions: Posters and Demonstration over Coffee
 1:00 - 2:15 p.m (75 mins)   
 Topics:
-  - Data management with DEEDS
+  - Low-cost durable sensing solutions, [Alberto Mannil, Innovation Program Manager, SIGFOX](https://www.linkedin.com/in/albertomannil)
+  - Data Products for State DoT, [Mike Bynum, Catch Intelligence](https://www.linkedin.com/in/mikebynum)
+  - Analyzing the structural health of civil infrastructures using correlation networks, Prasad Chetti, Ph.D. Student, University of Nebraska at Omaha
+  - Identifying Predictors of Bridge Deterioration in The United States From A Data Science Perspective, Akshay Kale, Ph.D. Student, University of Nebraska at Omaha
+  - Bridge predictive maintenance, an Actuarial life model approach, O'Brien Chen, M.S. Student, University of Nebraska at Omaha.
   - Drones for physical inspection
-  - Low-cost durable sensing solutions
-  - Data science in action
-  - Actuarial science applied to bridge repair prediction
   - Augmented reality for bridge inspection
   - More to come...  
 
