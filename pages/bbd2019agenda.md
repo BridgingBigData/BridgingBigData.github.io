@@ -21,8 +21,8 @@ Networking
 
 ### Welcome
 9:00 - 9:15 a.m. (10 mins, 5 mins transition time)  
-Topic: Welcome Remarks
-Speaker: Dr. David Jackson, Vice Provost, University of Nebraska-Lincoln
+Topic: Welcome Remarks  
+Speaker: [Dr. David Jackson, Vice Provost, University of Nebraska-Lincoln](https://foodsci.unl.edu/djackson)
 
 ### Keynote
 9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)   
