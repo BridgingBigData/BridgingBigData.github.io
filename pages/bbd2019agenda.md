@@ -24,9 +24,10 @@ Networking
 Topic: Welcome Remarks   
 
 ### Keynote
-9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)  
-Topic: Influence of technology on infrastructure management (Research Focus)  
-Speaker: TBD
+9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)   
+Topic: The IoT landscape in Infrastructure Monitoring  
+Speaker: [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/stephen-russo/), Director, Cognitive City Solutions IoT, IBM
+> Over the last 20 years, huge investments have been made in metropolitan areas to understand the immense volume of data collected about the citizens inhabiting these cities. Hundreds of millions of dollars have been spent combining data with emerging mobile, sensor and machine learning technologies. This is all done with the goal to improve infrastructure and the well-being of citizens. But twenty years later, we find ourselves worse off than when we started. In this talk, Stephen will discuss IBM's enterprise asset  management solution that will help organizations monitor the structural health of bridges, tunnels, highways, dams, grids, railways and more, extending the lifespan of assets by optimizing maintenance and providing early warnings of deterioration and damage.
 
 ### Nutrition Break
 10:00 – 10:15 a.m. (15 mins)        
@@ -53,12 +54,8 @@ Speakers:
   Hoda Azari, Ph.D., NDE Program Manager.
   >The Federal Highway Administration (FHWA) Nondestructive Evaluation (NDE) Laboratory is a world-class facility to conduct state-of-the-art research, development, and implementation of NDE systems and technologies to improve the Nation’s highway infrastructure assets. Since its establishment in 1998, the NDE Laboratory has been maintained as an open resource for the FHWA, State departments of transportation (DOTs), industry, and academia. To address the needs of the 21st century, the NDE program has been moving towards automation to infrastructure construction, inspection, monitoring, and management. In this presentation, a brief overview of the FHWA NDE program is introduced. In addition, the past and present research investigations for using robotic data acquisition and autonomous data interpretation using artificial intelligence are presented...[read more](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#sattar_dorafshan_abstract)
 
-### Lunch and Learn
+### Lunch
 12:00 - 1:00 p.m (60 mins)   
-Lunch Keynote 12:15 - 1:00 p.m. (45 mins)  
-Topics: The IoT landscape in Infrastructure Monitoring  
-Speaker: [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/stephen-russo/), Director, Cognitive City Solutions IoT, IBM
-> Over the last 20 years, huge investments have been made in metropolitan areas to understand the immense volume of data collected about the citizens inhabiting these cities. Hundreds of millions of dollars have been spent combining data with emerging mobile, sensor and machine learning technologies. This is all done with the goal to improve infrastructure and the well-being of citizens. But twenty years later, we find ourselves worse off than when we started. In this talk, Stephen will discuss IBM's enterprise asset  management solution that will help organizations monitor the structural health of bridges, tunnels, highways, dams, grids, railways and more, extending the lifespan of assets by optimizing maintenance and providing early warnings of deterioration and damage.
 
 ### Emerging SMARTI Solutions: Posters and Demonstration over Coffee
 1:00 - 2:15 p.m (75 mins)   
