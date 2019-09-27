@@ -13,15 +13,16 @@ Monday October 14th, 2019
 ## Duration  
 8:30 A.M. to 5 P.M.  
 
-### Registration
-8:30 a.m.  
+### Registration and Breakfast
+8:30 a.m. - 8:50 a.m.  
 Breakfast and coffee available      
 Registration table open
 Networking  
 
 ### Welcome
 9:00 - 9:15 a.m. (10 mins, 5 mins transition time)  
-Topic: Welcome Remarks   
+Topic: Welcome Remarks
+Speaker: Dr. David Jackson, Vice Provost, University of Nebraska-Lincoln
 
 ### Keynote
 9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)   
