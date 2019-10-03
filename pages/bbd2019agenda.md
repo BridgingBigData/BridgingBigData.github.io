@@ -62,12 +62,13 @@ Speakers:
 1:00 - 2:15 p.m (75 mins)   
 Topics:
   - Low-cost durable sensing solutions, [Alberto Mannil, Innovation Program Manager, SIGFOX](https://www.linkedin.com/in/albertomannil)
-  - Data Products for State DoT, [Mike Bynum, Catch Intelligence](https://www.linkedin.com/in/mikebynum)
+  - Data Products for State DoT, [Mark Floresh, President and CEO, Catch Intelligence](https://catchintelligence.com/wp-content/uploads/2015/01/MarkFloersch_CEO_Backgrounder.pdf)
   - Analyzing the structural health of civil infrastructures using correlation networks, Prasad Chetti, Ph.D. Student, University of Nebraska at Omaha
   - Identifying Predictors of Bridge Deterioration in The United States From A Data Science Perspective, Akshay Kale, Ph.D. Student, University of Nebraska at Omaha
   - Bridge predictive maintenance, an Actuarial life model approach, O'Brien Chen, M.S. Student, University of Nebraska at Omaha.
-  - Drones for physical inspection
-  - Augmented reality for bridge inspection
+  - Application of Hololens for Bridge Inspection, Matt Neitzke,  Attic/CMIT, University of Nebraska at Omaha
+  - Computer Vision Based UAV for Steel Bridge Connections, Jiyoung Lee, PhD Student in Computer Science, University of Nebraska, Lincoln 
+  - Automated bridge deck Transverse Crack Detection System with Optical Sensors, Chungwook Sim, Asst. Prof at University of Nebraska, Lincoln and Kwanghee Won Asst. Prof at South Dakota State University
   - More to come...  
 
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2019posterdemo.html)
