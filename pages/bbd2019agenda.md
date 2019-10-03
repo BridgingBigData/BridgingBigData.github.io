@@ -40,6 +40,8 @@ Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs dis
 Speakers:
 - Kent Miller, Bridge Division, Nebraska Department of Transportation (NEDoT)
 > In this talk Kent will discuss how NEDoT and other bridge and roadway owners can make the best use of their data and data collection practices. He will also have an open conversation with the audience about the feasibility and processes of using machine learning to make bridge work candidate selections and bridge work strategy decisions.
+- Tim Bowley, Bridge Division, Union Pacific
+> Abstract coming soon...
 
 ### Stakeholder Initiatives
 11:00 a.m. – 12:00 p.m. (60 mins)  
