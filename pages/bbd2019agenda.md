@@ -14,28 +14,28 @@ Monday October 14th, 2019
 8:30 A.M. to 5 P.M.  
 
 ### Registration and Breakfast
-8:30 a.m. - 8:50 a.m.  
+8:30 a.m. - 8:45 a.m.  
 Breakfast and coffee available      
 Registration table open
 Networking  
 
 ### Welcome
-9:00 - 9:15 a.m. (10 mins, 5 mins transition time)  
+8:45 - 9:00 a.m. (10 mins, 5 mins transition time)  
 Topic: Welcome Remarks  
 Speaker: [Dr. David Jackson, Vice Provost, University of Nebraska-Lincoln](https://foodsci.unl.edu/djackson)
 
 ### Keynote
-9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)   
+9:00 - 9:45 a.m. (30 mins, 15 mins Q&A)   
 Topic: The IoT landscape in Infrastructure Monitoring  
 Speaker: [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/stephen-russo/), Director, Cognitive City Solutions IoT, IBM
 > Over the last 20 years, huge investments have been made in metropolitan areas to understand the immense volume of data collected about the citizens inhabiting these cities. Hundreds of millions of dollars have been spent combining data with emerging mobile, sensor and machine learning technologies. This is all done with the goal to improve infrastructure and the well-being of citizens. But twenty years later, we find ourselves worse off than when we started. In this talk, Stephen will discuss IBM's enterprise asset  management solution that will help organizations monitor the structural health of bridges, tunnels, highways, dams, grids, railways and more, extending the lifespan of assets by optimizing maintenance and providing early warnings of deterioration and damage.
 
 ### Nutrition Break
-10:00 – 10:15 a.m. (15 mins)        
+9:45 – 10:00 a.m. (15 mins)        
 Networking (Coffee and snacks provided)
 
 ### SMARTI Project Impact
-10:15 - 11:00 a.m.
+10:00 - 11:00 a.m. (60 mins)
 Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs discussed by representatives from SMARTI public and private industry, government and academic partners
 Speakers:
 - Kent Miller, Bridge Division, Nebraska Department of Transportation (NEDoT)
@@ -70,8 +70,10 @@ Topics:
   - Bridge predictive maintenance, an Actuarial life model approach, O'Brien Chen, M.S. Student, University of Nebraska at Omaha.
   - Application of Hololens for Bridge Inspection, Matt Neitzke,  Attic/CMIT, University of Nebraska at Omaha
   - Computer Vision Based UAV for Steel Bridge Connections, Jiyoung Lee, PhD Student in Computer Science, University of Nebraska, Lincoln 
-  - Automated bridge deck Transverse Crack Detection System with Optical Sensors, Chungwook Sim, Asst. Prof at University of Nebraska, Lincoln and Kwanghee Won Asst. Prof at South Dakota State University
-  - More to come...  
+  - Automated bridge deck Transverse Crack Detection System with Optical Sensors, Chungwook Sim, Asst. Prof at University of Nebraska, Lincoln
+  - Full-Scale Experiments for Development and Validation of a Robust Damage Detection Tool, Emmanuel Akintunde, PhD Student, University of Nebraska, Lincoln
+  - Influence of Modeling Errors on Deficiency Identification in a Steel Railway Bridge Floor System, Ahmed Rageh, PhD Student, University of Nerbaska, Lincoln
+  - Virtual Sensing and Machine Learning for Low-Cost Bridge Health Monitoring, Saeed Azam, Research Assistant Professor, University of Nebraska, Lincoln 
 
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2019posterdemo.html)
 
