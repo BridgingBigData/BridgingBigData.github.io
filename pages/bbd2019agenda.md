@@ -35,7 +35,7 @@ Speaker: [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/ste
 Networking (Coffee and snacks provided)
 
 ### SMARTI Project Impact
-10:00 - 11:00 a.m. (60 mins)
+10:00 - 11:00 a.m. (60 mins)  
 Topics: Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs discussed by representatives from SMARTI public and private industry, government and academic partners
 Speakers:
 - Kent Miller, Bridge Division, Nebraska Department of Transportation (NEDoT)
