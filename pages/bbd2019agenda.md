@@ -41,7 +41,7 @@ Speakers:
 - Kent Miller, Bridge Division, Nebraska Department of Transportation (NEDoT)
 > In this talk Kent will discuss how NEDoT and other bridge and roadway owners can make the best use of their data and data collection practices. He will also have an open conversation with the audience about the feasibility and processes of using machine learning to make bridge work candidate selections and bridge work strategy decisions.
 - Tim Bowley, Bridge Division, Union Pacific
-> In this talk Tim will discuss bridge inspection efforts at Union Pacific. In particular, he will outline where they are and where they are headed with respect to bridge inspection.
+> Tim has over 40 years of experience with Union Pacific Railroad. He has taken on roles of a Bridge Foreman, Bridge Inspection Supervisor, Manager of Bridge Maintenance and he is currently the Manager of Bridge Inspections at Union Pacific. In this talk, he will discuss current procedures for structure inspections and how automated defect reporting saves time. He will also discuss ways to improve the safety quality and productivity of inspections using technology.
 
 ### Stakeholder Initiatives
 11:00 a.m. – 12:00 p.m. (60 mins)  
