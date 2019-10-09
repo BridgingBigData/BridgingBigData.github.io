@@ -102,8 +102,8 @@ Breakout: Summarize findings from the Breakout
 
 ### Afternoon Keynote
 3:30 to 4:15 p.m. (30 mins, 15 mins Q&A)    
-Topic: Realizing Connected Infrastructure: People and Technology  
-Speaker: Nigel Jacob, City of Boston  
+**Topic:** Realizing Connected Infrastructure: People and Technology  
+**Speaker:** Nigel Jacob, City of Boston  
 https://www.boston.gov/departments/new-urban-mechanics/nigel-jacob
 > Nigel Jacob is the Co-founder of the Mayor’s Office of New Urban Mechanics, a civic innovation incubator and R&D Lab within Boston’s City Hall. Nigel’s work is about making urban life better via innovative, people-oriented applications of technology and design. Prior to joining the City of Boston in 2006, Nigel worked in a series of technology start-ups in the Boston area.
 > He was also previously the Urban Technologist in Residence at Living Cities, a philanthropic collaboration of 22 of the world’s largest foundations and financial institutions, is currently a board member at organizations such as Code For America and coUrbanize, and is an Executive-in-Residence at Boston University.
