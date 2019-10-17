@@ -73,7 +73,9 @@ Speakers:
 
 ### Emerging SMARTI Solutions: Posters and Demonstration over Coffee
 1:00 - 2:15 p.m (75 mins)   
-**Session Chair:** Saeed Azam  
+**Session Chair:** Saeed Azam and Brian Ricks  
+:pushpin: [**Lightning Talks for Posters**](https://unomaha.box.com/s/u8t4h1jgdkps3d9lnostou85rve1wv89)  
+
 **Topics:**
   - Low-cost durable sensing solutions, [Alberto Mannil, Innovation Program Manager, SIGFOX](https://www.linkedin.com/in/albertomannil)
   - Data Products for State DoT, [Mark Floresh, President and CEO, Catch Intelligence](https://catchintelligence.com/wp-content/uploads/2015/01/MarkFloersch_CEO_Backgrounder.pdf)  
