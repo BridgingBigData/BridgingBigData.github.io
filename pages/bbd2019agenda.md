@@ -56,14 +56,14 @@ Networking (Coffee and snacks provided)
 **Topics:** Data clearinghouses and other innovations in bridge health management  
 Speakers:  
 - [Ann Christine Catline](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#ann_chritine), datacenterhub.org, Purdue University  
-  **Talk:** Lifecycle Support for Scientific Investigations: Integrating Data, Computing, and Workflows with DEEDS (11:00 - 11:30 a.m) 
+  **Talk:** Lifecycle Support for Scientific Investigations: Integrating Data, Computing, and Workflows with DEEDS (11:00 - 11:30 a.m)   
+  :pushpin: [**Slides**](https://unomaha.box.com/s/um5lmxunix9kx1l2ywjtsxxszp9sdd1o)  
   > Decades of government funding has targeted development of platforms that fully support team-shared research and are effective across science domains. Even so, most existing platforms offer support only for specific research activities, such as file sharing or HPC computing, and platforms that offer more complete support are heavily customized for specific scientific disciplines. As a result, most researchers continue to carry out their investigations in an ad hoc manner. This means their collected data, files, code, analyses and outcomes are fragmented, seriously complicating data preservation, sharing, interoperability, results traceability, publication, reuse and re-interpretation. In this presentation, we introduce the Digital Environment for Enabling Data-driven Science (DEEDS), a platform that provides comprehensive, end-to-end solutions for data, computing and scientific workflows..[read more](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#ann_chritine_abstract).
 
 - [Sattar Dorafshan, Federal Highway Administration](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#sattar_dorafshan)  
   **Talk:** Federal Highway Administration NDE Program Vision for 21st Century Bridge Data  (11:30 a.m. - 12:00 p.m)  
+  **Authors:** Sattar Dorafshan, Ph.D., Postdoctoral Research Associate and Hoda Azari, Ph.D., NDE Program Manager.  
   :pushpin: [**Notes**](https://unomaha.box.com/s/95iizu0rhb8v9qbvio9aog42ceslu13c)  
-  **Authors:** Sattar Dorafshan, Ph.D., Postdoctoral Research Associate and
-  Hoda Azari, Ph.D., NDE Program Manager.
   >The Federal Highway Administration (FHWA) Nondestructive Evaluation (NDE) Laboratory is a world-class facility to conduct state-of-the-art research, development, and implementation of NDE systems and technologies to improve the Nation’s highway infrastructure assets. Since its establishment in 1998, the NDE Laboratory has been maintained as an open resource for the FHWA, State departments of transportation (DOTs), industry, and academia. To address the needs of the 21st century, the NDE program has been moving towards automation to infrastructure construction, inspection, monitoring, and management. In this presentation, a brief overview of the FHWA NDE program is introduced. In addition, the past and present research investigations for using robotic data acquisition and autonomous data interpretation using artificial intelligence are presented...[read more](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#sattar_dorafshan_abstract). 
 
 **Session Chair:** Chungwook Sim 
