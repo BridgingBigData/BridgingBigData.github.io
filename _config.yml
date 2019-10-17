@@ -1,2 +1,5 @@
 name: Bridging Big Data, Putting Bridge Data to work for you
 markdown: kramdown
+
+plugins:
+  - jemoji
