@@ -94,6 +94,9 @@ Speakers:
   :pushpin:[**Poster**](https://unomaha.box.com/s/5h26hmxx0jh1jpy6s1d13k6lg3xnnlwo)  
   - Virtual Sensing and Machine Learning for Low-Cost Bridge Health Monitoring, Saeed Azam, Research Assistant Professor, University of Nebraska, Lincoln   
   :pushpin:[**Poster**](https://unomaha.box.com/s/xyl7ren6r2jgjm7p7c07t0lbjwbevs5s)  
+  - Brillouin Fiber-Optic Distributed Sensing: Instrumentation Strategy for Bridge Monitoring, Yusuf Alhowaidi, Department of Civil and Environmental Engineering, University of Nebraska-Lincoln  
+  :pushpin:[**Poster**](https://unomaha.box.com/s/80g4fwfvx3coxzq6mbc2czfh307rwxcl)  
+  - 
 
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2019posterdemo.html)
 
