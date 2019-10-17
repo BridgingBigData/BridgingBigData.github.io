@@ -60,7 +60,7 @@ Speakers:
 
 - [Sattar Dorafshan, Federal Highway Administration](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#sattar_dorafshan)  
   **Talk:** Federal Highway Administration NDE Program Vision for 21st Century Bridge Data  (11:30 a.m. - 12:00 p.m)  
-  :pushpin:[**Notes**](https://unomaha.box.com/s/95iizu0rhb8v9qbvio9aog42ceslu13c)  
+  :pushpin: [**Notes**](https://unomaha.box.com/s/95iizu0rhb8v9qbvio9aog42ceslu13c)  
   **Authors:** Sattar Dorafshan, Ph.D., Postdoctoral Research Associate and
   Hoda Azari, Ph.D., NDE Program Manager.
   >The Federal Highway Administration (FHWA) Nondestructive Evaluation (NDE) Laboratory is a world-class facility to conduct state-of-the-art research, development, and implementation of NDE systems and technologies to improve the Nation’s highway infrastructure assets. Since its establishment in 1998, the NDE Laboratory has been maintained as an open resource for the FHWA, State departments of transportation (DOTs), industry, and academia. To address the needs of the 21st century, the NDE program has been moving towards automation to infrastructure construction, inspection, monitoring, and management. In this presentation, a brief overview of the FHWA NDE program is introduced. In addition, the past and present research investigations for using robotic data acquisition and autonomous data interpretation using artificial intelligence are presented...[read more](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#sattar_dorafshan_abstract). 
@@ -76,26 +76,26 @@ Speakers:
 **Topics:**
   - Low-cost durable sensing solutions, [Alberto Mannil, Innovation Program Manager, SIGFOX](https://www.linkedin.com/in/albertomannil)
   - Data Products for State DoT, [Mark Floresh, President and CEO, Catch Intelligence](https://catchintelligence.com/wp-content/uploads/2015/01/MarkFloersch_CEO_Backgrounder.pdf)  
-  :pushpin:[**Poster**](https://unomaha.box.com/s/1r4fvrpupovdx56ks2eedrjllqktoh33)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/1r4fvrpupovdx56ks2eedrjllqktoh33)  
   - Analyzing the structural health of civil infrastructures using correlation networks, Prasad Chetti, Ph.D. Student, University of Nebraska at Omaha
   - Identifying Predictors of Bridge Deterioration in The United States From A Data Science Perspective, Akshay Kale, Ph.D. Student, University of Nebraska at Omaha  
-  :pushpin:[**Poster**](https://unomaha.box.com/s/aj6caqv5jx58cs1frbtki2lqxsqpk0mv)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/aj6caqv5jx58cs1frbtki2lqxsqpk0mv)  
   - Bridge predictive maintenance, an Actuarial life model approach, O'Brien Chen, M.S. Student, University of Nebraska at Omaha.  
-  :pushpin:[**Poster**](https://unomaha.box.com/s/eh72bow7hi73zwwwc3enhrcsnm1c80h1)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/eh72bow7hi73zwwwc3enhrcsnm1c80h1)  
   - Application of Hololens for Bridge Inspection, Matt Neitzke,  Attic/CMIT, University of Nebraska at Omaha  
-  :pushpin:[**Poster**](https://unomaha.box.com/s/w7fb4nvvrh3awoy8t5v97zt2w96ypdil)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/w7fb4nvvrh3awoy8t5v97zt2w96ypdil)  
   - Computer Vision Based UAV for Steel Bridge Connections, Jiyoung Lee, PhD Student in Computer Science, University of Nebraska, Lincoln   
-  :pushpin:[**Poster**](https://unomaha.box.com/s/7s86rkkimgjre501futptevsbhnye6ea)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/7s86rkkimgjre501futptevsbhnye6ea)  
   - Automated bridge deck Transverse Crack Detection System with Optical Sensors, Chungwook Sim, Asst. Prof at University of Nebraska, Lincoln  
-  :pushpin:[**Poster**](https://unomaha.box.com/s/c6mfwow3l3j314xa34bug60jlf63p3qf)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/c6mfwow3l3j314xa34bug60jlf63p3qf)  
   - Full-Scale Experiments for Development and Validation of a Robust Damage Detection Tool, Emmanuel Akintunde, PhD Student, University of Nebraska, Lincoln  
-  :pushpin:[**Poster**](https://unomaha.box.com/s/az02e2m0a5zmfk7frtrc8i7c3uyeknye)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/az02e2m0a5zmfk7frtrc8i7c3uyeknye)  
   - Influence of Modeling Errors on Deficiency Identification in a Steel Railway Bridge Floor System, Ahmed Rageh, PhD Student, University of Nerbaska, Lincoln  
-  :pushpin:[**Poster**](https://unomaha.box.com/s/5h26hmxx0jh1jpy6s1d13k6lg3xnnlwo)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/5h26hmxx0jh1jpy6s1d13k6lg3xnnlwo)  
   - Virtual Sensing and Machine Learning for Low-Cost Bridge Health Monitoring, Saeed Azam, Research Assistant Professor, University of Nebraska, Lincoln   
-  :pushpin:[**Poster**](https://unomaha.box.com/s/xyl7ren6r2jgjm7p7c07t0lbjwbevs5s)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/xyl7ren6r2jgjm7p7c07t0lbjwbevs5s)  
   - Brillouin Fiber-Optic Distributed Sensing: Instrumentation Strategy for Bridge Monitoring, Yusuf Alhowaidi, Department of Civil and Environmental Engineering, University of Nebraska-Lincoln  
-  :pushpin:[**Poster**](https://unomaha.box.com/s/80g4fwfvx3coxzq6mbc2czfh307rwxcl)  
+  :pushpin: [**Poster**](https://unomaha.box.com/s/80g4fwfvx3coxzq6mbc2czfh307rwxcl)  
   - 
 
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2019posterdemo.html)
