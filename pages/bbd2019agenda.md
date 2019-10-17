@@ -29,7 +29,8 @@ Networking
 ### Keynote
 9:00 - 9:45 a.m. (30 mins, 15 mins Q&A)   
 **Topic:** The IoT landscape in Infrastructure Monitoring  
-**Speaker:** [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/stephen-russo/), Director, Cognitive City Solutions IoT, IBM
+**Speaker:** [Stephen Russo](https://www.ibm.com/blogs/internet-of-things/author/stephen-russo/), Director, Cognitive City Solutions IoT, IBM   
+:pushpin: [**Slides**](https://unomaha.box.com/s/w7oj1yk2kfxlanm6j0av0iu4wxxumu63)  
 > Over the last 20 years, huge investments have been made in metropolitan areas to understand the immense volume of data collected about the citizens inhabiting these cities. Hundreds of millions of dollars have been spent combining data with emerging mobile, sensor and machine learning technologies. This is all done with the goal to improve infrastructure and the well-being of citizens. But twenty years later, we find ourselves worse off than when we started. In this talk, Stephen will discuss IBM's enterprise asset  management solution that will help organizations monitor the structural health of bridges, tunnels, highways, dams, grids, railways and more, extending the lifespan of assets by optimizing maintenance and providing early warnings of deterioration and damage.  
 
 **Session Chair:** Deepak Khazanchi
