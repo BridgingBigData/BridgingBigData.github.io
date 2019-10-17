@@ -43,7 +43,7 @@ Networking (Coffee and snacks provided)
 **Topics:** Enduser perspectives: Existing Data-driven Solutions, Gaps and Needs discussed by representatives from SMARTI public and private industry, government and academic partners
 **Speakers:**
 - Kent Miller, Bridge Division, Nebraska Department of Transportation (NEDoT) (10:00 - 10:30 a.m.)   
-:pushpin:[**Slides**](https://unomaha.box.com/s/um5lmxunix9kx1l2ywjtsxxszp9sdd1o)  
+:pushpin: [**Slides**](https://unomaha.box.com/s/um5lmxunix9kx1l2ywjtsxxszp9sdd1o)  
 > In this talk Kent will discuss how NEDoT and other bridge and roadway owners can make the best use of their data and data collection practices. He will also have an open conversation with the audience about the feasibility and processes of using machine learning to make bridge work candidate selections and bridge work strategy decisions.
 - Tim Bowley, Bridge Division, Union Pacific (10:30 - 11:00 a.m.)
 > Tim has over 40 years of experience with Union Pacific Railroad. He has taken on roles of a Bridge Foreman, Bridge Inspection Supervisor, Manager of Bridge Maintenance and he is currently the Manager of Bridge Inspections at Union Pacific. In this talk, he will discuss current procedures for structure inspections and how automated defect reporting saves time. He will also discuss ways to improve the safety quality and productivity of inspections using technology.  
@@ -96,7 +96,6 @@ Speakers:
   :pushpin: [**Poster**](https://unomaha.box.com/s/xyl7ren6r2jgjm7p7c07t0lbjwbevs5s)  
   - Brillouin Fiber-Optic Distributed Sensing: Instrumentation Strategy for Bridge Monitoring, Yusuf Alhowaidi, Department of Civil and Environmental Engineering, University of Nebraska-Lincoln  
   :pushpin: [**Poster**](https://unomaha.box.com/s/80g4fwfvx3coxzq6mbc2czfh307rwxcl)  
-  - 
 
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2019posterdemo.html)
 
@@ -105,13 +104,13 @@ Speakers:
 Networking (Coffee and snacks provided)   
 
 ### Facilitated Working Session
-**Session Chair:** Deepak Khazanchi and Brian Ricks  
+**Session Chair:** Brian Ricks  
 2:30 to 3:15 p.m. (45 mins)  
 Breakout: Discussing SMARTI Data Products. 
 
 ### Working Session Summary
 3:15 to 3:30 p.m. (15 mins)  
-**Session Chair:** Deepak Khazanchi and Brian Ricks  
+**Session Chair:** Brian Ricks  
 Breakout: Summarize findings from the Breakout  
 
 ### Afternoon Keynote
@@ -124,13 +123,9 @@ https://www.boston.gov/departments/new-urban-mechanics/nigel-jacob
 > Nigel’s work has been written about extensively in magazines such as Wired, MIT Technology Review, Fast Company and books including The Responsive City, by Stephen Goldsmith and Susan Crawford and Smart Cities by Anthony Townsend.
 > This ground-breaking work has earned Nigel a number of awards including being named a Public Official of the year in 2011 by Governing Magazine, a Whitehouse Champion of Change and the Tribeca Disruptive Innovation award for 2012. Nigel is also a 12th level Wizard-Pirate with a special focus on causing chaos in large municipal bureaucracies via befuddlement spells.  
 
-**Session Chair:** Dan Linzell  
+**Session Chair:** Deepak Khazanchi  
 
 ### Closing Remarks
 4:15 to 4:30 p.m. (15 mins)    
 Topic: Workshop closing comments
-
-
-### Hope to see you at the workshop.   
-Please register soon if you have not done so already.
-* Registration: [https://bridgingbigdata.eventbrite.com](https://bridgingbigdata.eventbrite.com)
+**Session Chair:** Dan Linzell and Robin Gandhi  
