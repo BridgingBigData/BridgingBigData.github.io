@@ -4,7 +4,7 @@ title: Agenda BBD 2019
 description: BBD 2019 Agenda
 ---
 
-# BBD 2019 Agenda
+# BBD 2019 Agenda and Proceedings
 
 ## Date
 Monday October 14th, 2019, 8:30 A.M. to 5 P.M.  
