@@ -5,13 +5,9 @@ description: BBD 2019 Agenda
 ---
 
 # BBD 2019 Agenda
-_Subject to changes_
 
 ## Date
-Monday October 14th, 2019
-
-## Duration  
-8:30 A.M. to 5 P.M.  
+Monday October 14th, 2019, 8:30 A.M. to 5 P.M.  
 
 ### Registration and Breakfast
 8:30 a.m. - 8:45 a.m.  
