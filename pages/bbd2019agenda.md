@@ -116,7 +116,8 @@ Breakout: Summarize findings from the Breakout
 3:30 to 4:15 p.m. (30 mins, 15 mins Q&A)    
 **Topic:** Realizing Connected Infrastructure: People and Technology  
 **Speaker:** Nigel Jacob, City of Boston  
-https://www.boston.gov/departments/new-urban-mechanics/nigel-jacob
+https://www.boston.gov/departments/new-urban-mechanics/nigel-jacob  
+:pushpin: [**Slides**](https://unomaha.box.com/s/bvs9zhfswv2db4uemhctxv3za3j0p4am)    
 > Nigel Jacob is the Co-founder of the Mayor’s Office of New Urban Mechanics, a civic innovation incubator and R&D Lab within Boston’s City Hall. Nigel’s work is about making urban life better via innovative, people-oriented applications of technology and design. Prior to joining the City of Boston in 2006, Nigel worked in a series of technology start-ups in the Boston area.
 > He was also previously the Urban Technologist in Residence at Living Cities, a philanthropic collaboration of 22 of the world’s largest foundations and financial institutions, is currently a board member at organizations such as Code For America and coUrbanize, and is an Executive-in-Residence at Boston University.
 > Nigel’s work has been written about extensively in magazines such as Wired, MIT Technology Review, Fast Company and books including The Responsive City, by Stephen Goldsmith and Susan Crawford and Smart Cities by Anthony Townsend.
