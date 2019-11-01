@@ -19,8 +19,7 @@ Networking
 8:45 - 9:00 a.m. (10 mins, 5 mins transition time)  
 **Topic:** Welcome Remarks  
 **Speaker:** [Dr. David Jackson, Vice Provost, University of Nebraska-Lincoln](https://foodsci.unl.edu/djackson)  
-
-**Session Chair:** Dan Linzell 
+**Session Chair:** Dan Linzell
 
 ### Keynote
 9:00 - 9:45 a.m. (30 mins, 15 mins Q&A)   
@@ -41,11 +40,13 @@ Networking (Coffee and snacks provided)
 **Speakers:**
 - Kent Miller, Bridge Division, Nebraska Department of Transportation (NEDoT) (10:00 - 10:30 a.m.)   
 :pushpin: [**Slides**](https://unomaha.box.com/s/um5lmxunix9kx1l2ywjtsxxszp9sdd1o)  
-> In this talk Kent will discuss how NEDoT and other bridge and roadway owners can make the best use of their data and data collection practices. He will also have an open conversation with the audience about the feasibility and processes of using machine learning to make bridge work candidate selections and bridge work strategy decisions.
-- Tim Bowley, Bridge Division, Union Pacific (10:30 - 11:00 a.m.)
+> In this talk Kent will discuss how NEDoT and other bridge and roadway owners can make the best use of their data and data collection practices. He will also have an open conversation with the audience about the feasibility and processes of using machine learning to make bridge work candidate selections and bridge work strategy decisions.  
+
+- Tim Bowley, Bridge Division, Union Pacific (10:30 - 11:00 a.m.)  
+:pushpin: [**Slides**](https://unomaha.box.com/s/qg1383jnzidc2ycirarmhyhlolzl23fk)  
 > Tim has over 40 years of experience with Union Pacific Railroad. He has taken on roles of a Bridge Foreman, Bridge Inspection Supervisor, Manager of Bridge Maintenance and he is currently the Manager of Bridge Inspections at Union Pacific. In this talk, he will discuss current procedures for structure inspections and how automated defect reporting saves time. He will also discuss ways to improve the safety quality and productivity of inspections using technology.  
 
-**Session Chair:** Robin Gandhi 
+**Session Chair:** Robin Gandhi
 
 ### Stakeholder Initiatives
 11:00 a.m. – 12:00 p.m. (60 mins)  
@@ -60,9 +61,9 @@ Speakers:
   **Talk:** Federal Highway Administration NDE Program Vision for 21st Century Bridge Data  (11:30 a.m. - 12:00 p.m)  
   **Authors:** Sattar Dorafshan, Ph.D., Postdoctoral Research Associate and Hoda Azari, Ph.D., NDE Program Manager.  
   :pushpin: [**Notes**](https://unomaha.box.com/s/95iizu0rhb8v9qbvio9aog42ceslu13c)  
-  >The Federal Highway Administration (FHWA) Nondestructive Evaluation (NDE) Laboratory is a world-class facility to conduct state-of-the-art research, development, and implementation of NDE systems and technologies to improve the Nation’s highway infrastructure assets. Since its establishment in 1998, the NDE Laboratory has been maintained as an open resource for the FHWA, State departments of transportation (DOTs), industry, and academia. To address the needs of the 21st century, the NDE program has been moving towards automation to infrastructure construction, inspection, monitoring, and management. In this presentation, a brief overview of the FHWA NDE program is introduced. In addition, the past and present research investigations for using robotic data acquisition and autonomous data interpretation using artificial intelligence are presented...[read more](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#sattar_dorafshan_abstract). 
+  >The Federal Highway Administration (FHWA) Nondestructive Evaluation (NDE) Laboratory is a world-class facility to conduct state-of-the-art research, development, and implementation of NDE systems and technologies to improve the Nation’s highway infrastructure assets. Since its establishment in 1998, the NDE Laboratory has been maintained as an open resource for the FHWA, State departments of transportation (DOTs), industry, and academia. To address the needs of the 21st century, the NDE program has been moving towards automation to infrastructure construction, inspection, monitoring, and management. In this presentation, a brief overview of the FHWA NDE program is introduced. In addition, the past and present research investigations for using robotic data acquisition and autonomous data interpretation using artificial intelligence are presented...[read more](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#sattar_dorafshan_abstract).
 
-**Session Chair:** Chungwook Sim 
+**Session Chair:** Chungwook Sim
 
 ### Lunch
 12:00 - 1:00 p.m (60 mins)   
@@ -104,13 +105,12 @@ Networking (Coffee and snacks provided)
 
 ### Facilitated Working Session
 **Session Chair:** Brian Ricks  
-2:30 to 3:15 p.m. (45 mins)  
-Breakout: Discussing SMARTI Data Products. 
+- 2:30 to 3:15 p.m. (45 mins)  
+  Breakout: Discussing SMARTI Data Products.  
+:pushpin: [**Slides**](https://unomaha.box.com/s/gs3rb8kkvc5psuet165av46a883tnulo)  
 
-### Working Session Summary
-3:15 to 3:30 p.m. (15 mins)  
-**Session Chair:** Brian Ricks  
-Breakout: Summarize findings from the Breakout  
+- 3:15 to 3:30 p.m. (15 mins)  
+  Breakout: Summarize findings from the Breakouts  
 
 ### Afternoon Keynote
 3:30 to 4:15 p.m. (30 mins, 15 mins Q&A)    
