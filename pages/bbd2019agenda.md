@@ -54,7 +54,7 @@ Networking (Coffee and snacks provided)
 Speakers:  
 - [Ann Christine Catline](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#ann_chritine), datacenterhub.org, Purdue University  
   **Talk:** Lifecycle Support for Scientific Investigations: Integrating Data, Computing, and Workflows with DEEDS (11:00 - 11:30 a.m)   
-  :pushpin: [**Slides**](https://unomaha.box.com/s/um5lmxunix9kx1l2ywjtsxxszp9sdd1o)  
+  :pushpin: [**Slides**](https://unomaha.box.com/s/o84dpsl8prpox5pbxox0ytq8ob3ep2bh)  
   > Decades of government funding has targeted development of platforms that fully support team-shared research and are effective across science domains. Even so, most existing platforms offer support only for specific research activities, such as file sharing or HPC computing, and platforms that offer more complete support are heavily customized for specific scientific disciplines. As a result, most researchers continue to carry out their investigations in an ad hoc manner. This means their collected data, files, code, analyses and outcomes are fragmented, seriously complicating data preservation, sharing, interoperability, results traceability, publication, reuse and re-interpretation. In this presentation, we introduce the Digital Environment for Enabling Data-driven Science (DEEDS), a platform that provides comprehensive, end-to-end solutions for data, computing and scientific workflows..[read more](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#ann_chritine_abstract).
 
 - [Sattar Dorafshan, Federal Highway Administration](https://bridgingbigdata.github.io/pages/bbd2019abstracts.html#sattar_dorafshan)  
