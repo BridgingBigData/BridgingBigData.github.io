@@ -125,7 +125,8 @@ https://www.boston.gov/departments/new-urban-mechanics/nigel-jacob
 
 **Session Chair:** Deepak Khazanchi  
 
-### Closing Remarks
+### Closing Remarks: The way forward
 4:15 to 4:30 p.m. (15 mins)    
+
 Topic: Workshop closing comments
 **Session Chair:** Dan Linzell and Robin Gandhi  
