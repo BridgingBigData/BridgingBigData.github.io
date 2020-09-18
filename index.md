@@ -6,9 +6,9 @@ description: Bridging Big Data Project site
 
 ## News and Events
 
-## Bridging Big Data Workshop, Monday October 14th, 2019
+## Bridging Big Data Workshop, Monday November 9th, 2020
 
-* [Workshop at the Nebraska Innovation Campus, Lincoln.](https://bridgingbigdata.github.io/pages/bbd2019.html) The event has now concluded. The slides now available from the [workshop agenda.](https://bridgingbigdata.github.io/pages/bbd2019agenda.html)
+* Save the Date. This years workshop will be conducted online. More details coming soon!
 
 ## Sponsor
 ![NSF](./pages/nsf1.gif)
