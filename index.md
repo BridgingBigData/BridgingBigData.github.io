@@ -8,7 +8,7 @@ description: Bridging Big Data Project site
 
 ## Bridging Big Data Workshop, Monday November 9th, 2020
 
-* Save the Date. This years workshop will be conducted online. More details coming soon!
+* [Save the Date. This years workshop will be conducted online. More details coming soon!](https://bridgingbigdata.github.io/pages/bbd2020.html)
 
 ## Sponsor
 ![NSF](./pages/nsf1.gif)
