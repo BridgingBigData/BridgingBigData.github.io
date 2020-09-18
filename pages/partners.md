@@ -29,6 +29,7 @@ description: Bridging Big Data People
 *	Matthew Germonprez; University of Nebraska-Omaha
 *	Sachin Pawaskar; University of Nebraska-Omaha
 *	Jon Youn; University of Nebraska-Omaha
+* Christian Haas; University of Nebraska-Omaha
 *	Ron Faller; University of Nebraska-Lincoln
 *	Laurence Rilett; University of Nebraska-Lincoln
 *	Hamid Sharif; University of Nebraska-Lincoln

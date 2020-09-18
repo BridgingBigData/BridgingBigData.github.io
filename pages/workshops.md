@@ -3,9 +3,9 @@ layout: default
 title: Workshops - Bridging Big Data
 description: Bridging Big Data Workshops
 ---
-## Bridging Big Data Workshop (2019) (Save the Date!)
+## Bridging Big Data Workshop (2019)
 
-* [Workshop at the Nebraska Innovation Campus, Lincoln, September 16th 2019](https://bridgingbigdata.github.io/pages/bbd2019.html)
+* [Workshop at the Nebraska Innovation Campus, Lincoln, October 14th 2019](https://bridgingbigdata.github.io/pages/bbd2019.html)
 
 ## Bridging Big Data Workshop (2017)
 
@@ -14,7 +14,6 @@ description: Bridging Big Data Workshops
 ## Bridging Big Data Workshop (2016)
 
 * [Workshop held at the Scott Conference center, November 2016](https://bridgingbigdata.github.io/pages/bbd2016.html)
-
 
 ## Bridge-ing Big Data Workshop (2015)
 

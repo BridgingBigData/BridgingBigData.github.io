@@ -14,6 +14,9 @@ description: Bridging Big Data People
 ## BBD 2017 Working Session Report
 A [summary of the working group discussions](https://bridgingbigdata.github.io/assets/attachments/Facilitated-Sessions-BBD-2017.pdf) is linked [here](https://bridgingbigdata.github.io/assets/attachments/Facilitated-Sessions-BBD-2017.pdf). 
 
+## BBD 2019 Workshop Proceedings
+[Proceedings](https://bridgingbigdata.github.io/pages/bbd2019agenda.html)
+
 # Publications
 
 - Gandhi, R., Khazanchi, D., Linzell, D., Ricks, B. and Sim, C. (May 2018). “The Hidden Crisis : Developing Smart Big Data pipelines to address Grand Challenges of Bridge Infrastructure health in the United States.” Proceedings of the 15th ISCRAM Conference – Rochester, NY, USA (WiPe Paper – Open Track), pp. 1016-1021. [Proceedings](https://iscram2018.rit.edu/sites/rit.edu.iscram2018/files/docs/2018_ISCRAM_Conference_Proceedings.pdf)
