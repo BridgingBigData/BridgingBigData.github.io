@@ -3,6 +3,12 @@ layout: default
 title: Workshops - Bridging Big Data
 description: Bridging Big Data Workshops
 ---
+## Bridging Big Data Workshop, Monday November 9th, 2020
+* [Save the Date. More details coming soon!](https://bridgingbigdata.github.io/pages/bbd2020.html)
+* ```Date:``` November 9th, 2020, 9 to 5 PM
+* ```Location:``` **Online.** [Register to recieve updates.](http://bbd2020.eventbrite.com)
+* ```Theme:``` Bridge Health in Times of Crisis
+
 ## Bridging Big Data Workshop (2019)
 
 * [Workshop at the Nebraska Innovation Campus, Lincoln, October 14th 2019](https://bridgingbigdata.github.io/pages/bbd2019.html)
