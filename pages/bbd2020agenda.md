@@ -82,7 +82,7 @@ Take a quick poll to express your area of interest for the Breakout session
 12:00 - 1:00 p.m (60 mins)
 > Stretch your legs, play with pets, check on kids, eat lunch...just be back by 1:00. You don't want to miss the next session!    
 
-### Session 4, Keynote: Future World Vision for Resilient Communities
+## Session 4, Keynote: Future World Vision for Resilient Communities
 1:00 to 1:45 p.m. (30 mins, 15 mins Q&A)    
 **Topic:** Future World Vision for Resilient Communities
 > From climate change to autonomous vehicles, engineers are confronting a variety of environmental challenges, demographic shifts and technological changes that will require a drastic rethinking of how we build, operate, and maintain our infrastructure systems. Planning for the future is difficult for nearly every organization. ASCE decided to launch the Future World Vision project to help meet this challenge. We compiled and winnowed more than 100 global macrotrends to examine six important sociopolitical, economic, environmental, and technological trends as key drivers of change for future built infrastructure. Our desire is that the Future World Vision project will establish ASCE and civil engineers as bold thought leaders, provide a platform to envision the future built environment and ultimately optimize future system performance and the benefit to society, and be a next‐generation tool that interacts and resonates with those who will create the future built environment—the next generation of civil engineers. The Future World Vision platform is an immersive computer model, using gaming engines, that will create virtual future worlds with evocative visuals, multiple characters and rich narratives that explore holistic city, community and neighborhood systems, including the cultural, social, economic, political, ethical and environmental aspects at different scales. This platform will enable engineers to ask the right questions about a future built environment that doesn’t exist yet, contemplate solutions, postulate the resulting benefit to society – well in advance of starting to design those solutions. This will enable us to better prepare engineers today for possible future needs and challenges.
@@ -106,12 +106,12 @@ Take a quick poll to express your area of interest for the Breakout session
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2020posterdemo.html)
 
 **Topics:** Coming soon!  
-  - Topic 1, [Speaker Name](Link)
+<!-- - Topic 1, [Speaker Name](Link)
   - Topic 2, [Speaker Name](Link)
   - Topic 3, [Speaker Name](Link)
   - Topic 4, [Speaker Name](Link)
   - Topic 5, [Speaker Name](Link)
-  - Topic 6, [Speaker Name](Link)
+  - Topic 6, [Speaker Name](Link)-->
 
 ## Closing Remarks: The way forward
 2:45 to 3:00 p.m. (15 mins)    
