@@ -111,7 +111,7 @@ Take a quick poll to express your area of interest for the Breakout session
   - Topic 3, [Speaker Name](Link)
   - Topic 4, [Speaker Name](Link)
   - Topic 5, [Speaker Name](Link)
-  - Topic 6, [Speaker Name](Link)-->
+  - Topic 6, [Speaker Name](Link) -->
 
 ## Closing Remarks: The way forward
 2:45 to 3:00 p.m. (15 mins)    
