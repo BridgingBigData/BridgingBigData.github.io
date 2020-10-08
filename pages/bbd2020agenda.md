@@ -43,8 +43,13 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 
 **Session Chair:** xxx
 
+### Breakout Session Setup
+11:00 - 11:15 a.m. (15 mins)
+•	Take a poll to express your preference then go stretch your legs, play with pets, check on kids...
+
+
 ### Breakout Sessions
-11:00-11:45  (30 minutes each)
+11:15-11:45  (30 minutes each)
 
 •	Breakout 1, Political – Deepak, Dan  
 •	Breakout 2, Design (load bearing capacity to plan for crisis) – Dan  
@@ -76,11 +81,11 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 
 **Topics:**
   - Topic 1, [Speaker Name](Link)
-  - Topic 1, [Speaker Name](Link)
-  - Topic 1, [Speaker Name](Link)
-  - Topic 1, [Speaker Name](Link)
-  - Topic 1, [Speaker Name](Link)
-  - Topic 1, [Speaker Name](Link)
+  - Topic 2, [Speaker Name](Link)
+  - Topic 3, [Speaker Name](Link)
+  - Topic 4, [Speaker Name](Link)
+  - Topic 5, [Speaker Name](Link)
+  - Topic 6, [Speaker Name](Link)
 
 ### Closing Remarks: The way forward
 2:45 to 3:00 p.m. (15 mins)    
