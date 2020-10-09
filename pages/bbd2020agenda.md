@@ -22,11 +22,10 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 **Keynote**  
 9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)     
 **Topic:** Using Data for Disaster Management      
-> Abstract
-
-**Speaker:** TBD <!-- [xxx](link), Affiliation  -->
-<!-- :pushpin: [**Slides**](document_link)
--->
+**Speaker:** Ilkay Altintas, Ph.D., Chief Data Science Officer at San Diego Supercomputer Center
+> ![Ilkay Altintas](images/Ilkay.jpeg)  
+> Dr. Ilkay Altintas is the Chief Data Science Officer at the San Diego Supercomputer Center (SDSC), UC San Diego, where she is also the Founder and Director for the Workflows for Data Science Center of Excellence. Her passion is leading collaborative multi-disciplinary computational data science teams. Her research objective is delivering impactful results through making collaborative computational data science work more reusable, programmable, scalable and reproducible. Her work has been applied to many scientific and societal domains including bioinformatics, geoinformatics, high-energy physics, multi-scale biomedical science, smart cities, and smart manufacturing.
+> Since joining SDSC in 2001, she has translated her technical and management skills to scientific computing and data science as both a principal investigator and leader. Her research portfolio includes a wide range of cross-disciplinary projects. She is a co-initiator of the popular open-source Kepler Scientific Workflow System, and the co-author of publications related to computational data science at the intersection of workflows, provenance, distributed computing, big data, reproducibility, and software modeling in many different application areas. She is also a well-known MOOC instructor in the field of “big” data science, and reached out to hundreds of thousands of learners across any populated part of our continent. She likes asking the question ‘what if?’ and has been often called an ‘outside of the box thinker’. Among the awards she has received are the 2015 IEEE TCSC Award for Excellence in Scalable Computing for Early Career Researchers and the 2017 ACM SIGHPC Emerging Woman Leader in Technical Computing Award. Her Ph.D. degree is from the University of Amsterdam in the Netherlands with an emphasis on provenance of workflow-driven collaborative science. She is an associate research scientist at UC San Diego.
 
 **Session Chair:** Deepak Khazanchi
 
