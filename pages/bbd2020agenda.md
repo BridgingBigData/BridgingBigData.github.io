@@ -13,13 +13,14 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 ## Session 1, Keynote: Using Data for Disaster Management
 9:00 - 10:00 a.m.
 
-##### Workshop Kick-off and Speaker Introduction
+**Workshop Kick-off and Speaker Introduction**  
 9:00 - 9:15 a.m. (10 mins, 5 mins transition time)  
 **Topic:** Welcome Remarks  
 **Speaker:** TBD <!--[xxx](link) -->
 
-9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)   
-**Topic:** Using Data for Disaster Management    
+**Keynote**  
+9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)     
+**Topic:** Using Data for Disaster Management      
 > Abstract
 
 **Speaker:** TBD <!-- [xxx](link), Affiliation  -->
@@ -106,12 +107,6 @@ Take a quick poll to express your area of interest for the Breakout session
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2020posterdemo.html)
 
 **Topics:** Coming soon!  
-<!-- - Topic 1, [Speaker Name](Link)
-  - Topic 2, [Speaker Name](Link)
-  - Topic 3, [Speaker Name](Link)
-  - Topic 4, [Speaker Name](Link)
-  - Topic 5, [Speaker Name](Link)
-  - Topic 6, [Speaker Name](Link) -->
 
 ## Closing Remarks: The way forward
 2:45 to 3:00 p.m. (15 mins)    
