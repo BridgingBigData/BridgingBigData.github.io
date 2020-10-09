@@ -4,7 +4,8 @@ title: Agenda BBD 2020
 description: BBD 2020 Agenda
 ---
 
-# BBD 2020 Agenda and Proceedings
+# BBD 2020 Agenda  
+### DRAFT, updated Oct 9th, 2020. Talks and times subject to changes.
 
 ## Date
 Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
