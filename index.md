@@ -6,9 +6,9 @@ description: Bridging Big Data Project site
 
 ## News and Events
 
-## Bridging Big Data Workshop, Monday November 9th, 2020
+## [Bridging Big Data Workshop, Monday November 9th, 2020](https://bridgingbigdata.github.io/pages/bbd2020.html)
 
-* [Save the Date. More details coming soon!](https://bridgingbigdata.github.io/pages/bbd2020.html)
+* [We have a great agenda shaping up!](https://bridgingbigdata.github.io/pages/bbd2020.html)
 * ```Date:``` November 9th, 2020, 9 to 3 PM
 * ```Location:``` **Online.** [Register to recieve updates.](http://bbd2020.eventbrite.com)
 * ```Theme:``` Bridge Health in Times of Crisis

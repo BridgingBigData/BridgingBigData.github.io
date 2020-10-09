@@ -6,11 +6,14 @@ description: BBD 2020 Agenda
 
 # BBD 2020
 
+## Session 5, Emerging Solutions: Posters and Demonstrations
+November 9th, 2:00 - 2:45 p.m (45 mins)  
+
+**Session Co-Chairs:** Brian Ricks, Samira Ardani
+
 ## Poster/Demonstration Format
 
-Each presenter will prepare a 60 second video “teaser” with audio briefly explaining the work. The session chair will combine these videos into one video. This video will be shown to all attendees for the first 10 minutes of Session 5, Emerging Solutions: Posters and Demonstrations. After this time, each presenter will be assigned to an individual breakout room. During the 45-minute session, attendees will be invited to move between breakout rooms much like they would in a real poster session. 
-
-Presenters will be expected to create a single slide “poster” that will be the backdrop for the discussion as attendees as they visit the breakout room. If you have a tool to demonstrate, you can share your screen to do a live demo.
+Each presenter will prepare a 60 second video “teaser” with audio briefly explaining their work. The session chair will combine these videos into one video. This video will be shown to all attendees for the first 10 minutes of the lightning talk time. After this time, each presenter will be assigned to an individual breakout room. During the remainder of the session, attendees will be invited to move between breakout rooms much like they would in a real poster session. You will be expected to create a single slide “poster” that will be the backdrop for the discussion as attendees as they visit your breakout room. If you have a tool to demonstrate, you can share your screen to do a live demo.
 
 ### Deadlines
 
