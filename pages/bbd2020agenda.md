@@ -7,6 +7,8 @@ description: BBD 2020 Agenda
 # BBD 2020 Agenda  
 ### DRAFT, updated Oct 9th, 2020. Talks and times subject to changes.
 
+For optimal workshop experience, please update your zoom installation.
+
 ## Date
 Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 
@@ -42,7 +44,7 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 **Speakers:**
 - Paul W. Johnson, Director, Omaha - Douglas County Emergency Management Agency
 - Mark Tryanowicz, Director - Bridge Division, Nebraska Department of Transportation (NEDOT)
-- Speaker 3, title, affiliation
+- Al Nelson, HDR
 - Speaker 4, title, affiliation
 
 **Session Chair:** Dan Linzell
