@@ -7,7 +7,7 @@ description: BBD 2020 Agenda
 # BBD 2020 Agenda  
 ### DRAFT, updated Oct 9th, 2020. Talks and times subject to changes.
 
-For optimal workshop experience, please update your zoom installation.
+For optimal workshop experience, [please update your zoom installation to the latest version.](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version)
 
 ## Date
 Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
