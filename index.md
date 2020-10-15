@@ -8,10 +8,12 @@ description: Bridging Big Data Project site
 
 ## [Bridging Big Data Workshop, Monday November 9th, 2020](https://bridgingbigdata.github.io/pages/bbd2020.html)
 
-* [We have a great agenda shaping up!](https://bridgingbigdata.github.io/pages/bbd2020.html)
 * ```Date:``` November 9th, 2020, 9 to 3 PM
-* ```Location:``` **Online.** [Register to recieve updates.](http://bbd2020.eventbrite.com)
-* ```Theme:``` Bridge Health in Times of Crisis
+* ```Location:``` **Online.**  Register in advance for this meeting:
+[https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R](https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R)  
+After registering, you will receive a confirmation email containing information about joining the meeting.
+* ```Theme:``` Bridge Health in Times of Crisis. [We have a great agenda shaping up!](https://bridgingbigdata.github.io/pages/bbd2020agenda.html)
+
 
 ## Sponsor
 ![NSF](./pages/nsf1.gif)

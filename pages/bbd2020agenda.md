@@ -5,7 +5,11 @@ description: BBD 2020 Agenda
 ---
 
 # BBD 2020 Agenda  
-### DRAFT, updated Oct 9th, 2020. Talks and times subject to changes.
+### DRAFT, updated Oct 15th, 2020. Talks and times subject to changes.
+
+Register in advance for this meeting:
+[https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R](https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R)  
+After registering, you will receive a confirmation email containing information about joining the meeting.
 
 For optimal workshop experience, [please update your zoom installation to the latest version.](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version)
 
@@ -19,15 +23,14 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 **Workshop Kick-off and Speaker Introduction**  
 9:00 - 9:15 a.m. (10 mins, 5 mins transition time)  
 **Topic:** Welcome Remarks  
-**Speaker:** TBD <!--[xxx](link) -->
 
 **Keynote**  
 9:15 - 10:00 a.m. (30 mins, 15 mins Q&A)     
-**Topic:** Using Data for Disaster Management      
-**Speaker:** Ilkay Altintas, Ph.D., Chief Data Science Officer at San Diego Supercomputer Center
+**Title:** Managing Hazards through Collaborative Data and Artificial Intelligence Workflows
+> When it comes to managing hazards and related emergencies, one size does not fit all. A common observation across all hazards is that they are becoming more destructive and frequent making data-driven approaches much needed and time critical. Science-based decisions for hazard mitigation, preparedness, response and recovery need improved dynamic data-driven models. Proactive management to reduce destruction by hazards can be optimized through novel integration of data and models, but it has not yet reached its full potential due to inconsistencies between data, modeling needs, and the actual sensitivities of existing models under changing conditions. To accelerate solutions to such data-driven problems, artificial intelligence enabled data infrastructure and systems to catalog, curate, exchange, analyze, optimize and communicate big data and models at scale are needed. Such science and technology solutions combined with community driven team science approaches are crucial for problem solving in the hazards domain. WIFIRE took the first steps to tackle this problem with a goal to create an integrated system, data and visualization services, and workflows for wildfire monitoring, simulation, and response. Today, WIFIRE provides an end-to-end management infrastructure from the data sensing and collection to artificial intelligence and modeling efforts using a continuum of computing methods that integrate edge, cloud, and high-performance computing. Though this cyberinfrastructure, the WIFIRE project provides community-driven all hazards knowledge for a wide range of public and private sector users enabling scientific, municipal, and educational use. This talk will review some of our recent work on building this dynamic data driven cyberinfrastructure, artificial intelligence solutions, and impactful application solution architectures that showcase integration of a variety of existing technologies and collaborative expertise.      
+**Speaker:** Ilkay Altintas, Ph.D., Chief Data Science Officer at San Diego Supercomputer Center  
 > ![Ilkay Altintas](images/Ilkay.jpeg)  
-> Dr. Ilkay Altintas is the Chief Data Science Officer at the San Diego Supercomputer Center (SDSC), UC San Diego, where she is also the Founder and Director for the Workflows for Data Science Center of Excellence. Her passion is leading collaborative multi-disciplinary computational data science teams. Her research objective is delivering impactful results through making collaborative computational data science work more reusable, programmable, scalable and reproducible. Her work has been applied to many scientific and societal domains including bioinformatics, geoinformatics, high-energy physics, multi-scale biomedical science, smart cities, and smart manufacturing.
-> Since joining SDSC in 2001, she has translated her technical and management skills to scientific computing and data science as both a principal investigator and leader. Her research portfolio includes a wide range of cross-disciplinary projects. She is a co-initiator of the popular open-source Kepler Scientific Workflow System, and the co-author of publications related to computational data science at the intersection of workflows, provenance, distributed computing, big data, reproducibility, and software modeling in many different application areas. She is also a well-known MOOC instructor in the field of “big” data science, and reached out to hundreds of thousands of learners across any populated part of our continent. She likes asking the question ‘what if?’ and has been often called an ‘outside of the box thinker’. Among the awards she has received are the 2015 IEEE TCSC Award for Excellence in Scalable Computing for Early Career Researchers and the 2017 ACM SIGHPC Emerging Woman Leader in Technical Computing Award. Her Ph.D. degree is from the University of Amsterdam in the Netherlands with an emphasis on provenance of workflow-driven collaborative science. She is an associate research scientist at UC San Diego.
+> Ilkay Altintas is a data and computer scientist, and researcher in the domain of high-performance computing applications. Altintas currently serves as chief data science officer of the San Diego Supercomputer Center (SDSC), at the University of California, San Diego, where she has also is the founder and director of the Workflows for Data Science Center of Excellence (WorDS) and the WIFIRE Lab. Her research objective is the development of methods, cyberinfrastructure and workflows for computational data science and its translation to practical applications. Her WIFIRE Lab aims to be an all hazards knowledge cyberinfrastructure, becoming a management layer from the data collection to modeling efforts including COVID-19, and has achieved significant success in helping to manage wildfires.
 
 **Session Chair:** Deepak Khazanchi
 
@@ -41,11 +44,11 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 
 > Panelists will provide latest information on how emergency management and frontline workers are handling the effects of the pandemic and other recent crises (flooding, wind) on their day to day operations and planning for the built environment. How have these things changed? If they have not changed, how likely and in what way can they change in the future?
 
-**Speakers:**
+**Panelists:**
 - Paul W. Johnson, Director, Omaha - Douglas County Emergency Management Agency
 - Mark Tryanowicz, Director - Bridge Division, Nebraska Department of Transportation (NEDOT)
 - Al Nelson, HDR
-- Speaker 4, title, affiliation
+- Josephine Tucker, Senior Manager, Deloitte
 
 **Session Chair:** Dan Linzell
 
@@ -87,7 +90,7 @@ Take a quick poll to express your area of interest for the Breakout session
 
 ## Session 4, Keynote: Future World Vision for Resilient Communities
 1:00 to 1:45 p.m. (30 mins, 15 mins Q&A)    
-**Topic:** Future World Vision for Resilient Communities
+**Title:** Future World Vision for Resilient Communities
 > From climate change to autonomous vehicles, engineers are confronting a variety of environmental challenges, demographic shifts and technological changes that will require a drastic rethinking of how we build, operate, and maintain our infrastructure systems. Planning for the future is difficult for nearly every organization. ASCE decided to launch the Future World Vision project to help meet this challenge. We compiled and winnowed more than 100 global macrotrends to examine six important sociopolitical, economic, environmental, and technological trends as key drivers of change for future built infrastructure. Our desire is that the Future World Vision project will establish ASCE and civil engineers as bold thought leaders, provide a platform to envision the future built environment and ultimately optimize future system performance and the benefit to society, and be a next‐generation tool that interacts and resonates with those who will create the future built environment—the next generation of civil engineers. The Future World Vision platform is an immersive computer model, using gaming engines, that will create virtual future worlds with evocative visuals, multiple characters and rich narratives that explore holistic city, community and neighborhood systems, including the cultural, social, economic, political, ethical and environmental aspects at different scales. This platform will enable engineers to ask the right questions about a future built environment that doesn’t exist yet, contemplate solutions, postulate the resulting benefit to society – well in advance of starting to design those solutions. This will enable us to better prepare engineers today for possible future needs and challenges.
 
 **Speaker:** Gerald (Jerry) Buckwalter, Chief Operating and Strategy Officer, American Society of Civil Engineers  
