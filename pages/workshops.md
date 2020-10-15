@@ -3,11 +3,12 @@ layout: default
 title: Workshops - Bridging Big Data
 description: Bridging Big Data Workshops
 ---
-## Bridging Big Data Workshop, Monday November 9th, 2020
-* [Save the Date. More details coming soon!](https://bridgingbigdata.github.io/pages/bbd2020.html)
-* ```Date:``` November 9th, 2020, 9 to 5 PM
-* ```Location:``` **Online.** [Register to recieve updates.](http://bbd2020.eventbrite.com)
-* ```Theme:``` Bridge Health in Times of Crisis
+## [Bridging Big Data Workshop, Monday November 9th, 2020](https://bridgingbigdata.github.io/pages/bbd2020.html)
+* ```Date:``` November 9th, 2020, 9 to 3 PM
+* ```Location:``` **Online.**  Register in advance for this meeting:
+[https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R](https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R)  
+After registering, you will receive a confirmation email containing information about joining the meeting.
+* ```Theme:``` Bridge Health in Times of Crisis. [We have a great agenda shaping up!](https://bridgingbigdata.github.io/pages/bbd2020agenda.html)
 
 ## Bridging Big Data Workshop (2019)
 
