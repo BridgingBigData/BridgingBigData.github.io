@@ -7,7 +7,8 @@ description: BBD 2020 Agenda
 # BBD 2020 Agenda  
 ### DRAFT, updated Oct 15th, 2020. Talks and times subject to changes.
 
-Register in advance for this meeting:
+### Registration
+- Register in advance for this meeting to receive a Zoom Invite:
 [https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R](https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R)  
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
