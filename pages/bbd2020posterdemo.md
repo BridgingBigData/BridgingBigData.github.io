@@ -7,7 +7,7 @@ description: BBD 2020 Agenda
 # BBD 2020
 
 ## Session 5, Emerging Solutions: Posters and Demonstrations
-November 9th, 2:00 - 2:45 p.m (45 mins)  
+November 9th, 2:00 - 2:45 p.m (45 mins) CT
 
 **Session Co-Chairs:** Brian Ricks, Samira Ardani
 
