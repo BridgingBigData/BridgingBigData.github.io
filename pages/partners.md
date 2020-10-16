@@ -23,6 +23,8 @@ description: Bridging Big Data People
 *	[Brian Ricks](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php); University of Nebraska-Omaha; co-PI
 *	[Daniel Linzell](http://engineering.unl.edu/civil/daniel-linzell/); University of Nebraska-Lincoln; co-PI
 *	[Chungwook Sim](http://engineering.unl.edu/civil/faculty/chungwook-sim/); University of Nebraska-Lincoln; co-PI
+* Saeed Eftekhar Azam; University of New Hampshire  
+* Samira Ardani; Post-Doctoral Researcher, University of Nebraska-Lincoln
 *	Parvathi Chundi; University of Nebraska-Omaha
 *	Kate Cooper; University of Nebraska-Omaha
 *	Prithviraj Dasgupta; University of Nebraska-Omaha
@@ -40,3 +42,11 @@ description: Bridging Big Data People
 *	Jinying Zhu; University of Nebraska-Lincoln
 * Jay Puckett; University of Nebraska-Lincoln
 
+# Students
+Akshay Kale, PhD Student, University of Nebraska at Omaha
+O'Brien Chin, Masters Student, University of Nebraska at Omaha
+Sepehr Pashoutani, PhD Student, University of Nebraska-Lincoln
+Anoop Mishra, PhD Student, University of Nebraska at Omaha
+Prasad Chetti, PhD Student, University of Nebraska at Omaha
+Ji Young Lee, PhD Student, University of Nebraska-Lincoln
+Brandon Lacy, Undergraduate Student, University of Nebraska at Omaha
