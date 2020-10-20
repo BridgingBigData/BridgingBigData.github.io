@@ -8,7 +8,7 @@ description: Bridging Big Data Project site
 
 ## [Bridging Big Data Workshop, Monday November 9th, 2020](https://bridgingbigdata.github.io/pages/bbd2020.html)
 
-* ```Date:``` November 9th, 2020, 9 to 3 PM
+* ```Date:``` November 9th, 2020, 9 to 3 PM CT
 * ```Location:``` **Online.**  Register in advance for this meeting:
 [https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R](https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R)  
 After registering, you will receive a confirmation email containing information about joining the meeting.
