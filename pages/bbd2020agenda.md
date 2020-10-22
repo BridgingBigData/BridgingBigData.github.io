@@ -118,3 +118,11 @@ Take a quick poll to express your area of interest for the Breakout session
 
 **Topic:** Workshop closing comments    
 **Speakers:** Dan Linzell and Robin Gandhi  
+
+
+### Registration
+- Register in advance for this meeting to receive a Zoom Invite:
+[https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R](https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R)  
+After registering, you will receive a confirmation email containing information about joining the meeting.
+
+For optimal workshop experience, [please update your zoom installation to the latest version.](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version)
