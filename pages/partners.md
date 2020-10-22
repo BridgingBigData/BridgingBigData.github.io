@@ -43,10 +43,10 @@ description: Bridging Big Data People
 * Jay Puckett; University of Nebraska-Lincoln
 
 # Students
-Akshay Kale, PhD Student, University of Nebraska at Omaha
-O'Brien Chin, Masters Student, University of Nebraska at Omaha
-Sepehr Pashoutani, PhD Student, University of Nebraska-Lincoln
-Anoop Mishra, PhD Student, University of Nebraska at Omaha
-Prasad Chetti, PhD Student, University of Nebraska at Omaha
-Ji Young Lee, PhD Student, University of Nebraska-Lincoln
-Brandon Lacy, Undergraduate Student, University of Nebraska at Omaha
+* Akshay Kale, PhD Student, University of Nebraska at Omaha  
+* O'Brien Chin, Masters Student, University of Nebraska at Omaha  
+* Sepehr Pashoutani, PhD Student, University of Nebraska-Lincoln  
+* Anoop Mishra, PhD Student, University of Nebraska at Omaha  
+* Prasad Chetti, PhD Student, University of Nebraska at Omaha  
+* Ji Young Lee, PhD Student, University of Nebraska-Lincoln  
+* Brandon Lacy, Undergraduate Student, University of Nebraska at Omaha  
