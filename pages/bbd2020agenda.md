@@ -5,7 +5,6 @@ description: BBD 2020 Agenda
 ---
 
 # BBD 2020 Agenda  
-### DRAFT, updated Oct 15th, 2020. Talks and times subject to changes.
 
 ### Registration
 - Register in advance for this meeting to receive a Zoom Invite:
