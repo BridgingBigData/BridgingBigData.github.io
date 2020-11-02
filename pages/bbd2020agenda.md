@@ -111,7 +111,10 @@ Take a quick poll to express your area of interest for the Breakout session
 
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2020posterdemo.html)
 
-**Topics:** Coming soon!  
+**Topics:**
+* Emmanuel Akintunde, Dan Linzell, **Full-Scale Experiments for Development and Validation of a Robust Damage Detection Tool**, University of Nebraska-Lincoln
+* Brandon, O'Brien Chin, Brian Ricks, **A Novel Visualization and Interactive Tool for Bridge Repair Probabilities**, University of Nebraska at Omaha
+* [Yashar Eftekhar Azam](https://ceps.unh.edu/person/yashar-eftekhar-azam), **A framework for hybrid nonlinear simulation of bridges with online model updating suitable for hard real‐time computing**, University of New Hampshire 
 
 ## Closing Remarks: The way forward
 2:45 to 3:00 p.m. CT (15 mins)    
