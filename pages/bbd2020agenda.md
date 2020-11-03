@@ -113,8 +113,16 @@ Take a quick poll to express your area of interest for the Breakout session
 
 **Topics:**
 * Emmanuel Akintunde, Dan Linzell, **Full-Scale Experiments for Development and Validation of a Robust Damage Detection Tool**, University of Nebraska-Lincoln
+
 * Brandon, O'Brien Chin, Brian Ricks, **A Novel Visualization and Interactive Tool for Bridge Repair Probabilities**, University of Nebraska at Omaha
-* [Yashar Eftekhar Azam](https://ceps.unh.edu/person/yashar-eftekhar-azam), **A framework for hybrid nonlinear simulation of bridges with online model updating suitable for hard real‐time computing**, University of New Hampshire 
+
+* [Yashar Eftekhar Azam](https://ceps.unh.edu/person/yashar-eftekhar-azam), **A framework for hybrid nonlinear simulation of bridges with online model updating suitable for hard real‐time computing**, University of New Hampshire
+
+* Jiyoung Lee and Brendan Barnes, **Vision-based Bridge Inspection using Unmanned Aerial Vehicles under Real-time Operation**, University of Nebraska-Lincoln
+
+* Jiyoung Lee and Anoop Mishra, **Rust Recognition on Steel Bridge Members using Onboard Hardware Acceleration**, University of Nebraska-Lincoln and Omaha
+
+* Sepehr Pashoutani, **Fully Automated Ground Penetrating Radar Data Processing Tool for On-Site Assessment of Concrete Bridge Decks**, University of Nebraska-Lincoln
 
 ## Closing Remarks: The way forward
 2:45 to 3:00 p.m. CT (15 mins)    
