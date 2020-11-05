@@ -116,7 +116,7 @@ Take a quick poll to express your area of interest for the Breakout session
 
 * Brandon, O'Brien Chin, Brian Ricks, **A Novel Visualization and Interactive Tool for Bridge Repair Probabilities**, University of Nebraska at Omaha
 
-* [Yashar Eftekhar Azam](https://ceps.unh.edu/person/yashar-eftekhar-azam), **A framework for hybrid nonlinear simulation of bridges with online model updating suitable for hard real‐time computing**, University of New Hampshire
+* [Saeed (Yashar) Azam](https://ceps.unh.edu/person/yashar-eftekhar-azam), **A framework for hybrid nonlinear simulation of bridges with online model updating suitable for hard real‐time computing**, University of New Hampshire
 
 * Jiyoung Lee and Brendan Barnes, **Vision-based Bridge Inspection using Unmanned Aerial Vehicles under Real-time Operation**, University of Nebraska-Lincoln
 
