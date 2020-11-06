@@ -45,10 +45,11 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 > Panelists will provide latest information on how emergency management and frontline workers are handling the effects of the pandemic and other recent crises (flooding, wind) on their day to day operations and planning for the built environment. How have these things changed? If they have not changed, how likely and in what way can they change in the future?
 
 **Panelists:**
-- Paul W. Johnson, Director, Omaha - Douglas County Emergency Management Agency
-- Mark Tryanowicz, Director - Bridge Division, Nebraska Department of Transportation (NEDOT)
-- Al Nelson, HDR
 - Josephine Tucker, Senior Manager, Deloitte
+- Mark Tryanowicz, Director - Bridge Division, Nebraska Department of Transportation (NDOT)
+- Al Nelson, HDR, Inc.
+- Paul W. Johnson, Director, Omaha - Douglas County Emergency Management Agency
+
 
 **Session Chair:** Dan Linzell
 
