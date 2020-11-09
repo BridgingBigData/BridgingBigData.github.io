@@ -12,7 +12,8 @@ description: Bridging Big Data Project site
 * ```Location:``` **Online.**  Register in advance for this meeting:
 [https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R](https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R)  
 After registering, you will receive a confirmation email containing information about joining the meeting.
-* ```Theme:``` Bridge Health in Times of Crisis. [We have a great agenda shaping up!](https://bridgingbigdata.github.io/pages/bbd2020agenda.html)
+* ```Theme:``` Bridge Health in Times of Crisis.
+* ```Agenda:``` [https://bridgingbigdata.github.io/pages/bbd2020agenda.html](https://bridgingbigdata.github.io/pages/bbd2020agenda.html)
 
 
 ## Sponsor

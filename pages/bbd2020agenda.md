@@ -66,6 +66,8 @@ Take a quick poll to express your area of interest for the Breakout session
 
 > How are crises affecting our ability to effectively manage infrastructure using Data? What data was needed before? How have data needs changed during the crisis? What data and analytical capabilities are needed to deal with future crises?
 
+For optimal session experience, [please update your zoom installation to the latest version.](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version)
+
 #### Engineering Breakout   
 11:15 - 11:45 a.m. CT     
 **Focus Areas:** Design, Construction, Rehabilitation  
@@ -83,7 +85,6 @@ Take a quick poll to express your area of interest for the Breakout session
 
 #### Summary of Breakouts
 11:45 a.m. - 12:00 p.m. CT (15 mins)  
-
 
 ## Lunch Break
 12:00 - 1:00 p.m CT (60 mins)
@@ -112,18 +113,22 @@ Take a quick poll to express your area of interest for the Breakout session
 
 [Poster/Demonstration Guidelines](https://bridgingbigdata.github.io/pages/bbd2020posterdemo.html)
 
+For optimal session experience, [please update your zoom installation to the latest version.](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version)
+
 **Topics:**
 * Emmanuel Akintunde, Dan Linzell, **Full-Scale Experiments for Development and Validation of a Robust Damage Detection Tool**, University of Nebraska-Lincoln
 
-* Brandon, O'Brien Chin, Brian Ricks, **A Novel Visualization and Interactive Tool for Bridge Repair Probabilities**, University of Nebraska at Omaha
+* Brandon, O'Brien Chin, and Brian Ricks, **A Novel Visualization and Interactive Tool for Bridge Repair Probabilities**, University of Nebraska at Omaha
 
 * [Saeed (Yashar) Azam](https://ceps.unh.edu/person/yashar-eftekhar-azam), **A framework for hybrid nonlinear simulation of bridges with online model updating suitable for hard real‐time computing**, University of New Hampshire
 
-* Jiyoung Lee and Brendan Barnes, **Vision-based Bridge Inspection using Unmanned Aerial Vehicles under Real-time Operation**, University of Nebraska-Lincoln
+* Jiyoung Lee, and Brendan Barnes, **Vision-based Bridge Inspection using Unmanned Aerial Vehicles under Real-time Operation**, University of Nebraska-Lincoln
 
-* Jiyoung Lee and Anoop Mishra, **Rust Recognition on Steel Bridge Members using Onboard Hardware Acceleration**, University of Nebraska-Lincoln and Omaha
+* Jiyoung Lee, and Anoop Mishra, **Rust Recognition on Steel Bridge Members using Onboard Hardware Acceleration**, University of Nebraska-Lincoln and Omaha
 
 * Sepehr Pashoutani, **Fully Automated Ground Penetrating Radar Data Processing Tool for On-Site Assessment of Concrete Bridge Decks**, University of Nebraska-Lincoln
+
+* Dan Linzell, [Saeed (Yashar) Azam](https://ceps.unh.edu/person/yashar-eftekhar-azam), and Samira Ardani, **Low-Cost Modal Identification Sensors of Bridge Field Testing**, University of Nebraska-Lincoln
 
 ## Closing Remarks: The way forward
 2:45 to 3:00 p.m. CT (15 mins)    
@@ -132,11 +137,3 @@ Take a quick poll to express your area of interest for the Breakout session
 **Speakers:** Dan Linzell and Robin Gandhi  
 
 Please take this brief survey to provide feedback on the Workshop: [Exit Survey](https://unomaha.az1.qualtrics.com/jfe/form/SV_elFo6GF4c3AXz9P)
-
-
-### Registration
-- Register in advance for this meeting to receive a Zoom Invite:
-[https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R](https://unomaha.zoom.us/meeting/register/tJYsfuCurDIjHNJM8kp7dPKBmN11xC1u1s7R)  
-After registering, you will receive a confirmation email containing information about joining the meeting.
-
-For optimal workshop experience, [please update your zoom installation to the latest version.](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version)
