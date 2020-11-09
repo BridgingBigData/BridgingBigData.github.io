@@ -56,13 +56,15 @@ Monday November 9th, 2020, 9:00 A.M. to 3 P.M. Central Time
 ## Break
 11:00 - 11:15 a.m. CT (15 mins)  
 
-Take a quick poll to express your area of interest for the Breakout session  
+* Indicate your preference for the breakout sessions: [https://unomaha.az1.qualtrics.com/jfe/form/SV_0HayguSk07KYn65](https://unomaha.az1.qualtrics.com/jfe/form/SV_0HayguSk07KYn65)
 
 > Stretch your legs, play with pets, check on kids...just be back by 11:15. You don't want to miss the next session!  
 
 
 ## Session 3, Breakouts
 11:15 - 11:45 a.m. CT (30 minutes each)  
+
+* Indicate your preference for the breakout sessions: [https://unomaha.az1.qualtrics.com/jfe/form/SV_0HayguSk07KYn65](https://unomaha.az1.qualtrics.com/jfe/form/SV_0HayguSk07KYn65)
 
 > How are crises affecting our ability to effectively manage infrastructure using Data? What data was needed before? How have data needs changed during the crisis? What data and analytical capabilities are needed to deal with future crises?
 
