@@ -6,7 +6,7 @@ description: Bridging Big Data Project site
 
 ## News and Events
 
-### [Bridging Big Data Workshop, Monday November 9th, 2020](https://bridgingbigdata.github.io/pages/bbd2020.html)
+### Bridging Big Data Workshop, Monday November 9th, 2020
 BBD 2020 is now concluded. The workshop proceedings can be found here: [https://bridgingbigdata.github.io/pages/bbd2020agenda.html](https://bridgingbigdata.github.io/pages/bbd2020agenda.html)
 
 ### Check out these web applications (2019)
