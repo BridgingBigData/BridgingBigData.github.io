@@ -5,7 +5,7 @@ description: Bridging Big Data Workshops
 ---
 
 
-The Bridging Big Data Workshop series kicked off at the Century Link Conference center, October 2015. Attendees included bridge owners from the public and private sectors, civil engineering and IT researchers, and infrastructure solution providers. The workshop sessions have generated many discussions identifying pain points for collecting, curating and sharing bridge health data and opportunities to innovate with Big Data technologies. 
+> The Bridging Big Data Workshop series kicked off at the Century Link Conference center in October 2015. Since then the workshop has continued to attract bridge owners from the public and private sectors, civil engineering and IT researchers, and infrastructure solution providers. The workshop sessions have generated many discussions identifying pain points for collecting, curating and sharing bridge health data and opportunities to innovate with Big Data technologies. 
 
 ## Bridging Big Data Workshop (2020)
 ## [Hosted using Zoom on Monday November 9th, 2020](https://bridgingbigdata.github.io/pages/bbd2020.html)
