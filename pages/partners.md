@@ -38,7 +38,6 @@ description: Bridging Big Data People
 *	Christine Wittich; University of Nebraska-Lincoln
 *	Jinying Zhu; University of Nebraska-Lincoln
 * Jay Puckett; University of Nebraska-Lincoln
-* Samira Ardani; Post Doctoral Research Associate, University of Nebraska–Lincoln
 
 # Students
 * Akshay Kale, PhD Student, University of Nebraska at Omaha  

@@ -2,9 +2,13 @@
 
 Our collaboration on Big Data and bridge health has resulted in numerous presentations, workshops, etc. Below is a running list of such activities:
 
+## Professional development
+
+- Feb 2020: PhD Students Akshay and Anoop attended a TRB Webinar, _Using Artificial Intelligence to Predict Deterioration of Highway Bridges_
+
 ## Presentations
 
-- March 2019: We presented the SMARTI project at the Nebraska Bridge Conference https://www.ltap.unl.edu/neltap/Events.asp with bridge stakeholders from across Nebraska.  We also conducted an online survey with attendees of the conference to understand their immediate decision making and information needs. This survey is now informing our sensor selection and configuration efforts. Survey results https://unomaha.box.com/s/7p99zg70b24yapziagspxgmgr01njntj
+- March 2019: We presented the SMARTI project at the Nebraska Bridge Conference https://www.ltap.unl.edu/neltap/Events.asp with bridge stakeholders from across Nebraska.  We also conducted an online survey with attendees of the conference to understand their immediate decision making and information needs. This survey is now informing our sensor selection and configuration efforts.
 
 - MBDH 2018 All hands meeting: We discussed the SMARTI project as a lightning talk and poster session.
 

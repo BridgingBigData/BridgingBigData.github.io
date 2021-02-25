@@ -50,9 +50,9 @@ description: Bridging Big Data People
 
 - Gandhi, R., Khazanchi, D., Linzell, D., Ricks, B. and Sim, C. (May 2018). “The Hidden Crisis : Developing Smart Big Data pipelines to address Grand Challenges of Bridge Infrastructure health in the United States.” Proceedings of the 15th ISCRAM Conference – Rochester, NY, USA (WiPe Paper – Open Track), pp. 1016-1021. [Proceedings](https://iscram2018.rit.edu/sites/rit.edu.iscram2018/files/docs/2018_ISCRAM_Conference_Proceedings.pdf)
 
-- O’Brien, C., Brandon, L., Brian, R., Gandhi, R., Haas, C., Sim, C., Khazanchi, D., Linzell, D., An examination of bridge maintenance patterns across US states using actuarial methods, Manuscript under preparation.
+- O’Brien, C., Lacy, B., Ricks, B., Gandhi, R., Haas, C., Sim, C., Khazanchi, D., Linzell, D., An examination of bridge maintenance patterns across US states using actuarial methods, Manuscript under preparation.
 
-# Web Applications
+# Web Applications  
 
 - [Hexbin visualization of maintenance trends in the United States using all NBI inspection records](https://ricksteam.github.io/stateVisualization/Grid.html)
 
