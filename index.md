@@ -15,8 +15,8 @@ BBD 2020 is now concluded. The workshop proceedings can be found here: [https://
 
 ### Check out these web applications
 - [Bridge attributes that contribute to maintenance events](https://repairs.ricks.io)
-- [Hexbin visualization of maintenance trends in the United States using all NBI inspection records](https://ricksteam.github.io/stateVisualization/Grid.html)
-- [Bridge Strain Gauge visualization](https://bit.ly/bridgestrain)
+- [Hexbin visualization of maintenance trends in the United States using all NBI inspection records](https://hexstates.ricks.io)
+- [Bridge Strain Gauge visualization](https://bridgestrain.ricks.io)
 
 ## Sponsor
 ![NSF](./pages/nsf1.gif)
