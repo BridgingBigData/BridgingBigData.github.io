@@ -6,14 +6,8 @@ description: Bridging Big Data Project site
 
 ## News and Events
 
-### Dissertation
-Ph.D. Student Emmanuel Akintunde successfully defended his dissertation _Fatigue Prognosis in Bridges Using Long Term Monitoring Data_ on July 6th, 2022. The University of Nebraska – Lincoln. 
-
-### Presentation 
-Ph.D. Student Akshay Kale gave a presentation at the April 2022 MWBPP monthly teleconference. His talk was titled _Building Interpretable Methods For Identifying Bridge Maintenance Patterns_ The University of Nebraska at Omaha. The Midwest Bridge Preservation Partnership (MWBPP) is comprised of representatives from regional state and local highway agencies, provincial transport agencies, industry, suppliers, consultants, and academia.
-
-### Bridging Big Data Workshop, Monday, November 9th, 2020
-BBD 2020 is now concluded. The workshop proceedings can be found here: [https://bridgingbigdata.github.io/pages/bbd2020agenda.html](https://bridgingbigdata.github.io/pages/bbd2020agenda.html)
+### Bridging Big Data Workshop, Friday, May 26th, 2023
+We are excited to announce the next BBD workshop at the Nebraska East Union. More details about BBD 2023 can be found here: [https://bridgingbigdata.github.io/pages/bbd2023.html](https://bridgingbigdata.github.io/pages/bbd2023.html)
 
 ### Check out these web applications
 - [Bridge attributes that contribute to maintenance events](https://repairs.ricks.io)

@@ -29,6 +29,12 @@ description: Bridging Big Data People
 
 # Publications
 
+### Dissertation
+Ph.D. Student Emmanuel Akintunde successfully defended his dissertation _Fatigue Prognosis in Bridges Using Long Term Monitoring Data_ on July 6th, 2022. The University of Nebraska – Lincoln. 
+
+### Presentation 
+Ph.D. Student Akshay Kale gave a presentation at the April 2022 MWBPP monthly teleconference. His talk was titled _Building Interpretable Methods For Identifying Bridge Maintenance Patterns_ The University of Nebraska at Omaha. The Midwest Bridge Preservation Partnership (MWBPP) is comprised of representatives from regional state and local highway agencies, provincial transport agencies, industry, suppliers, consultants, and academia.
+
 - Ji Young Lee, Chungwook Sim, Carrick Detweiler, and Brendan Barnes (2019), "Computer-Vision Based UAV Inspection for Steel Bridge Connections," IWSHM 2019 Conference Proceedings, Stanford, CA. Sep. 10-12.
 
 - Eftekhar Azam, S., Linzell, D.G. & Rageh, A. “[Damage Detection in Structural Systems Utilizing Artificial Neural Networks and Proper Orthogonal Decomposition.](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.2288)” Structural Control and Health Monitoring, 2018
