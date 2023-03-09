@@ -11,7 +11,7 @@ We are excited to announce the next BBD workshop at the Nebraska East Union. Mor
 
 ### Check out these web applications
 - [Bridge attributes that contribute to maintenance events](https://repairs.ricks.io)
-- [Hexbin visualization of maintenance trends in the United States using all NBI inspection records](https://hexstates.ricks.io)
+<!-- * [Hexbin visualization of maintenance trends in the United States using all NBI inspection records](https://hexstates.ricks.io)-->
 - [Bridge Strain Gauge visualization](https://bridgestrain.ricks.io)
 
 ## Sponsor
