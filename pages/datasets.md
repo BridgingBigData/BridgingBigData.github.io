@@ -60,7 +60,7 @@ Ph.D. Student Akshay Kale gave a presentation at the April 2022 MWBPP monthly te
 
 # Web Applications  
 
-- [Hexbin visualization of maintenance trends in the United States using all NBI inspection records](https://ricksteam.github.io/stateVisualization/Grid.html)
+- [Hexbin visualization of maintenance trends in the United States using all NBI inspection records](https://hexstates.ricks.io)
 
 - [Bridge Strain Gauge visualization](https://bridgestrain.ricks.io)
 
