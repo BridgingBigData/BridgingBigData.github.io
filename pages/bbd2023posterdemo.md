@@ -14,7 +14,7 @@ Each presenter will be asked to contribute in two ways:
 
 ### 1. Lightning Talk
 
-Present a 5-minute (hard-stop), one-slide "lightning talk" at the beginning of the session (starting at 1pm). Focus on introducing your poster/demonstration to the audience and leaving them interested in exploring further with you. We will have all the presenters follow each other with a quick transition.
+Present a 3-minute (hard-stop), one-slide "lightning talk" at the beginning of the session (starting at 1pm). Focus on introducing your poster/demonstration to the audience and leaving them interested in exploring further with you. We will have all the presenters follow each other with a quick transition.
 
 ### 2. Poster/Demonstration
 For the duration of the session, presenters will be at their locations to explain the details of their specialty/research/demonstation to attendees.  
@@ -35,4 +35,5 @@ You are encouraged, but not required, to use a poster template. One such templat
 
 ### Deadlines
 
-- If you would like us to print your poster for you, then please email them to [Dr. Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php) bricks [at] unomaha.edu by **April 30th, 2023**
+- If you would like us to print your poster for you, then please email them to [Dr. Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php) bricks [at] unomaha.edu or Dr. 
+Yashar Eftekhar Azam saeed.eftekharazam [at] unh.edu by **April 30th, 2023**
