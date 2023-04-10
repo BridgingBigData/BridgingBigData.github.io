@@ -51,7 +51,7 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 ## Break
 1:45 – 2:00 p.m. CT (15 mins)    
 
-## Keynote 2: Autonomy at the Edge: Needs and Emerging Solutions
+## Autonomy at the Edge: Needs and Emerging Solutions
 2:00 - 2:45 p.m CT (45 mins)    
 
 ## Closing Thoughts
