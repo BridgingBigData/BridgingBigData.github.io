@@ -21,17 +21,19 @@ For the duration of the session, presenters will be at their locations to explai
 
 #### Demonstration Guidelines
 - Tables will be provided
-- Electrical outlets will be available but please bring your own extension cords.
+- Electrical outlets will be available, but please bring your own extension cords.
 
 #### Poster Guidelines
 
 - Boards and easels will be provided.
-- Poster size should be 48” x 36” or less.
+- Poster size should be 48” x 36” or less and in landscape orientation.
 - Author(s) name(s), institution(s) and funding source(s) should appear on the poster.
 - The title should be properly capitalized with a minimum font size of 80 points.
 - The text should be written with a minimum font size of 18 points.
 
-You are encouraged, but not required, to use a poster template. One such template can be found at the following url: [https://osf.io/6ua4k/](https://osf.io/6ua4k/)
+You are encouraged, but not required, to use a poster template. One such template can be found at the following url: [https://osf.io/6ua4k/](https://osf.io/6ua4k/).
+
+You can see example of poster presented at previous workshops here: [Example Posters](../assets/files/)
 
 ### Deadlines
 
