@@ -16,6 +16,9 @@ Each presenter will be asked to contribute in two ways:
 
 Present a 3-minute (hard-stop), one-slide "lightning talk" at the beginning of the session (starting at 1pm). Focus on introducing your poster/demonstration to the audience and leaving them interested in exploring further with you. We will have all the presenters follow each other with a quick transition.
 
+You can see an the lightning slide deck we used in 2019 here:
+- [Example Lightning Talk Slides](../assets/files/BBD%202019%20Lightning%20Talks.pdf) 
+
 ### 2. Poster/Demonstration
 For the duration of the session, presenters will be at their locations to explain the details of their specialty/research/demonstation to attendees.  
 
@@ -31,15 +34,15 @@ For the duration of the session, presenters will be at their locations to explai
 - The title should be properly capitalized with a minimum font size of 80 points.
 - The text should be written with a minimum font size of 18 points.
 
-You are encouraged, but not required, to use a poster template. One such template can be found at the following url: [https://osf.io/6ua4k/](https://osf.io/6ua4k/).
+
 
 You can see examples of poster presented at previous workshops here: 
 - [Example Poster 1](../assets/files/Deep%20Neural%20Nets%20Crack%20Detection-Ji%20Young.pdf)
 - [Example Poster 2](../assets/files/Displacement%20Measurement%20of%20Bridge%20Deformation–Mohamed.pdf)
 - [Example Poster 3](../assets/files/Technology%20Demonstration%20Network%20Overview.pdf)
 
-You can see an the lightning slide deck we used in 2019 here:
-- [Example Lightning Talk Slides](../assets/files/BBD%202019%20Lightning%20Talks.pdf)
+You are encouraged, but not required, to use a poster template. One such template can be found at the following url: [https://osf.io/6ua4k/](https://osf.io/6ua4k/).
+
 
 ### Deadlines
 
