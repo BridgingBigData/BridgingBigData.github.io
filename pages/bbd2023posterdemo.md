@@ -33,10 +33,13 @@ For the duration of the session, presenters will be at their locations to explai
 
 You are encouraged, but not required, to use a poster template. One such template can be found at the following url: [https://osf.io/6ua4k/](https://osf.io/6ua4k/).
 
-You can see example of poster presented at previous workshops here: 
+You can see examples of poster presented at previous workshops here: 
 - [Example Poster 1](../assets/files/Deep%20Neural%20Nets%20Crack%20Detection-Ji%20Young.pdf)
 - [Example Poster 2](../assets/files/Displacement%20Measurement%20of%20Bridge%20Deformation–Mohamed.pdf)
 - [Example Poster 3](../assets/files/Technology%20Demonstration%20Network%20Overview.pdf)
+
+You can see an the lightning slide deck we used in 2019 here:
+- [Example Lightning Talk Slides](../assets/files/BBD%202019%20Lightning%20Talks.pdf)
 
 ### Deadlines
 
