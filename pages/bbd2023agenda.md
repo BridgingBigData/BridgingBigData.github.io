@@ -30,7 +30,7 @@ Friday May 26th, 2020, 8:30 A.M. to 3 P.M. Central Time
 **Title:**  
 > Abstract
 
-**Speaker:** Dr. Mihan H. McKenna Taylor, Army Senior Research Scientist, for Near Surface Phenomenology for the U.S. Army Engineer Research and Development Center (ERDC), a group of 7 Research and Development laboratories for the U.S. Army Corps of Engineers (USACE) and the U.S. Army.   
+**Dr. Mihan H. McKenna Taylor**, Army Senior Research Scientist, for Near Surface Phenomenology for the U.S. Army Engineer Research and Development Center (ERDC), a group of 7 Research and Development laboratories for the U.S. Army Corps of Engineers (USACE) and the U.S. Army.   
 > ![Dr. Mihan McKenna](https://bridgingbigdata.github.io/pages/images/mihan.jpg)   
 
 <details>
@@ -51,6 +51,8 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 ### Panelists
 
 #### **Danielle Whitlow, PhD, PE**,  Research Civil Engineer, [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)  
+
+> ![Dr. Danielle Whitlow](https://bridgingbigdata.github.io/pages/images/whitlow.jpg)   
 
 <details>
 <summary>Bio</summary>
