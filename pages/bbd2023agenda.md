@@ -27,7 +27,7 @@ Friday May 26th, 2020, 8:30 A.M. to 3 P.M. Central Time
 
 ## Keynote 1:  Persistent Engineer Intelligence
 9:15 - 10:00 a.m. CT (45 mins)   
-**Title:** TBD  
+**Title:**  
 > Abstract
 
 **Speaker:** Dr. Mihan H. McKenna Taylor, Army Senior Research Scientist, for Near Surface Phenomenology for the U.S. Army Engineer Research and Development Center (ERDC), a group of 7 Research and Development laboratories for the U.S. Army Corps of Engineers (USACE) and the U.S. Army.   
@@ -40,7 +40,12 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 10:00 – 10:15 a.m. CT (15 mins)        
 
 ## Panel 1: Intelligent Infrastructure Health Monitoring: Lessons Learned and Future Directions  
-10:15 - 11:30 a.m. CT (75 mins)    
+10:15 - 11:30 a.m. CT (75 mins)   
+**Panelists**  
+- **Danielle Whitlow, PhD, PE** | Research Civil Engineer | [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)  
+- **David Hedeen, PE** | Asset Management Engineer | [Minnesota Department of Transportation Bridge Office](https://www.dot.state.mn.us/bridge/)  
+>> David has been working for Minnesota DOT since 2004 and has held roles in Bridge Construction, Bridge Inspection and Bridge Management. David has Bachelor’s degree in Civil Engineering and a Master’s degree in Software Engineering. David is particularly enthusiastic about leveraging bridge data to aid in decision making. David has helped champion several current Minnesota DOT research efforts, including: “Develop Element Level Bridge Performance Measures and Targets”, “Understanding Driving Causes of Bridge Replacement” and “Quantifying Benefits of Bridge Maintenance”.
+
 
 ## Lunch Break
 11:30 - 12:45 p.m CT (75 mins)  
@@ -51,8 +56,11 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 ## Break
 1:45 – 2:00 p.m. CT (15 mins)    
 
-## Autonomy at the Edge: Needs and Emerging Solutions
-2:00 - 2:45 p.m CT (45 mins)    
+## Panel 2: Autonomy at the Edge: Needs and Emerging Solutions
+2:00 - 2:45 p.m CT (50 mins)  
+**Panelists**  
+- **Joshua Church** | Computer Scientist | U.S. Army Engineer Research and Development Center (ERDC)
+- **James Burke** | Business Development Director | Kinnami Software Corporation
 
 ## Closing Thoughts
-2:45 - 3:00 p.m CT (15 mins)   
+2:50 - 3:00 p.m CT (10 mins)   
