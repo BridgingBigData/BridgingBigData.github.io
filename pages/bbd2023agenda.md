@@ -48,6 +48,10 @@ Dr. Whitlow leads multi-disciplinary teams of scientists and engineers with back
 Dr. Whitlow is an active member of the NATO Team of Experts on Military Bridge Assessment under the NATO Military Engineering Working Group. She is also a Professional Engineer in the State of Mississippi and a member of the Society of American Military Engineers and the American Society of Civil Engineers.
 - **David Hedeen, PE**, Asset Management Engineer, [Minnesota Department of Transportation Bridge Office](https://www.dot.state.mn.us/bridge/)  
 > David has been working for Minnesota DOT since 2004 and has held roles in Bridge Construction, Bridge Inspection and Bridge Management. David has Bachelor’s degree in Civil Engineering and a Master’s degree in Software Engineering. David is particularly enthusiastic about leveraging bridge data to aid in decision making. David has helped champion several current Minnesota DOT research efforts, including: “Develop Element Level Bridge Performance Measures and Targets”, “Understanding Driving Causes of Bridge Replacement” and “Quantifying Benefits of Bridge Maintenance”.
+- **TBD**, TBD, [Union Pacific](https://www.up.com)  
+> TBD, coming soon.
+- **TBD**, TBD, [Valmont Industries](https://www.valmont.com)  
+> TBD, coming soon.
 
 
 ## Lunch Break
@@ -63,7 +67,13 @@ Dr. Whitlow is an active member of the NATO Team of Experts on Military Bridge A
 2:00 - 2:45 p.m CT (50 mins)  
 **Panelists**  
 - **Joshua Church**, Computer Scientist,  [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
+> bio, coming soon.
 - **James Burke**, Business Development Director, [Kinnami Software Corporation](https://www.kinnami.com)
+> bio, coming soon.
+- **TBD**, TBD, [Union Pacific](https://www.up.com)  
+> TBD, coming soon.
+- **TBD**, TBD, [Werner Enterprise](https://www.werner.com)  
+> TBD, coming soon.
 
 ## Closing Thoughts
 2:50 - 3:00 p.m CT (10 mins)   
