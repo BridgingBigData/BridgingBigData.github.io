@@ -62,8 +62,8 @@ Dr. Whitlow is an active member of the NATO Team of Experts on Military Bridge A
 ## Panel 2: Autonomy at the Edge: Needs and Emerging Solutions
 2:00 - 2:45 p.m CT (50 mins)  
 **Panelists**  
-- **Joshua Church** | Computer Scientist | U.S. Army Engineer Research and Development Center (ERDC)
-- **James Burke** | Business Development Director | Kinnami Software Corporation
+- **Joshua Church**, Computer Scientist,  [U.S. Army Engineer Research and Development Center (ERDC)]
+- **James Burke**, Business Development Director, Kinnami Software Corporation
 
 ## Closing Thoughts
 2:50 - 3:00 p.m CT (10 mins)   
