@@ -52,7 +52,7 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 
 #### **Danielle Whitlow, PhD, PE**,  Research Civil Engineer, [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)  
 
-> ![Dr. Danielle Whitlow](https://bridgingbigdata.github.io/pages/images/whitlow.jpg)   
+> ![Dr. Danielle Whitlow](https://bridgingbigdata.github.io/pages/images/whitlow.png)   
 
 <details>
 <summary>Bio</summary>
