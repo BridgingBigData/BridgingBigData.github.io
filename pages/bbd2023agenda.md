@@ -33,10 +33,10 @@ Friday May 26th, 2020, 8:30 A.M. to 3 P.M. Central Time
 **Dr. Mihan H. McKenna Taylor**, Army Senior Research Scientist, for Near Surface Phenomenology for the U.S. Army Engineer Research and Development Center (ERDC), a group of 7 Research and Development laboratories for the U.S. Army Corps of Engineers (USACE) and the U.S. Army.   
 > ![Dr. Mihan McKenna](https://bridgingbigdata.github.io/pages/images/mihan.jpg)   
 
-<details>
-<summary>Bio</summary>
+Recipient of the 2013 USACE Researcher of the Year award for innovative remote monitoring of structures, Dr. McKenna Taylor specializes in bringing reality to intelligent decision making. She leads multi-disciplinary near-surface phenomenology research to create adaptive, effective, and revolutionary tools and scientific programs to shape future operational environments, including terrain shaping and near-surface persistent surveillance.  
 
-Recipient of the 2013 USACE Researcher of the Year award for innovative remote monitoring of structures, Dr. McKenna Taylor specializes in bringing reality to intelligent decision making. She leads multi-disciplinary near-surface phenomenology research to create adaptive, effective, and revolutionary tools and scientific programs to shape future operational environments, including terrain shaping and near-surface persistent surveillance.   
+<details>
+<summary> more </summary> 
 Using geophysics and geotechnical engineering to proactively manipulate and assess the near-surface interface, she executes and fosters research to meet multi-domain threat assessment and maneuver goals, through high-performance computing simulations, analytical analysis, and laboratory and field experimentation, with applications for both civil and military end-users across multiple Department of Defense (DoD), federal, intelligence and academic communities. Dr. McKenna Taylor is the Co-Chair of the National System for Geospatial Intelligence (NSG) Artificial Intelligence, Automation, Augmentation Working Group, (AAA WG) and serves as the Basic Research 6.1 Advisor for the ERDC Adaptive Protection, Maneuver, Geospatial, and Natural Sciences Research Portfolio.  
 Dr. McKenna Taylor is the author of numerous journal articles, technical reports, and other publications on a wide variety of geophysical and geotechnical topics. Dr. McKenna Taylor holds a B.S. in Physics with a Chemistry minor from Georgetown University (1999) and a Ph.D. in Geophysics from Southern Methodist University (2005). She is a Certified Professional Geologist (#11410) from The American Institute of Professional Geologists (AIPG) and a Registered Professional Geologist in the state of Alaska (#661). Dr. McKenna is actively involved in the Military Sensing Symposiums (Battlefield Acoustics, Magnetic, and Seismic/Electromagnetics), as well as the American Geophysical Union and the Acoustical Society of America.  
 Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor taught Geophysics and Geology at Southern Methodist University (SMU) in Dallas, Texas (1999-2005), and conducted research in support of the Comprehensive Nuclear Test Ban Treaty. She is currently an adjunct professor in the Huffington Department of Geological Sciences at SMU and the Civil and Environmental Engineering Department of Mississippi State University.   
@@ -57,7 +57,7 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 Dr. Whitlow is a recognized expert in the international community in non-traditional bridge assessment techniques.
 
 <details>
-<summary>Bio</summary>
+<summary>more</summary>
 
 She leverages emergent assessment techniques from other disciplines and brings them to bear on the problem of remote structural assessments, including persistent geophysical monitoring and exploitation of satellite or other overhead imagery in conjunction with knowledge of non-U.S. construction and maintenance practices.  
 Her novel and unconventional approach has resulted in new tools and techniques that enhance Warfighter safety, while advancing the state- of-the-art in bridge assessment as applied to both military and civil infrastructure challenges.    
@@ -71,7 +71,7 @@ Dr. Whitlow is an active member of the NATO Team of Experts on Military Bridge A
 David has been working for Minnesota DOT since 2004 and has held roles in Bridge Construction, Bridge Inspection and Bridge Management.
 
 <details>
-<summary>Bio</summary>
+<summary>more</summary>
 
 David has Bachelor’s degree in Civil Engineering and a Master’s degree in Software Engineering. David is particularly enthusiastic about leveraging bridge data to aid in decision making. David has helped champion several current Minnesota DOT research efforts, including: “Develop Element Level Bridge Performance Measures and Targets”, “Understanding Driving Causes of Bridge Replacement” and “Quantifying Benefits of Bridge Maintenance”.
 
@@ -84,7 +84,7 @@ David has Bachelor’s degree in Civil Engineering and a Master’s degree in So
 Currently leading the innovation project Systemic Pandemic Risk Management, funded by the Research Council of Norway with participation from Stepchange AS; Kristiansand municipality; the Hospital of Southern Norway; the Centre for Integrated Emergency Management (CIEM), University of Agder; the Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health (Italy); and the Center for Disaster Medicine and Traumatology (Sweden)
 
 <details>
-<summary>Bio</summary>
+<summary>more</summary>
 
 Diplom-Physik, 1970, University of Kiel, Germany  
 Dr.rer.nat. (PhD in Natural Sciences), 1970, University of Kiel, Germany  
@@ -136,7 +136,7 @@ Coming Soon!
 As the OPM Code 4 Supervisor, Computational Analysis Branch (CAB), ERDC, he conducts research to develop new computer technologies in order to solve problems for the war fighter.
 
 <details>
-<summary>Bio</summary>
+<summary>more</summary>
 
 Coming Soon!
 
@@ -148,7 +148,7 @@ Coming Soon!
 Jim is the Director of Business Development for Kinnami Software Corporation, a startup company focused on providing security, protection and availability for data in complex distributed environments.
 
 <details>
-<summary>Bio</summary>
+<summary>more</summary>
 
 He joined the company in early 2019 to help bring Kinnami’s technology to market. Kinnami is currently engaged in multiple projects with the DoD addressing data management and autonomy problems encountered at the computing edge.
 
@@ -170,7 +170,7 @@ Kinnami was founded in 2015 by a team of data management and security experts, a
 Leads and Manages critical application development, integration, implementation, and support processes for various programs including Positive Train Control (PTC), Energy management, Hump/Flat Yard Process Control, and Rail Yard Optimization Solutions. 
 
 <details>
-<summary>Bio</summary>
+<summary>more</summary>
 
 Coming Soon!
 
