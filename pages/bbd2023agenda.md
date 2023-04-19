@@ -102,6 +102,8 @@ Coming Soon!
 2:00 - 2:45 p.m CT (50 mins)  
 ### **Panelists**  
 ####  **Joshua Church**, Computer Scientist,  [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
+Conducts research to develop new computer technologies in order to solve problems for the war fighter.
+
 <details>
 <summary>Bio</summary>
 
@@ -117,7 +119,9 @@ Coming Soon!
 
 </details>
 
-#### **TBD**, TBD, [Union Pacific](https://www.up.com)  
+#### Greg Martin, Director – Operating Services, Transportation Systems Development [Union Pacific](https://www.up.com)  
+Leads and Manages critical application development, integration, implementation, and support processes for various programs including Positive Train Control (PTC), Energy management, Hump/Flat Yard Process Control, and Rail Yard Optimization Solutions. 
+
 <details>
 <summary>Bio</summary>
 
