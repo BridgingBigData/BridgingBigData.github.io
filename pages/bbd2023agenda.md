@@ -121,13 +121,13 @@ Coming Soon!
 11:30 - 12:45 p.m CT (75 mins)  
 
 ## Emerging Solutions: Lightning Talks, Posters and Demonstrations
-1:00 to 1:45 p.m. CT (45 mins)   
+12:00 to 1:15 p.m. CT (75 mins)   
 
 ## Break
-1:45 – 2:00 p.m. CT (15 mins)    
+1:15 – 1:30 p.m. CT (15 mins)    
 
 ## Panel 2: Autonomy at the Edge: Needs and Emerging Solutions
-2:00 - 2:45 p.m CT (50 mins)  
+1:30 - 2:45 p.m CT (75 mins)  
 ### **Panelists**  
 ####  **Joshua Church**, Computer Scientist,  [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
 
@@ -185,4 +185,4 @@ Coming Soon!
 </details>
 
 ## Closing Remarks
-2:50 - 3:00 p.m CT (10 mins)   
+2:45 - 3:00 p.m CT (10 mins)   
