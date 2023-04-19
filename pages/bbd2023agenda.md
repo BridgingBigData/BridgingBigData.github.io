@@ -54,10 +54,12 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 
 > ![Dr. Danielle Whitlow](https://bridgingbigdata.github.io/pages/images/whitlow.png)   
 
+Dr. Whitlow is a recognized expert in the international community in non-traditional bridge assessment techniques.
+
 <details>
 <summary>Bio</summary>
 
-Dr. Whitlow is a recognized expert in the international community in non-traditional bridge assessment techniques. She leverages emergent assessment techniques from other disciplines and brings them to bear on the problem of remote structural assessments, including persistent geophysical monitoring and exploitation of satellite or other overhead imagery in conjunction with knowledge of non-U.S. construction and maintenance practices.  
+She leverages emergent assessment techniques from other disciplines and brings them to bear on the problem of remote structural assessments, including persistent geophysical monitoring and exploitation of satellite or other overhead imagery in conjunction with knowledge of non-U.S. construction and maintenance practices.  
 Her novel and unconventional approach has resulted in new tools and techniques that enhance Warfighter safety, while advancing the state- of-the-art in bridge assessment as applied to both military and civil infrastructure challenges.    
 Dr. Whitlow leads multi-disciplinary teams of scientists and engineers with backgrounds in structural engineering, mechanical engineering, electrical engineering, acoustics, signal propagation, and meteorology focused on solving engineering problems and providing bridge assessment and monitoring solutions to both the military and civilian sectors. Her published research spans the breadth of bridge assessment from traditional large-scale structural testing to non-traditional use of emergent technologies for real-time persistent health monitoring.   
 Dr. Whitlow is an active member of the NATO Team of Experts on Military Bridge Assessment under the NATO Military Engineering Working Group. She is also a Professional Engineer in the State of Mississippi and a member of the Society of American Military Engineers and the American Society of Civil Engineers.
@@ -65,10 +67,13 @@ Dr. Whitlow is an active member of the NATO Team of Experts on Military Bridge A
 </details>
 
 #### **David Hedeen, PE**, Asset Management Engineer, [Minnesota Department of Transportation Bridge Office](https://www.dot.state.mn.us/bridge/) 
+
+David has been working for Minnesota DOT since 2004 and has held roles in Bridge Construction, Bridge Inspection and Bridge Management.
+
 <details>
 <summary>Bio</summary>
 
-David has been working for Minnesota DOT since 2004 and has held roles in Bridge Construction, Bridge Inspection and Bridge Management. David has Bachelor’s degree in Civil Engineering and a Master’s degree in Software Engineering. David is particularly enthusiastic about leveraging bridge data to aid in decision making. David has helped champion several current Minnesota DOT research efforts, including: “Develop Element Level Bridge Performance Measures and Targets”, “Understanding Driving Causes of Bridge Replacement” and “Quantifying Benefits of Bridge Maintenance”.
+David has Bachelor’s degree in Civil Engineering and a Master’s degree in Software Engineering. David is particularly enthusiastic about leveraging bridge data to aid in decision making. David has helped champion several current Minnesota DOT research efforts, including: “Develop Element Level Bridge Performance Measures and Targets”, “Understanding Driving Causes of Bridge Replacement” and “Quantifying Benefits of Bridge Maintenance”.
 
 </details>
 
@@ -76,23 +81,24 @@ David has been working for Minnesota DOT since 2004 and has held roles in Bridge
 
 > ![Dr. Jose Gonzalez](https://bridgingbigdata.github.io/pages/images/josejg.jpeg)
 
+Currently leading the innovation project Systemic Pandemic Risk Management, funded by the Research Council of Norway with participation from Stepchange AS; Kristiansand municipality; the Hospital of Southern Norway; the Centre for Integrated Emergency Management (CIEM), University of Agder; the Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health (Italy); and the Center for Disaster Medicine and Traumatology (Sweden)
+
 <details>
 <summary>Bio</summary>
 
-Diplom-Physik, 1970, University of Kiel, Germany
-Dr.rer.nat. (PhD in Natural Sciences), 1970, University of Kiel, Germany
-Dr.techn. (PhD in Technology), 1978, NTH (Norwegian Institute of Technology), now NTNU (Norwegian University of Science and Technology)
-Active since 1971 in academia, since 1999 professor at the University of Agder and since 2005 adjunct professor in Gjøvik, now part of NTNU.
-Professor emeritus since 1st March 2019
-Executive Research Advisor for the company Stepchange AS, Kristiansand, Norway
-Currently leading the innovation project Systemic Pandemic Risk Management, funded by the Research Council of Norway with participation from Stepchange AS; Kristiansand municipality; the Hospital of Southern Norway; the Centre for Integrated Emergency Management (CIEM), University of Agder; the Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health (Italy); and the Center for Disaster Medicine and Traumatology (Sweden)
-Awarded the Research Prize from the Agder Academy of Science and Letters in 2012
-Awarded the King's Medal of Merit for my contributions to societal security in 2019
-I gave a talk at TEDs Arendal 2021 with the title "Can technology help against technology?". The talk concerns humankind’s Grand Challenges, major pandemics being among them, and methods that must be developed to deal with systemic complexity. Link to the talk: https://youtu.be/aIqqj5VcCXM 
+Diplom-Physik, 1970, University of Kiel, Germany  
+Dr.rer.nat. (PhD in Natural Sciences), 1970, University of Kiel, Germany  
+Dr.techn. (PhD in Technology), 1978, NTH (Norwegian Institute of Technology), now NTNU (Norwegian University of Science and Technology)  
+Active since 1971 in academia, since 1999 professor at the University of Agder and since 2005 adjunct professor in Gjøvik, now part of NTNU.  
+Professor emeritus since 1st March 2019  
+Executive Research Advisor for the company Stepchange AS, Kristiansand, Norway  
+Awarded the Research Prize from the Agder Academy of Science and Letters in 2012  
+Awarded the King's Medal of Merit for my contributions to societal security in 2019  
+I gave a talk at TEDs Arendal 2021 with the title "Can technology help against technology?". The talk concerns humankind’s Grand Challenges, major pandemics being among them, and methods that must be developed to deal with systemic complexity. Link to the talk: https://youtu.be/aIqqj5VcCXM   
 
 </details>
 
-Currently leading the innovation project Systemic Pandemic Risk Management, funded by the Research Council of Norway with participation from Stepchange AS; Kristiansand municipality; the Hospital of Southern Norway; the Centre for Integrated Emergency Management (CIEM), University of Agder; the Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health (Italy); and the Center for Disaster Medicine and Traumatology (Sweden)
+
 
 #### **TBD**, TBD, [Union Pacific](https://www.up.com)  
 <details>
@@ -139,10 +145,13 @@ Coming Soon!
 ####  **James Burke**, Business Development Director, [Kinnami Software Corporation](https://www.kinnami.com)
 > ![Jim Burke](https://bridgingbigdata.github.io/pages/images/jamesburke.jpg)
 
+Jim is the Director of Business Development for Kinnami Software Corporation, a startup company focused on providing security, protection and availability for data in complex distributed environments.
+
 <details>
 <summary>Bio</summary>
 
-Jim is the Director of Business Development for Kinnami Software Corporation, a startup company focused on providing security, protection and availability for data in complex distributed environments. He joined the company in early 2019 to help bring Kinnami’s technology to market. Kinnami is currently engaged in multiple projects with the DoD addressing data management and autonomy problems encountered at the computing edge.
+He joined the company in early 2019 to help bring Kinnami’s technology to market. Kinnami is currently engaged in multiple projects with the DoD addressing data management and autonomy problems encountered at the computing edge.
+
 Jim is passionate about growing companies and building solutions that address complex problems empowering customers to meet their technology challenges. A technology startup veteran, prior to Kinnami Jim worked with Ecodesk, a UK-based sustainable business platform, providing supplier data collection and analysis to reduce enterprise impacts around water, waste, and carbon emissions for companies in the pharmaceutical, consumer staples and retail industries. 
 Jim holds a BS in Business Management, with a minor in Economics from the Indiana University of Pennsylvania.
 
@@ -155,6 +164,9 @@ Kinnami was founded in 2015 by a team of data management and security experts, a
 </details>
 
 #### **Greg Martin**, Director – Operating Services, Transportation Systems Development [Union Pacific](https://www.up.com)  
+
+> ![Greg Martin](https://bridgingbigdata.github.io/pages/images/gregmartin.jpeg)
+
 Leads and Manages critical application development, integration, implementation, and support processes for various programs including Positive Train Control (PTC), Energy management, Hump/Flat Yard Process Control, and Rail Yard Optimization Solutions. 
 
 <details>
