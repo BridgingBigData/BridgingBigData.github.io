@@ -72,6 +72,28 @@ David has been working for Minnesota DOT since 2004 and has held roles in Bridge
 
 </details>
 
+#### **Jose Julio Cabeza Gonzalez**, Professor, [University of Agder, Norway](https://www.uia.no/en/kk/profile/josejg)  
+
+> ![Dr. Jose Gonzalez](https://bridgingbigdata.github.io/pages/images/josejg.jpeg)
+
+<details>
+<summary>Bio</summary>
+
+Diplom-Physik, 1970, University of Kiel, Germany
+Dr.rer.nat. (PhD in Natural Sciences), 1970, University of Kiel, Germany
+Dr.techn. (PhD in Technology), 1978, NTH (Norwegian Institute of Technology), now NTNU (Norwegian University of Science and Technology)
+Active since 1971 in academia, since 1999 professor at the University of Agder and since 2005 adjunct professor in Gjøvik, now part of NTNU.
+Professor emeritus since 1st March 2019
+Executive Research Advisor for the company Stepchange AS, Kristiansand, Norway
+Currently leading the innovation project Systemic Pandemic Risk Management, funded by the Research Council of Norway with participation from Stepchange AS; Kristiansand municipality; the Hospital of Southern Norway; the Centre for Integrated Emergency Management (CIEM), University of Agder; the Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health (Italy); and the Center for Disaster Medicine and Traumatology (Sweden)
+Awarded the Research Prize from the Agder Academy of Science and Letters in 2012
+Awarded the King's Medal of Merit for my contributions to societal security in 2019
+I gave a talk at TEDs Arendal 2021 with the title "Can technology help against technology?". The talk concerns humankind’s Grand Challenges, major pandemics being among them, and methods that must be developed to deal with systemic complexity. Link to the talk: https://youtu.be/aIqqj5VcCXM 
+
+</details>
+
+Currently leading the innovation project Systemic Pandemic Risk Management, funded by the Research Council of Norway with participation from Stepchange AS; Kristiansand municipality; the Hospital of Southern Norway; the Centre for Integrated Emergency Management (CIEM), University of Agder; the Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health (Italy); and the Center for Disaster Medicine and Traumatology (Sweden)
+
 #### **TBD**, TBD, [Union Pacific](https://www.up.com)  
 <details>
 <summary>Bio</summary>
@@ -119,7 +141,7 @@ Coming Soon!
 
 </details>
 
-#### Greg Martin, Director – Operating Services, Transportation Systems Development [Union Pacific](https://www.up.com)  
+#### **Greg Martin**, Director – Operating Services, Transportation Systems Development [Union Pacific](https://www.up.com)  
 Leads and Manages critical application development, integration, implementation, and support processes for various programs including Positive Train Control (PTC), Energy management, Hump/Flat Yard Process Control, and Rail Yard Optimization Solutions. 
 
 <details>
@@ -137,5 +159,5 @@ Coming Soon!
 
 </details>
 
-## Closing Thoughts
+## Closing Remarks
 2:50 - 3:00 p.m CT (10 mins)   
