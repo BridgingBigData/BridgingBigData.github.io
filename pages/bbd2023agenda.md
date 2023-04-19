@@ -124,7 +124,10 @@ Coming Soon!
 2:00 - 2:45 p.m CT (50 mins)  
 ### **Panelists**  
 ####  **Joshua Church**, Computer Scientist,  [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
-Conducts research to develop new computer technologies in order to solve problems for the war fighter.
+
+> ![Joshua Church](https://bridgingbigdata.github.io/pages/images/joshuachurch.jpg)
+
+As the OPM Code 4 Supervisor, Computational Analysis Branch (CAB), ERDC, he conducts research to develop new computer technologies in order to solve problems for the war fighter.
 
 <details>
 <summary>Bio</summary>
@@ -134,10 +137,20 @@ Coming Soon!
 </details>
 
 ####  **James Burke**, Business Development Director, [Kinnami Software Corporation](https://www.kinnami.com)
+> ![Jim Burke](https://bridgingbigdata.github.io/pages/images/jamesburke.jpg)
+
 <details>
 <summary>Bio</summary>
 
-Coming Soon!
+Jim is the Director of Business Development for Kinnami Software Corporation, a startup company focused on providing security, protection and availability for data in complex distributed environments. He joined the company in early 2019 to help bring Kinnami’s technology to market. Kinnami is currently engaged in multiple projects with the DoD addressing data management and autonomy problems encountered at the computing edge.
+Jim is passionate about growing companies and building solutions that address complex problems empowering customers to meet their technology challenges. A technology startup veteran, prior to Kinnami Jim worked with Ecodesk, a UK-based sustainable business platform, providing supplier data collection and analysis to reduce enterprise impacts around water, waste, and carbon emissions for companies in the pharmaceutical, consumer staples and retail industries. 
+Jim holds a BS in Business Management, with a minor in Economics from the Indiana University of Pennsylvania.
+
+**About Kinnami**  
+Kinnami provides a resilient data fabric simplifying data availability, protection, and security for complex distributed networks essential to making our connected future possible and an autonomous future a reality. Our easy-to-manage enterprise-class software enables a unified data environment for trust, transparency and newfound collaboration—from Edge devices to Cloud. Customers achieve the irrefutable data integrity essential to distributed environments—including unsecured or free-standing networks and autonomous operations.
+
+Kinnami was founded in 2015 by a team of data management and security experts, and has offices in Boston, Washington, and Austin, TX.
+
 
 </details>
 
