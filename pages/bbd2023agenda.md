@@ -108,14 +108,6 @@ Coming Soon!
 
 </details>
 
-#### **TBD**, TBD, [Valmont Industries](https://www.valmont.com)  
-<details>
-<summary>Bio</summary>
-
-Coming Soon!
-
-</details>
-
 
 ## Lunch Break
 11:30 - 12:45 p.m CT (75 mins)  
@@ -174,7 +166,7 @@ Coming Soon!
 
 </details>
 
-#### **TBD**, TBD, [Werner Enterprise](https://www.werner.com)  
+#### **TBD**, TBD, [Valmont Industries](https://www.valmont.com)  
 <details>
 <summary>Bio</summary>
 
