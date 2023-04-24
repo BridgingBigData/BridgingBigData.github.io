@@ -129,11 +129,9 @@ Coming Soon!
 ## Panel 2: Autonomy at the Edge: Needs and Emerging Solutions
 1:30 - 2:45 p.m CT (75 mins)  
 ### **Panelists**  
-####  **Joshua Church**, Computer Scientist,  [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
+####  **Joshua Church**, Chief, Scientific Software Branch, [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
 
 > ![Joshua Church](https://bridgingbigdata.github.io/pages/images/joshuachurch.jpg)
-
-As the OPM Code 4 Supervisor, Computational Analysis Branch (CAB), ERDC, he conducts research to develop new computer technologies in order to solve problems for the war fighter.
 
 <details>
 <summary>more</summary>
