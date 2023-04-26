@@ -66,17 +66,6 @@ Dr. Whitlow is an active member of the NATO Team of Experts on Military Bridge A
 
 </details>
 
-#### **David Hedeen, PE**, Asset Management Engineer, [Minnesota Department of Transportation Bridge Office](https://www.dot.state.mn.us/bridge/) 
-
-David has been working for Minnesota DOT since 2004 and has held roles in Bridge Construction, Bridge Inspection and Bridge Management.
-
-<details>
-<summary>more</summary>
-
-David has Bachelor’s degree in Civil Engineering and a Master’s degree in Software Engineering. David is particularly enthusiastic about leveraging bridge data to aid in decision making. David has helped champion several current Minnesota DOT research efforts, including: “Develop Element Level Bridge Performance Measures and Targets”, “Understanding Driving Causes of Bridge Replacement” and “Quantifying Benefits of Bridge Maintenance”.
-
-</details>
-
 #### **Jose Julio Cabeza Gonzalez**, Professor, [University of Agder, Norway](https://www.uia.no/en/kk/profile/josejg)  
 
 > ![Dr. Jose Gonzalez](https://bridgingbigdata.github.io/pages/images/josejg.jpeg)
@@ -98,7 +87,16 @@ I gave a talk at TEDs Arendal 2021 with the title "Can technology help against t
 
 </details>
 
+#### **Tom Kirkland**, Smart Infrastructure Solutions Architect, [Valmont Industries](https://www.valmont.com)  
 
+Smart Infrastructure Solutions Architect focused on Intelligent Transportation, Smart Cities, Utilities, Public Safety, and Emerging Markets in 5G Telecommunications
+
+<details>
+<summary>more</summary>
+
+Coming soon!
+
+</details>
 
 #### **TBD**, TBD, [Union Pacific](https://www.up.com)  
 <details>
