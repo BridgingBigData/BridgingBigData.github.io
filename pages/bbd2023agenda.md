@@ -54,7 +54,7 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 
 > ![Dr. Danielle Whitlow](https://bridgingbigdata.github.io/pages/images/whitlow.png)   
 
-Dr. Whitlow is a recognized expert in the international community in non-traditional bridge assessment techniques.
+> Dr. Whitlow is a recognized expert in the international community in non-traditional bridge assessment techniques.
 
 <details>
 <summary>more</summary>
@@ -70,7 +70,7 @@ Dr. Whitlow is an active member of the NATO Team of Experts on Military Bridge A
 
 > ![Dr. Jose Gonzalez](https://bridgingbigdata.github.io/pages/images/josejg.jpeg)
 
-Currently leading the innovation project Systemic Pandemic Risk Management, funded by the Research Council of Norway with participation from Stepchange AS; Kristiansand municipality; the Hospital of Southern Norway; the Centre for Integrated Emergency Management (CIEM), University of Agder; the Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health (Italy); and the Center for Disaster Medicine and Traumatology (Sweden)
+> Currently leading the innovation project Systemic Pandemic Risk Management, funded by the Research Council of Norway with participation from Stepchange AS; Kristiansand municipality; the Hospital of Southern Norway; the Centre for Integrated Emergency Management (CIEM), University of Agder; the Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health (Italy); and the Center for Disaster Medicine and Traumatology (Sweden)
 
 <details>
 <summary>more</summary>
@@ -89,12 +89,14 @@ I gave a talk at TEDs Arendal 2021 with the title "Can technology help against t
 
 #### **Tom Kirkland**, Smart Infrastructure Solutions Architect, [Valmont Industries](https://www.valmont.com)  
 
-Tom supports smart infrastructure initiatives providing design and advisory services, incorporating a global professional network of industry experts in technology, urban planning, and public private partnerships.
+> ![Tom Krikland](https://bridgingbigdata.github.io/pages/images/tomkirkland.jpeg)
+
+> Tom supports smart infrastructure initiatives providing design and advisory services, incorporating a global professional network of industry experts in technology, urban planning, and public private partnerships.
 
 <details>
 <summary>more</summary>
 
-Tom Kirkland is a smart and connected systems enthusiast with over 30 years of experience. Trained as an electrical engineer experienced in telecommunications, utilities, and smart infrastructure technology solutions. Tom has worked as founder and manager of ELAN Technologies, a Systems Engineer and Project Manager at Jacobs Engineering, a Smart City Expert Consultant at IFC-World Bank Group, and currently a Smart Infrastructure Solutions Architect at Valmont Industries.
+> Tom Kirkland is a smart and connected systems enthusiast with over 30 years of experience. Trained as an electrical engineer experienced in telecommunications, utilities, and smart infrastructure technology solutions. Tom has worked as founder and manager of ELAN Technologies, a Systems Engineer and Project Manager at Jacobs Engineering, a Smart City Expert Consultant at IFC-World Bank Group, and currently a Smart Infrastructure Solutions Architect at Valmont Industries.
 </details>
 
 #### **TBD**, TBD, [Union Pacific](https://www.up.com)  
@@ -132,20 +134,20 @@ Coming Soon!
 ####  **James Burke**, Business Development Director, [Kinnami Software Corporation](https://www.kinnami.com)
 > ![Jim Burke](https://bridgingbigdata.github.io/pages/images/jamesburke.jpg)
 
-Jim is the Director of Business Development for Kinnami Software Corporation, a startup company focused on providing security, protection and availability for data in complex distributed environments.
+> Jim is the Director of Business Development for Kinnami Software Corporation, a startup company focused on providing security, protection and availability for data in complex distributed environments.
 
 <details>
 <summary>more</summary>
 
-He joined the company in early 2019 to help bring Kinnami’s technology to market. Kinnami is currently engaged in multiple projects with the DoD addressing data management and autonomy problems encountered at the computing edge.
+> He joined the company in early 2019 to help bring Kinnami’s technology to market. Kinnami is currently engaged in multiple projects with the DoD addressing data management and autonomy problems encountered at the computing edge.
 
-Jim is passionate about growing companies and building solutions that address complex problems empowering customers to meet their technology challenges. A technology startup veteran, prior to Kinnami Jim worked with Ecodesk, a UK-based sustainable business platform, providing supplier data collection and analysis to reduce enterprise impacts around water, waste, and carbon emissions for companies in the pharmaceutical, consumer staples and retail industries. 
+> Jim is passionate about growing companies and building solutions that address complex problems empowering customers to meet their technology challenges. A technology startup veteran, prior to Kinnami Jim worked with Ecodesk, a UK-based sustainable business platform, providing supplier data collection and analysis to reduce enterprise impacts around water, waste, and carbon emissions for companies in the pharmaceutical, consumer staples and retail industries. 
 Jim holds a BS in Business Management, with a minor in Economics from the Indiana University of Pennsylvania.
 
 **About Kinnami**  
-Kinnami provides a resilient data fabric simplifying data availability, protection, and security for complex distributed networks essential to making our connected future possible and an autonomous future a reality. Our easy-to-manage enterprise-class software enables a unified data environment for trust, transparency and newfound collaboration—from Edge devices to Cloud. Customers achieve the irrefutable data integrity essential to distributed environments—including unsecured or free-standing networks and autonomous operations.
+> Kinnami provides a resilient data fabric simplifying data availability, protection, and security for complex distributed networks essential to making our connected future possible and an autonomous future a reality. Our easy-to-manage enterprise-class software enables a unified data environment for trust, transparency and newfound collaboration—from Edge devices to Cloud. Customers achieve the irrefutable data integrity essential to distributed environments—including unsecured or free-standing networks and autonomous operations.
 
-Kinnami was founded in 2015 by a team of data management and security experts, and has offices in Boston, Washington, and Austin, TX.
+> Kinnami was founded in 2015 by a team of data management and security experts, and has offices in Boston, Washington, and Austin, TX.
 
 
 </details>
@@ -154,7 +156,7 @@ Kinnami was founded in 2015 by a team of data management and security experts, a
 
 > ![Greg Martin](https://bridgingbigdata.github.io/pages/images/gregmartin.jpeg)
 
-Leads and Manages critical application development, integration, implementation, and support processes for various programs including Positive Train Control (PTC), Energy management, Hump/Flat Yard Process Control, and Rail Yard Optimization Solutions. 
+> Leads and Manages critical application development, integration, implementation, and support processes for various programs including Positive Train Control (PTC), Energy management, Hump/Flat Yard Process Control, and Rail Yard Optimization Solutions. 
 
 <details>
 <summary>more</summary>
