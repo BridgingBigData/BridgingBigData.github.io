@@ -89,13 +89,12 @@ I gave a talk at TEDs Arendal 2021 with the title "Can technology help against t
 
 #### **Tom Kirkland**, Smart Infrastructure Solutions Architect, [Valmont Industries](https://www.valmont.com)  
 
-Smart Infrastructure Solutions Architect focused on Intelligent Transportation, Smart Cities, Utilities, Public Safety, and Emerging Markets in 5G Telecommunications
+Tom supports smart infrastructure initiatives providing design and advisory services, incorporating a global professional network of industry experts in technology, urban planning, and public private partnerships.
 
 <details>
 <summary>more</summary>
 
-Coming soon!
-
+Tom Kirkland is a smart and connected systems enthusiast with over 30 years of experience. Trained as an electrical engineer experienced in telecommunications, utilities, and smart infrastructure technology solutions. Tom has worked as founder and manager of ELAN Technologies, a Systems Engineer and Project Manager at Jacobs Engineering, a Smart City Expert Consultant at IFC-World Bank Group, and currently a Smart Infrastructure Solutions Architect at Valmont Industries.
 </details>
 
 #### **TBD**, TBD, [Union Pacific](https://www.up.com)  
