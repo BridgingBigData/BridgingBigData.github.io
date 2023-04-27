@@ -163,13 +163,5 @@ Coming Soon!
 
 </details>
 
-#### **TBD**, TBD, [Valmont Industries](https://www.valmont.com)  
-<details>
-<summary>Bio</summary>
-
-Coming Soon!
-
-</details>
-
 ## Closing Remarks
 2:45 - 3:00 p.m CT (10 mins)   
