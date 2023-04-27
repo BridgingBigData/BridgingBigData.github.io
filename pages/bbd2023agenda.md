@@ -27,13 +27,11 @@ Friday May 26th, 2020, 8:30 A.M. to 3 P.M. Central Time
 
 ## Keynote 1:  Persistent Engineer Intelligence
 9:15 - 10:00 a.m. CT (45 mins)   
-**Title:**  
-> Abstract
 
 **Dr. Mihan H. McKenna Taylor**, Army Senior Research Scientist, for Near Surface Phenomenology for the U.S. Army Engineer Research and Development Center (ERDC), a group of 7 Research and Development laboratories for the U.S. Army Corps of Engineers (USACE) and the U.S. Army.   
 > ![Dr. Mihan McKenna](https://bridgingbigdata.github.io/pages/images/mihan.jpg)   
 
-Recipient of the 2013 USACE Researcher of the Year award for innovative remote monitoring of structures, Dr. McKenna Taylor specializes in bringing reality to intelligent decision making. She leads multi-disciplinary near-surface phenomenology research to create adaptive, effective, and revolutionary tools and scientific programs to shape future operational environments, including terrain shaping and near-surface persistent surveillance.  
+> Recipient of the 2013 USACE Researcher of the Year award for innovative remote monitoring of structures, Dr. McKenna Taylor specializes in bringing reality to intelligent decision making. She leads multi-disciplinary near-surface phenomenology research to create adaptive, effective, and revolutionary tools and scientific programs to shape future operational environments, including terrain shaping and near-surface persistent surveillance.  
 
 <details>
 <summary> more </summary> 
