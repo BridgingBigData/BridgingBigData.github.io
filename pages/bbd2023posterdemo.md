@@ -19,6 +19,8 @@ Present a 3-minute (hard-stop), one-slide "lightning talk" at the beginning of t
 You can see an the lightning slide deck we used in 2019 here:
 - [Example Lightning Talk Slides](../assets/files/BBD%202019%20Lightning%20Talks.pdf) 
 
+If there are multiple authors on a poster, the person who presents the poster can be different than the person who presents the lightning talk. At this time, we expect that all posters will have an associated lightning talk.
+
 ### 2. Poster/Demonstration
 For the duration of the session, presenters will be at their locations to explain the details of their specialty/research/demonstation to attendees.  
 
