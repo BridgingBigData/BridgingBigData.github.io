@@ -43,10 +43,10 @@ You can see examples of poster presented at previous workshops here:
 - [Example Poster 2](../assets/files/Displacement%20Measurement%20of%20Bridge%20Deformation–Mohamed.pdf)
 - [Example Poster 3](../assets/files/Technology%20Demonstration%20Network%20Overview.pdf)
 
-You are encouraged, but not required, to use a poster template. One such template can be found at the following url: [https://osf.io/6ua4k/](https://osf.io/6ua4k/).
+Students are encouraged to use the templates provided by their respective universities. You can find these guidelines here: [UNO](https://www.unomaha.edu/university-communications/online-brand-guide/index.php) and [UNL](https://ucomm.unl.edu/brand)
 
 
 ### Deadlines
 
 - If you would like us to print your poster for you, then please email them to [Dr. Brian Ricks](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/brian-ricks.php) bricks [at] unomaha.edu or Dr. 
-Yashar Eftekhar Azam saeed.eftekharazam [at] unh.edu by **April 30th, 2023**
+Yashar Eftekhar Azam saeed.eftekharazam [at] unh.edu by **May 5th, 2023**
