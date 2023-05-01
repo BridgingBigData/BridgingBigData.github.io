@@ -150,16 +150,20 @@ Jim holds a BS in Business Management, with a minor in Economics from the Indian
 
 </details>
 
-#### **Greg Martin**, Director – Operating Services, Transportation Systems Development [Union Pacific](https://www.up.com)  
+#### **Greg Martin**, General Director – Train Operating Services, Transportation Systems Development [Union Pacific](https://www.up.com)  
 
 > ![Greg Martin](https://bridgingbigdata.github.io/pages/images/gregmartin.jpeg)
 
-> Leads and Manages critical application development, integration, implementation, and support processes for various programs including Positive Train Control (PTC), Energy management, Hump/Flat Yard Process Control, and Rail Yard Optimization Solutions. 
+> Gregory Martin is General Director at Union Pacific Railroad in the Train Operations organization of the Technology department.  Greg works with Operations to implement locomotive onboard, wayside, communication infrastructure, and the Backoffice systems for “Positive Train Control (PTC)”, per Federal Regulation, that allows for the safe operations of the interoperable rail industry in North America on Union Pacific.  
 
 <details>
 <summary>more</summary>
 
-Coming Soon!
+Additionally, Greg has partnered with Operations to implement Backoffice Energy Management systems to reduce Fuel consumption.  Greg has also partnered with Operations to build automated process control systems that enable rail yard operations to maximize productivity and safety.  Lastly, Greg partners with Operations to support a portfolio of Safety Management Systems for Union Pacific Railroad.  Within these Domains of work, Greg has lead the creation of health and monitoring systems, predictive maintenance, and machine learning models to improve and support these operational systems.
+
+Prior to his career with Union Pacific Railroad, Greg has worked for various software consulting companies and Honeywell Defense Avionics where he designed Application Specific Integrated Circuits for military aircraft.
+
+Greg is a proud alumni of Iowa State University, with a bachelor degree in Electrical Engineering, is married to Michelle Martin and has 3 grown children and 2 grandchildren.  He enjoys his family and traveling.  Greg also enjoys most athletic activates, especially golf.
 
 </details>
 
