@@ -97,14 +97,25 @@ I gave a talk at TEDs Arendal 2021 with the title "Can technology help against t
 > Tom Kirkland is a smart and connected systems enthusiast with over 30 years of experience. Trained as an electrical engineer experienced in telecommunications, utilities, and smart infrastructure technology solutions. Tom has worked as founder and manager of ELAN Technologies, a Systems Engineer and Project Manager at Jacobs Engineering, a Smart City Expert Consultant at IFC-World Bank Group, and currently a Smart Infrastructure Solutions Architect at Valmont Industries.
 </details>
 
-#### **TBD**, TBD, [Union Pacific](https://www.up.com)  
+#### **Arun Kesavan**, Director of Product Management, [Lindsay Corporation](https://www.lindsay.com/usca/en/)  
+
+> ![Arun Kesavan](https://bridgingbigdata.github.io/pages/images/arunk7.jpg)
+
+> Arun has around three decades of progressive experience in engineering, product management and digital transformation with P&L responsibility across industrial, heavy construction and mining OEM business segments. He is currently at Lindsay Corporation as the Director of Product Management, Infrastructure & Connected Solutions,
+responsible for development and management of infrastructure products, industrial IoT technology and connected solutions.
+
 <details>
-<summary>Bio</summary>
+<summary>more</summary>
+Previous Experience 
+ESCO (now WEIR ESCO) – 5 years; Director, Smart Products
+Joy Global (now Komatsu) – 5 years; Global Director, Controls & Automation, Underground Mining Division
+Caterpillar – 15+ years; Various roles (Design Engineer to New Product Development Manager) across 5 different divisions, 4 locations and multiple systems & machine platforms
 
-Coming Soon!
-
+Education
+Bachelors in Mechanical Engineering – Univ. of Madras
+Masters in Mechanical Engineering – Univ. of Utah
+MBA – Univ. of Illinois, Urbana-Champaign
 </details>
-
 
 ## Lunch Break
 11:30 - 12:45 p.m CT (75 mins)  
