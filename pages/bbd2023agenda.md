@@ -13,7 +13,7 @@ description: BBD 2023 Agenda
 After registering, you will receive a confirmation email from Eventbrite containing information about joining the meeting.
 
 ## Date
-Friday May 26th, 2020, 8:30 A.M. to 3 P.M. Central Time
+Friday May 26th, 2023, 8:30 A.M. to 3 P.M. Central Time
 
 
 ## Agenda (Tentative)
