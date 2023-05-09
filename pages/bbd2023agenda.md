@@ -106,15 +106,12 @@ responsible for development and management of infrastructure products, industria
 
 <details>
 <summary>more</summary>
-Previous Experience 
-ESCO (now WEIR ESCO) – 5 years; Director, Smart Products
-Joy Global (now Komatsu) – 5 years; Global Director, Controls & Automation, Underground Mining Division
-Caterpillar – 15+ years; Various roles (Design Engineer to New Product Development Manager) across 5 different divisions, 4 locations and multiple systems & machine platforms
+He was previously the Director of Smart Products for ESCO (now WEIR ESCO) for five years and before that the Global Director for Controls & Automation, Underground Mining Division for Joy Global (now Komatsu). He also spent 15+ years at Caterpillar in various roles (Design Engineer to New Product Development Manager) across 5 different divisions, 4 locations and multiple systems & machine platforms
 
-Education
-Bachelors in Mechanical Engineering – Univ. of Madras
-Masters in Mechanical Engineering – Univ. of Utah
-MBA – Univ. of Illinois, Urbana-Champaign
+Education   
+Bachelors in Mechanical Engineering – Univ. of Madras  
+Masters in Mechanical Engineering – Univ. of Utah  
+MBA – Univ. of Illinois, Urbana-Champaign  
 </details>
 
 ## Lunch Break
