@@ -123,9 +123,16 @@ Education: Bachelors in Mechanical Engineering – Univ. of Madras; Masters in M
 ## Panel 2: Autonomy at the Edge: Needs and Emerging Solutions
 1:30 - 2:45 p.m CT (75 mins)  
 ### **Panelists**  
-####  **Joshua Church**, Chief, Scientific Software Branch, [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
+####  **Chuck Ellison**, Research Mechanical Engineer, [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
 
-> ![Joshua Church](https://bridgingbigdata.github.io/pages/images/joshuachurch.jpg)
+<details>
+<summary>more</summary>
+
+Coming Soon!
+
+</details>
+
+####  **Anton Netchaev**, Senior Researcher, [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
 
 <details>
 <summary>more</summary>
