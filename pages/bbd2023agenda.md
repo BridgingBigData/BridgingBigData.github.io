@@ -134,10 +134,16 @@ Coming Soon!
 
 ####  **Anton Netchaev**, Senior Researcher, [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
 
+> ![Anton Netchaev](https://bridgingbigdata.github.io/pages/images/netchaev.jpg)
+
+> Dr. Anton Netchaev is a Senior Research Scientist in Information Technology Lab (ITL) at the U.S. Army Engineer Research & Development Center (ERDC) in Vicksburg, Mississippi. He specializes in the fields of autonomous ground robotics, intelligent sensing, and microelectronics, with an extensive background in electrical and computer engineering. His work supports the planning and execution of ERDC’s Army Military Engineering Research & Development (ME R&D), Installations and Operational Environments (IOE) R&D, and USACE Civil Works basic, applied and advanced technology S&T programs (6.1-6.3) as well as other reimbursable mission support from the DoD and other agencies.
+
 <details>
 <summary>more</summary>
 
-Coming Soon!
+Dr. Netchaev has thirteen years of experience as a lead researcher and principal investigator (PI), leading a wide array of multidisciplinary projects. He provides technical leadership to a large team of engineers, scientists, and technicians, leveraging his expertise in developing robust sensing and computing systems to support cross-domain maneuver, movement, and sustainment in GPS-denied environments. Within his work, Anton is developing autonomous and beyond visual line of sight (BVLOS) robotic systems to augment Engineer Soldier, assist in the collection of data in inaccessible environments, and inspect and repair our Nations infrastructure. His many collaborations across government, industry, and academia ensure that USACE maintains leading expertise in robotic and autonomous systems (RAS) R&D.
+
+Dr. Anton Netchaev has received his doctorate degree in Computational Science in 2015 from the University of Southern Mississippi. He also holds a Masters degree in Electrical Engineering and a Bachelors degree in Computer Engineering. During his studies, Anton developed novel sensing approaches that were trasitioned to multiple agencies such as NASA, NIH, and ONR. Dr. Netchaev currently also serves as an Adjunct Professor at Mississippi State University, teaching applied artificial intelligence courses.
 
 </details>
 
