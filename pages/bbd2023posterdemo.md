@@ -35,6 +35,7 @@ For the duration of the session, presenters will be at their locations to explai
 - Author(s) name(s), institution(s) and funding source(s) should appear on the poster.
 - The title should be properly capitalized with a minimum font size of 80 points.
 - The text should be written with a minimum font size of 18 points.
+- Please submit both pptx and pdf versions.
 
 
 
