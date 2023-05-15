@@ -43,6 +43,9 @@ For the duration of the session, presenters will be at their locations to explai
 - The title should be properly capitalized with a minimum font size of 80 points.
 - The text should be written with a minimum font size of 18 points.
 - Please submit both pptx and pdf versions.
+- Each poster needs to have the following text:
+
+This research is partially supported by NSF Award Number:1762034, Spokes: MEDIUM: MIDWEST: Smart big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI) as well as US Army Crops of Engineers, Engineering Research and Development Center grants W912HZ21C0060 – Multilevel Analytics and Data Sharing for OPerations Planning (MADS-OPP) and W912HZ23C0005 – SMART Analytics for Critical
 
 
 
