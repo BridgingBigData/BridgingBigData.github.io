@@ -117,6 +117,22 @@ Education: Bachelors in Mechanical Engineering – Univ. of Madras; Masters in M
 ## Emerging Solutions: Lightning Talks, Posters and Demonstrations
 12:00 to 1:15 p.m. CT (75 mins)   
 
+|Presenter | Topic| 
+|---|---|
+|Muthiah|National Infrastructure Analytics Portal – Breaking Down Silos|
+|El-Nimri|Structural Health Monitoring and Damage Detection-Prediction of Truss Bridges Using Artificial Neural Networks and Transfer Learning|
+|Nasimi|Non-contact Bridge Response Measurement: Monitoring Nebraska’s Closed County Bridges  |
+|Gadiraju|Deep Reinforcement Learning based Approaches|
+|Masanes|An Output-Only Bayesian State Estimator for Partially Observed Structural Systems|
+|Wissing|Progress in a New Visualization Strategy for ML Models|
+|Farjad|Securing Machine Learning at the Edge for Autonomous Structural Health Monitoring (SHM)|
+|Singh|Building Explainable Machine Learning Lifecycle: Model Training, selection, and deployment with Explainability|
+|Nethakani|Bridging Big Data Convoys|
+|Kale|How to Select Simple-Yet-Accurate Model for Bridge Maintenance|
+|Lacy|Efficient Convoy Routing and Bridge Load Optimization User Interface|
+
+
+
 ## Break
 1:15 – 1:30 p.m. CT (15 mins)    
 
