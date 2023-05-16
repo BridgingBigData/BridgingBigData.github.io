@@ -123,12 +123,16 @@ Education: Bachelors in Mechanical Engineering – Univ. of Madras; Masters in M
 ## Panel 2: Autonomy at the Edge: Needs and Emerging Solutions
 1:30 - 2:45 p.m CT (75 mins)  
 ### **Panelists**  
-####  **Chuck Ellison**, Research Mechanical Engineer, [U.S. Army Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil)
+####  **Carrick Detweiler**, Susan J. Rosowski Professor, [University of Nebraska-Lincoln, Computer Science and Engineering](https://cse.unl.edu/~carrick/)
+
+> ![Carrick Detweiler](https://bridgingbigdata.github.io/pages/images/carrick4.jpg)
+
+> Dr. Carrick Detweiler is the Susan J. Rosowski Associate Professor in the Computer Science and Engineering department at the University of Nebraska-Lincoln. He co-directs and co-founded the Nebraska Intelligent MoBile Unmanned Systems (NIMBUS) Lab at UNL and also co-founded the company Drone Amplified, which sells drone-based fire ignition systems that are used for land management and backburns on wildfires. His research focuses on improving the robustness and safety of aerial robots and sensor systems operating in the wild.
 
 <details>
 <summary>more</summary>
 
-Coming Soon!
+Carrick obtained his B.A. in 2004 from Middlebury College and his Ph.D. in 2010 from MIT CSAIL. He is a Faculty Fellow at the Robert B. Daugherty Water for Food Institute and at the Public Policy Center at UNL and is a Senior Member of the National Academy of Inventors. He is currently leading NSF, USDA, and DoD projects focused on developing the systems and software to enable interactions of UAVs with water, fire, and crops.
 
 </details>
 
