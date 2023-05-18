@@ -16,7 +16,7 @@ After registering, you will receive a confirmation email from Eventbrite contain
 Friday May 26th, 2023, 8:30 A.M. to 3 P.M. Central Time
 
 
-## Agenda (Tentative)
+## Agenda
 
 **Breakfast and Registration**  
 8:30 - 9:00 a.m. CT (30 mins)  
@@ -143,7 +143,6 @@ Education: Bachelors in Mechanical Engineering – Univ. of Madras; Masters in M
 |Nethakani|Bridging Big Data Convoys|
 |Kale|How to Select Simple-Yet-Accurate Model for Bridge Maintenance|
 |Lacy|Efficient Convoy Routing and Bridge Load Optimization User Interface|
-
 
 
 ## Break
