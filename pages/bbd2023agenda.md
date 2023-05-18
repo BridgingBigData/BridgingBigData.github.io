@@ -85,6 +85,19 @@ I gave a talk at TEDs Arendal 2021 with the title "Can technology help against t
 
 </details>
 
+#### **Russell Rohlfs**, Vice President Engineering [Union Pacific](https://www.up.com)  
+
+> ![Russell Rohlfs](https://bridgingbigdata.github.io/pages/images/rrohlfs.jpg)
+
+> Russell Rohlfs is the Vice President of Union Pacific’s Engineering Department. In his role, Rohlfs is responsible for leading the design, construction and maintenance of all tracks, structures, and signal systems across UP’s 35k+ mile network. Prior to his current position, Russell led UP’s Northern Region Engineering Team, overseeing track maintenance and renewal across 22k track miles.    
+
+<details>
+<summary>more</summary>
+
+Russell started his railroad career with Union Pacific in 2002, holding a number of Engineering positions systemwide. He graduated from the University of Nebraska at Omaha with a bachelor of science in Marketing. Russell and his wife, Maureen, reside in Omaha with their two young children.
+
+</details>
+
 #### **Tom Kirkland**, Smart Infrastructure Solutions Architect, [Valmont Industries](https://www.valmont.com)  
 
 > ![Tom Krikland](https://bridgingbigdata.github.io/pages/images/tomkirkland.jpeg)
