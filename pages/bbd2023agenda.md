@@ -16,7 +16,7 @@ After registering, you will receive a confirmation email from Eventbrite contain
 Friday May 26th, 2023, 8:30 A.M. to 3 P.M. Central Time
 
 
-## Agenda (Tentative)
+## Agenda
 
 **Breakfast and Registration**  
 8:30 - 9:00 a.m. CT (30 mins)  
@@ -85,6 +85,19 @@ I gave a talk at TEDs Arendal 2021 with the title "Can technology help against t
 
 </details>
 
+#### **Russell Rohlfs**, Vice President Engineering [Union Pacific](https://www.up.com)  
+
+> ![Russell Rohlfs](https://bridgingbigdata.github.io/pages/images/rrohlfs.jpg)
+
+> Russell Rohlfs is the Vice President of Union Pacific’s Engineering Department. In his role, Rohlfs is responsible for leading the design, construction and maintenance of all tracks, structures, and signal systems across UP’s 35k+ mile network. Prior to his current position, Russell led UP’s Northern Region Engineering Team, overseeing track maintenance and renewal across 22k track miles.    
+
+<details>
+<summary>more</summary>
+
+Russell started his railroad career with Union Pacific in 2002, holding a number of Engineering positions systemwide. He graduated from the University of Nebraska at Omaha with a bachelor of science in Marketing. Russell and his wife, Maureen, reside in Omaha with their two young children.
+
+</details>
+
 #### **Tom Kirkland**, Smart Infrastructure Solutions Architect, [Valmont Industries](https://www.valmont.com)  
 
 > ![Tom Krikland](https://bridgingbigdata.github.io/pages/images/tomkirkland.jpeg)
@@ -130,7 +143,6 @@ Education: Bachelors in Mechanical Engineering – Univ. of Madras; Masters in M
 |Nethakani|Bridging Big Data Convoys|
 |Kale|How to Select Simple-Yet-Accurate Model for Bridge Maintenance|
 |Lacy|Efficient Convoy Routing and Bridge Load Optimization User Interface|
-
 
 
 ## Break
