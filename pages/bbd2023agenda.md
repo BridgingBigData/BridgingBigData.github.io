@@ -41,6 +41,8 @@ Prior to joining ERDC in 2005, and while pursuing her Ph.D, Dr. McKenna Taylor t
 
 </details>
 
+**Abstract**: Engineer Intelligence is engineering information which has been evaluated as to its accuracy and reliability and accepted as fact, related to specific activities, and used to plan operations or construction activities. Though generally understood to be discrete analyses tied to a specific time and place, in reality, the status of the physical environment is under constant flux to due to human activity and the effects of weather and other natural disasters. This constant flow of changes drives the requirement for engineer intelligence to be continually updated and reassessed and necessitates rephrasing this concept to Persistent Engineer Intelligence. As such, Engineer Intelligence Systems become the combination of environmental data sets, analyzed information, assessments, planning tools, and programs, all of which is used to support the breadth of engineer operations. Many activities in the civilian realm have equivalents to military tasks and the era of real-time data from smart infrastructure positions the civilian infrastructure owner at the forefront of implementation of persistent engineer intelligence for civilian infrastructure systems. This presentation will explain the history of the Army Engineer, the concept of Persistent Engineer Intelligence, analogues between civilian and military roles, and the critical role that Big Data will play in all future engineer tasks.  
+
 ## Break  
 10:00 – 10:15 a.m. CT (15 mins)        
 
@@ -168,14 +170,7 @@ Carrick obtained his B.A. in 2004 from Middlebury College and his Ph.D. in 2010 
 
 > ![David Schweitzer](https://bridgingbigdata.github.io/pages/images/schweitzer.jpeg)
 
-> Dr. David Schweitzer is a Research Mathematician with the USACE ERDC. 
-
-<details>
-<summary>more</summary>
-
-Coming soon
-
-</details>
+> Dr. David Schweitzer is a research mathematician at ERDC-ITL and the lead of the Cybersecurity Engineering Analysis Branch’s Research & Development Team. His research focuses on improving cybersecurity and resiliency for operational technology and infrastructure networks, predominantly in virtualization and analytics based efforts. 
 
 ####  **James Burke**, Business Development Director, [Kinnami Software Corporation](https://www.kinnami.com)
 > ![Jim Burke](https://bridgingbigdata.github.io/pages/images/jamesburke.jpg)
