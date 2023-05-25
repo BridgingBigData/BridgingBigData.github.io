@@ -134,17 +134,22 @@ Education: Bachelors in Mechanical Engineering – Univ. of Madras; Masters in M
 
 |Presenter | Topic| 
 |---|---|
-|Muthiah|National Infrastructure Analytics Portal – Breaking Down Silos|
+|Duran|Bridging the Gap with Machine Learning Techniques: Structural Damage Detection Framework in Bridges|
 |El-Nimri|Structural Health Monitoring and Damage Detection-Prediction of Truss Bridges Using Artificial Neural Networks and Transfer Learning|
-|Nasimi|Non-contact Bridge Response Measurement: Monitoring Nebraska’s Closed County Bridges  |
-|Gadiraju|Deep Reinforcement Learning based Approaches|
-|Masanes|An Output-Only Bayesian State Estimator for Partially Observed Structural Systems|
-|Wissing|Progress in a New Visualization Strategy for ML Models|
 |Farjad|Securing Machine Learning at the Edge for Autonomous Structural Health Monitoring (SHM)|
-|Singh|Building Explainable Machine Learning Lifecycle: Model Training, selection, and deployment with Explainability|
-|Nethakani|Bridging Big Data Convoys|
+|Gadiraju|Deep Reinforcement Learning based Approaches|
+|Heller|Developing Architecture for a Routing System using Bridge Data and Adversary Avoidance|
+|Islam|Preserving and Enhancing Data Integrity for Edge Sensors|
 |Kale|How to Select Simple-Yet-Accurate Model for Bridge Maintenance|
 |Lacy|Efficient Convoy Routing and Bridge Load Optimization User Interface|
+|Lee| Transverse Crack Strain Analysis using U-Net on Concrete Bridge Datatset and Deep Learning Vision-Assistive Steel Bridge Inspection using Unmanned Aerial Vehicles|
+|Masanes|An Output-Only Bayesian State Estimator for Partially Observed Structural Systems|
+|Mishra|CEAIC: Cloud-Edge Adaptive Intelligence For Concrete Crack Detection and Quantification|
+|Muthiah|National Infrastructure Analytics Portal – Breaking Down Silos|
+|Nasimi|Non-contact Bridge Response Measurement: Monitoring Nebraska’s Closed County Bridges  |
+|Nethakani|Bridging Big Data Convoys|
+|Singh|Building Explainable Machine Learning Lifecycle: Model Training, selection, and deployment with Explainability|
+|Wissing|Progress in a New Visualization Strategy for ML Models|
 
 
 ## Break
