@@ -10,9 +10,6 @@ description: BBD 2023 Agenda
 **Date:** Friday, May 26th, 2023, 8:30 AM to 3 PM CT  
 **Location:** [Nebraska East Union, 1705 Arbor Dr, Lincoln, NE 68503](https://goo.gl/maps/wzDKyrJDrwcrgecq7)  
 **Room:** Great Plains Room C  
-**Theme:** Intelligent Infrastructure Health Monitoring at the Edge: Lessons Learned and Future Directions  
-**Eventbrite Registration link:** [https://www.eventbrite.com/e/bridging-big-data-2023-workshop-tickets-574837513477](https://www.eventbrite.com/e/bridging-big-data-2023-workshop-tickets-574837513477)  
-**Agenda** [We have an amazing lineup of speakers and panelists](https://bridgingbigdata.github.io/pages/bbd2023agenda.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6037.634504268287!2d-96.66465928728027!3d40.83197756208611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8796bea113b038ed%3A0xc5267ffd804e8c50!2sNebraska%20East%20Union!5e0!3m2!1sen!2sus!4v1678136182958!5m2!1sen!2sus" width="400" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -21,12 +18,7 @@ NSF Award Number:1762034 (Sep 2018 - Aug 2023)
 [Spokes: MEDIUM: MIDWEST: Smart big data pipeline for Aging Rural bridge Transportation Infrastructure (SMARTI)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1762034&HistoricalAwards=false)
 
 # BBD 2023 Agenda  
-
-### Registration
-- Attendance is free, but register in advance for this meeting to help us plan logistics.  
-[Eventbrite Registration](https://www.eventbrite.com/e/bridging-big-data-2023-workshop-tickets-574837513477)
-
-After registering, you will receive a confirmation email from Eventbrite containing information about joining the meeting.
+**Theme:** Intelligent Infrastructure Health Monitoring at the Edge: Lessons Learned and Future Directions  
 
 ## Date
 Friday May 26th, 2023, 8:30 A.M. to 3 P.M. Central Time
@@ -44,7 +36,7 @@ Friday May 26th, 2023, 8:30 A.M. to 3 P.M. Central Time
 ## Keynote 1:  Persistent Engineer Intelligence
 9:15 - 10:00 a.m. CT (45 mins)   
 
-**Dr. Mihan H. McKenna Taylor**, Army Senior Research Scientist, for Near Surface Phenomenology for the U.S. Army Engineer Research and Development Center (ERDC), a group of 7 Research and Development laboratories for the U.S. Army Corps of Engineers (USACE) and the U.S. Army.   
+**Dr. Mihan H. McKenna Taylor**, Army ST for Near Surface Phenomenology for the U.S. Army Engineer Research and Development Center (ERDC), a group of 7 Research and Development laboratories for the U.S. Army Corps of Engineers (USACE) and the U.S. Army.   
 > ![Dr. Mihan McKenna](https://bridgingbigdata.github.io/pages/images/mihan.jpg)   
 
 > Recipient of the 2013 USACE Researcher of the Year award for innovative remote monitoring of structures, Dr. McKenna Taylor specializes in bringing reality to intelligent decision making. She leads multi-disciplinary near-surface phenomenology research to create adaptive, effective, and revolutionary tools and scientific programs to shape future operational environments, including terrain shaping and near-surface persistent surveillance.  
