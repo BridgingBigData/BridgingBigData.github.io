@@ -7,7 +7,7 @@ description: Bridging Big Data Project site
 ## News and Events
 
 ### Bridging Big Data Workshop, Friday, May 26th, 2023
-We are excited to announce the next BBD workshop at the Nebraska East Union. More details about BBD 2023 can be found here: [https://bridgingbigdata.github.io/pages/bbd2023.html](https://bridgingbigdata.github.io/pages/bbd2023.html)
+BBD 2023 workshop has now concluded. Details about the workshop can be found here: [https://bridgingbigdata.github.io/pages/bbd2023.html](https://bridgingbigdata.github.io/pages/bbd2023.html). We will be posting the slides from the keynote and lightning talks/posters shortly.
 
 ### Check out these web applications
 - [Bridge attributes that contribute to maintenance events](https://repairs.ricks.io)
