@@ -140,24 +140,8 @@ Education: Bachelors in Mechanical Engineering – Univ. of Madras; Masters in M
 ## Emerging Solutions: Lightning Talks, Posters and Demonstrations
 12:00 to 1:15 p.m. CT (75 mins)   
 
-|Presenter | Topic| 
-|---|---|
-|Duran|Bridging the Gap with Machine Learning Techniques: Structural Damage Detection Framework in Bridges|
-|El-Nimri|Structural Health Monitoring and Damage Detection-Prediction of Truss Bridges Using Artificial Neural Networks and Transfer Learning|
-|Farjad|Securing Machine Learning at the Edge for Autonomous Structural Health Monitoring (SHM)|
-|Gadiraju|Deep Reinforcement Learning based Approaches|
-|Heller|Developing Architecture for a Routing System using Bridge Data and Adversary Avoidance|
-|Islam|Preserving and Enhancing Data Integrity for Edge Sensors|
-|Kale|How to Select Simple-Yet-Accurate Model for Bridge Maintenance|
-|Lacy|Efficient Convoy Routing and Bridge Load Optimization User Interface|
-|Lee| Transverse Crack Strain Analysis using U-Net on Concrete Bridge Datatset and Deep Learning Vision-Assistive Steel Bridge Inspection using Unmanned Aerial Vehicles|
-|Masanes|An Output-Only Bayesian State Estimator for Partially Observed Structural Systems|
-|Mishra|CEAIC: Cloud-Edge Adaptive Intelligence For Concrete Crack Detection and Quantification|
-|Muthiah|National Infrastructure Analytics Portal – Breaking Down Silos|
-|Nasimi|Non-contact Bridge Response Measurement: Monitoring Nebraska’s Closed County Bridges  |
-|Nethakani|Bridging Big Data Convoys|
-|Singh|Building Explainable Machine Learning Lifecycle: Model Training, selection, and deployment with Explainability|
-|Wissing|Progress in a New Visualization Strategy for ML Models|
+- [Final Lightning Talk/Poster Slides](../assets/files/BBD%202023%20Lightning%20Talks%20To%20Share%20(Compressed).pdf) 
+
 
 
 ## Break
